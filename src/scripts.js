@@ -10,8 +10,6 @@ let friendNames = returnFriendListNames();
 let friendSteps = returnFriendListSteps();
 let stepsTrend = (activity.returnThreeDayStepStreak(user.id)[0]);
 
-console.log(stepsTrend)
-
 $('#user-name').text(newUser.returnUserFirstName());
 $('#user-info-name').text(newUser.name);
 $('#user-info-email').text(newUser.email);
@@ -51,7 +49,7 @@ function displaySleepStatus() {
   sleep.checkUserRestedByDate(user.id, currentDate)
   if (sleep.isRested === true) {
     $('#sleep-status').attr('src', '/images/ghost-happy.svg');
-    $('#sleep-comment').text('Great job on sleeping!');
+    $('#sleep-comment').text('You\'ve been getting enough sleep!');
   } else {
     $('#sleep-status').attr('src', '/images/ghost-sad.svg');
     $('#sleep-comment').text('Getting 8 hours of sleep will make you more productive!');
@@ -65,7 +63,7 @@ function displayWaterStatus() {
     $('#water-comment').text('Keep up the good work! You\'ve averaged more than 64 ounces per day this week');
   } else {
     $('#water-status').attr('src', '/images/glass-empty.svg');
-    $('#water-comment').text('Make sure you\'re staying hydrated!');
+    $('#water-comment').text('You need more water. Make sure you\'re staying hydrated!');
   }
 }
 
@@ -369,27 +367,27 @@ var friendStepChallenge = new Chart(ctx, {
 
 var ctx = $('#step-trend');
 var stepTrend = new Chart(ctx, {
-  type: 'bar',
+  type: 'line',
   data: {
     labels: Object.keys(stepsTrend).reverse(),
     datasets: [{
-      label: 'dates',
+      label: 'steps',
       data: Object.values(stepsTrend).reverse(),
       backgroundColor: [
+        'rgb(221, 160, 221, 0.2)',
         'rgba(255, 99, 132, 0.2)',
         'rgba(54, 162, 235, 0.2)',
         'rgba(255, 206, 86, 0.2)',
         'rgba(75, 192, 192, 0.2)',
-        'rgb(221, 160, 221, 0.2)',
         'rgba(255, 159, 64, 0.2)',
         'rgba(192, 192, 192, 0.2)'
       ],
       borderColor: [
+        'rgba(221, 160, 221, 1)',
         'rgba(255, 99, 132, 1)',
         'rgba(54, 162, 235, 1)',
         'rgba(255, 206, 86, 1)',
         'rgba(75, 192, 192, 1)',
-        'rgba(221, 160, 221, 1)',
         'rgba(255, 159, 64, 1)',
         'rgba(192, 192, 192, 1)'
       ],
