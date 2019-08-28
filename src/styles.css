@@ -9,37 +9,42 @@ body {
 }
 
 header {
+  align-items: center;
   background-color: #484e52;
   color: #ffffff;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 10px;
   height: 60px;
+  justify-content: space-between;
   margin-bottom:10px;
+  padding: 0 10px;
+}
+
+header p {
+  color: plum;
+  font-size: 20px;
 }
 
 main {
   break-inside: avoid;
   column-count: 3;
   column-width: 15em; 
-  width: 100%;
   padding: 10px;
+  width: 100%;
 }
 
 container {
+  background-color: #484e52;
+  border-radius: 10px;
+  border: solid 2px #afb9c5;
+  box-shadow: 0 0 5px #666666;
   break-inside: avoid;
   color: #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 20px;
-  background-color: #484e52;
-  box-shadow: 0 0 5px #666666;
-  border: solid 2px #afb9c5;
-  border-radius: 10px;
-  width: 100%;
   margin-bottom: 20px;
+  padding: 20px;
+  width: 100%;
 }
 
 container:hover {
@@ -47,12 +52,25 @@ container:hover {
   transition: 0.4s;
 }
 
+h1 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
 h3 {
-  display: block;
   border-bottom: solid 1px #ffffff;
-  text-align: center;
+  display: block;
+  font-size: 20px;
   margin-bottom:15px;
   padding-bottom: 15px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
 }
 
 #user-admin-info p {
@@ -64,16 +82,29 @@ span {
 }
 
 img {
+  align-self: center;
   height: 150px;
   width: 100px;
-  align-self: center;
+}
+
+.you-vs-world {
+  text-align: center;
+}
+
+.you-vs-world h4 {
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.you-vs-world span {
+  color: plum;
 }
 
 .number,
 #user-water-by-day {
   color: plum;
-  font-weight: bold;
   font-size: 40px;
+  font-weight: bold;
   margin: 3px;
   opacity: 0.8;
 }
@@ -84,7 +115,17 @@ img {
 
 #winner-name {
   color: plum;
+  font-size: 18px;
+  font-weight: bold;
   text-align: center;
+}
+
+#republic-plaza-challenge {
+  color: plum;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 
