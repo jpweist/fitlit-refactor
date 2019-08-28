@@ -11,6 +11,7 @@ let friendSteps = returnFriendListSteps();
 let stepsTrend = (activity.returnThreeDayStepStreak(user.id)[0]);
 
 $('#user-name').text(newUser.returnUserFirstName());
+$('#current-date').text(currentDate);
 $('#user-info-name').text(newUser.name);
 $('#user-info-email').text(newUser.email);
 $('#user-info-address').text(newUser.address);
