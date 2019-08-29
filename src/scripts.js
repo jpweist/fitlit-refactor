@@ -1,14 +1,14 @@
-let userIdNum = generateRandomUserId();
+const userIdNum = generateRandomUserId();
 const currentDate = '2019/06/30';
 const userRepo = new UserRepository(userData);
-let user = userRepo.returnUserData(userIdNum);
-let newUser = new User(user);
-let hydration = new Hydration(hydrationData);
-let sleep = new Sleep(sleepData);
-let activity = new Activity(activityData)
-let friendNames = returnFriendListNames();
-let friendSteps = returnFriendListSteps();
-let stepsTrend = (activity.returnThreeDayStepStreak(user.id)[0]);
+const user = userRepo.returnUserData(userIdNum);
+const newUser = new User(user);
+const hydration = new Hydration(hydrationData);
+const sleep = new Sleep(sleepData);
+const activity = new Activity(activityData)
+const friendNames = returnFriendListNames();
+const friendSteps = returnFriendListSteps();
+const stepsTrend = (activity.returnThreeDayStepStreak(user.id)[0]);
 
 $('#user-name').text(newUser.returnUserFirstName());
 $('#current-date').text(currentDate);
@@ -49,10 +49,10 @@ function generateRandomUserId() {
 function displaySleepStatus() {
   sleep.checkUserRestedByDate(user.id, currentDate)
   if (sleep.isRested === true) {
-    $('#sleep-status').attr('src', '/images/ghost-happy.svg');
+    $('#sleep-status').attr('src', '../images/ghost-happy.svg');
     $('#sleep-comment').text('You\'ve been getting enough sleep!');
   } else {
-    $('#sleep-status').attr('src', '/images/ghost-sad.svg');
+    $('#sleep-status').attr('src', '../images/ghost-sad.svg');
     $('#sleep-comment').text('Getting 8 hours of sleep will make you more productive!');
   }
 }
@@ -60,10 +60,10 @@ function displaySleepStatus() {
 function displayWaterStatus() {
   let checkWater = hydration.returnDidUserDrinkEnoughWater(user.id, currentDate)
   if (checkWater === true) {
-    $('#water-status').attr('src', '/images/glass-full.svg');
+    $('#water-status').attr('src', '../images/glass-full.svg');
     $('#water-comment').text('Keep up the good work! You\'ve averaged more than 64 ounces per day this week');
   } else {
-    $('#water-status').attr('src', '/images/glass-empty.svg');
+    $('#water-status').attr('src', '../images/glass-empty.svg');
     $('#water-comment').text('You need more water. Make sure you\'re staying hydrated!');
   }
 }
