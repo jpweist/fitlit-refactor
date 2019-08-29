@@ -15,6 +15,6 @@ This project focuses on data manipulation through the implementation of object a
 - HTML
 - Mocha and Chai testing suite
 
-## Screenshots!
-
-
+## Screenshots
+![](./fitlit/images/screenshot1.png)
+![](./fitlit/images/screenshot2.png)
