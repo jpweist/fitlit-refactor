@@ -20,8 +20,12 @@ header {
 }
 
 header p {
-  color: plum;
+  color: #ffffff;
   font-size: 20px;
+}
+
+header span {
+  color: plum
 }
 
 main {
