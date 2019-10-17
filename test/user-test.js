@@ -1,7 +1,7 @@
 const chai = require('chai');
 const expect = chai.expect;
 
-const User = require('../src/User');
+import User from '../src/User';
 
 describe('User', function() {
   let user;

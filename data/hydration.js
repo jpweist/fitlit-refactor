@@ -19501,5502 +19501,5505 @@ const hydrationData = [
   },
   {
     "userID": 1,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 46
   },
   {
     "userID": 2,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 74
   },
   {
     "userID": 3,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 65
   },
   {
     "userID": 4,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 71
   },
   {
     "userID": 5,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 50
   },
   {
     "userID": 6,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 21
   },
   {
     "userID": 7,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 80
   },
   {
     "userID": 8,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 26
   },
   {
     "userID": 9,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 45
   },
   {
     "userID": 10,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 92
   },
   {
     "userID": 11,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 73
   },
   {
     "userID": 12,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 86
   },
   {
     "userID": 13,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 46
   },
   {
     "userID": 14,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 69
   },
   {
     "userID": 15,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 97
   },
   {
     "userID": 16,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 21
   },
   {
     "userID": 17,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 79
   },
   {
     "userID": 18,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 42
   },
   {
     "userID": 19,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 33
   },
   {
     "userID": 20,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 31
   },
   {
     "userID": 21,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 89
   },
   {
     "userID": 22,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 77
   },
   {
     "userID": 23,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 86
   },
   {
     "userID": 24,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 98
   },
   {
     "userID": 25,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 25
   },
   {
     "userID": 26,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 88
   },
   {
     "userID": 27,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 84
   },
   {
     "userID": 28,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 90
   },
   {
     "userID": 29,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 27
   },
   {
     "userID": 30,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 90
   },
   {
     "userID": 31,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 60
   },
   {
     "userID": 32,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 91
   },
   {
     "userID": 33,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 37
   },
   {
     "userID": 34,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 38
   },
   {
     "userID": 35,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 44
   },
   {
     "userID": 36,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 61
   },
   {
     "userID": 37,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 83
   },
   {
     "userID": 38,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 36
   },
   {
     "userID": 39,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 54
   },
   {
     "userID": 40,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 38
   },
   {
     "userID": 41,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 23
   },
   {
     "userID": 42,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 24
   },
   {
     "userID": 43,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 51
   },
   {
     "userID": 44,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 21
   },
   {
     "userID": 45,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 72
   },
   {
     "userID": 46,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 86
   },
   {
     "userID": 47,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 71
   },
   {
     "userID": 48,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 60
   },
   {
     "userID": 49,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 76
   },
   {
     "userID": 50,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numOunces": 68
   },
   {
     "userID": 1,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 64
   },
   {
     "userID": 2,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 36
   },
   {
     "userID": 3,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 28
   },
   {
     "userID": 4,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 82
   },
   {
     "userID": 5,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 83
   },
   {
     "userID": 6,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 75
   },
   {
     "userID": 7,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 31
   },
   {
     "userID": 8,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 23
   },
   {
     "userID": 9,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 48
   },
   {
     "userID": 10,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 35
   },
   {
     "userID": 11,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 83
   },
   {
     "userID": 12,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 83
   },
   {
     "userID": 13,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 56
   },
   {
     "userID": 14,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 39
   },
   {
     "userID": 15,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 29
   },
   {
     "userID": 16,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 36
   },
   {
     "userID": 17,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 64
   },
   {
     "userID": 18,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 83
   },
   {
     "userID": 19,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 51
   },
   {
     "userID": 20,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 33
   },
   {
     "userID": 21,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 97
   },
   {
     "userID": 22,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 76
   },
   {
     "userID": 23,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 57
   },
   {
     "userID": 24,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 75
   },
   {
     "userID": 25,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 53
   },
   {
     "userID": 26,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 45
   },
   {
     "userID": 27,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 72
   },
   {
     "userID": 28,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 53
   },
   {
     "userID": 29,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 30
   },
   {
     "userID": 30,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 28
   },
   {
     "userID": 31,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 93
   },
   {
     "userID": 32,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 73
   },
   {
     "userID": 33,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 21
   },
   {
     "userID": 34,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 92
   },
   {
     "userID": 35,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 58
   },
   {
     "userID": 36,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 100
   },
   {
     "userID": 37,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 50
   },
   {
     "userID": 38,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 72
   },
   {
     "userID": 39,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 77
   },
   {
     "userID": 40,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 21
   },
   {
     "userID": 41,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 50
   },
   {
     "userID": 42,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 32
   },
   {
     "userID": 43,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 77
   },
   {
     "userID": 44,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 36
   },
   {
     "userID": 45,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 51
   },
   {
     "userID": 46,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 75
   },
   {
     "userID": 47,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 79
   },
   {
     "userID": 48,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 98
   },
   {
     "userID": 49,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 94
   },
   {
     "userID": 50,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numOunces": 34
   },
   {
     "userID": 1,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 28
   },
   {
     "userID": 2,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 66
   },
   {
     "userID": 3,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 60
   },
   {
     "userID": 4,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 69
   },
   {
     "userID": 5,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 90
   },
   {
     "userID": 6,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 38
   },
   {
     "userID": 7,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 62
   },
   {
     "userID": 8,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 64
   },
   {
     "userID": 9,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 26
   },
   {
     "userID": 10,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 53
   },
   {
     "userID": 11,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 35
   },
   {
     "userID": 12,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 62
   },
   {
     "userID": 13,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 76
   },
   {
     "userID": 14,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 97
   },
   {
     "userID": 15,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 88
   },
   {
     "userID": 16,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 84
   },
   {
     "userID": 17,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 100
   },
   {
     "userID": 18,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 84
   },
   {
     "userID": 19,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 73
   },
   {
     "userID": 20,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 28
   },
   {
     "userID": 21,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 37
   },
   {
     "userID": 22,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 51
   },
   {
     "userID": 23,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 31
   },
   {
     "userID": 24,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 68
   },
   {
     "userID": 25,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 29
   },
   {
     "userID": 26,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 20
   },
   {
     "userID": 27,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 83
   },
   {
     "userID": 28,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 54
   },
   {
     "userID": 29,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 52
   },
   {
     "userID": 30,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 68
   },
   {
     "userID": 31,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 61
   },
   {
     "userID": 32,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 59
   },
   {
     "userID": 33,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 22
   },
   {
     "userID": 34,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 95
   },
   {
     "userID": 35,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 71
   },
   {
     "userID": 36,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 87
   },
   {
     "userID": 37,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 52
   },
   {
     "userID": 38,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 58
   },
   {
     "userID": 39,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 30
   },
   {
     "userID": 40,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 31
   },
   {
     "userID": 41,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 86
   },
   {
     "userID": 42,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 61
   },
   {
     "userID": 43,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 51
   },
   {
     "userID": 44,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 78
   },
   {
     "userID": 45,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 62
   },
   {
     "userID": 46,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 52
   },
   {
     "userID": 47,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 73
   },
   {
     "userID": 48,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 61
   },
   {
     "userID": 49,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 97
   },
   {
     "userID": 50,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numOunces": 29
   },
   {
     "userID": 1,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 69
   },
   {
     "userID": 2,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 83
   },
   {
     "userID": 3,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 73
   },
   {
     "userID": 4,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 49
   },
   {
     "userID": 5,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 51
   },
   {
     "userID": 6,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 34
   },
   {
     "userID": 7,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 36
   },
   {
     "userID": 8,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 55
   },
   {
     "userID": 9,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 59
   },
   {
     "userID": 10,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 85
   },
   {
     "userID": 11,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 61
   },
   {
     "userID": 12,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 30
   },
   {
     "userID": 13,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 43
   },
   {
     "userID": 14,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 92
   },
   {
     "userID": 15,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 30
   },
   {
     "userID": 16,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 25
   },
   {
     "userID": 17,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 52
   },
   {
     "userID": 18,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 100
   },
   {
     "userID": 19,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 93
   },
   {
     "userID": 20,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 89
   },
   {
     "userID": 21,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 71
   },
   {
     "userID": 22,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 66
   },
   {
     "userID": 23,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 38
   },
   {
     "userID": 24,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 45
   },
   {
     "userID": 25,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 72
   },
   {
     "userID": 26,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 48
   },
   {
     "userID": 27,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 39
   },
   {
     "userID": 28,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 85
   },
   {
     "userID": 29,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 68
   },
   {
     "userID": 30,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 82
   },
   {
     "userID": 31,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 52
   },
   {
     "userID": 32,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 86
   },
   {
     "userID": 33,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 56
   },
   {
     "userID": 34,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 55
   },
   {
     "userID": 35,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 28
   },
   {
     "userID": 36,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 52
   },
   {
     "userID": 37,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 36
   },
   {
     "userID": 38,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 94
   },
   {
     "userID": 39,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 54
   },
   {
     "userID": 40,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 44
   },
   {
     "userID": 41,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 82
   },
   {
     "userID": 42,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 55
   },
   {
     "userID": 43,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 55
   },
   {
     "userID": 44,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 51
   },
   {
     "userID": 45,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 32
   },
   {
     "userID": 46,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 66
   },
   {
     "userID": 47,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 41
   },
   {
     "userID": 48,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 48
   },
   {
     "userID": 49,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 35
   },
   {
     "userID": 50,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numOunces": 77
   },
   {
     "userID": 1,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 63
   },
   {
     "userID": 2,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 39
   },
   {
     "userID": 3,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 39
   },
   {
     "userID": 4,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 37
   },
   {
     "userID": 5,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 85
   },
   {
     "userID": 6,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 93
   },
   {
     "userID": 7,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 35
   },
   {
     "userID": 8,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 84
   },
   {
     "userID": 9,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 37
   },
   {
     "userID": 10,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 51
   },
   {
     "userID": 11,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 31
   },
   {
     "userID": 12,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 27
   },
   {
     "userID": 13,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 22
   },
   {
     "userID": 14,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 98
   },
   {
     "userID": 15,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 29
   },
   {
     "userID": 16,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 63
   },
   {
     "userID": 17,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 74
   },
   {
     "userID": 18,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 95
   },
   {
     "userID": 19,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 92
   },
   {
     "userID": 20,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 78
   },
   {
     "userID": 21,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 35
   },
   {
     "userID": 22,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 81
   },
   {
     "userID": 23,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 41
   },
   {
     "userID": 24,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 90
   },
   {
     "userID": 25,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 78
   },
   {
     "userID": 26,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 82
   },
   {
     "userID": 27,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 43
   },
   {
     "userID": 28,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 80
   },
   {
     "userID": 29,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 47
   },
   {
     "userID": 30,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 37
   },
   {
     "userID": 31,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 21
   },
   {
     "userID": 32,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 22
   },
   {
     "userID": 33,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 40
   },
   {
     "userID": 34,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 48
   },
   {
     "userID": 35,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 29
   },
   {
     "userID": 36,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 24
   },
   {
     "userID": 37,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 87
   },
   {
     "userID": 38,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 80
   },
   {
     "userID": 39,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 51
   },
   {
     "userID": 40,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 24
   },
   {
     "userID": 41,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 54
   },
   {
     "userID": 42,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 47
   },
   {
     "userID": 43,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 50
   },
   {
     "userID": 44,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 39
   },
   {
     "userID": 45,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 28
   },
   {
     "userID": 46,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 89
   },
   {
     "userID": 47,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 52
   },
   {
     "userID": 48,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 96
   },
   {
     "userID": 49,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 59
   },
   {
     "userID": 50,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numOunces": 45
   },
   {
     "userID": 1,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 93
   },
   {
     "userID": 2,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 95
   },
   {
     "userID": 3,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 27
   },
   {
     "userID": 4,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 55
   },
   {
     "userID": 5,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 83
   },
   {
     "userID": 6,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 51
   },
   {
     "userID": 7,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 70
   },
   {
     "userID": 8,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 67
   },
   {
     "userID": 9,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 51
   },
   {
     "userID": 10,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 46
   },
   {
     "userID": 11,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 60
   },
   {
     "userID": 12,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 42
   },
   {
     "userID": 13,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 39
   },
   {
     "userID": 14,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 79
   },
   {
     "userID": 15,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 29
   },
   {
     "userID": 16,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 63
   },
   {
     "userID": 17,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 54
   },
   {
     "userID": 18,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 88
   },
   {
     "userID": 19,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 53
   },
   {
     "userID": 20,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 82
   },
   {
     "userID": 21,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 93
   },
   {
     "userID": 22,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 36
   },
   {
     "userID": 23,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 93
   },
   {
     "userID": 24,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 25
   },
   {
     "userID": 25,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 64
   },
   {
     "userID": 26,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 70
   },
   {
     "userID": 27,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 78
   },
   {
     "userID": 28,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 42
   },
   {
     "userID": 29,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 41
   },
   {
     "userID": 30,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 64
   },
   {
     "userID": 31,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 59
   },
   {
     "userID": 32,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 87
   },
   {
     "userID": 33,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 28
   },
   {
     "userID": 34,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 26
   },
   {
     "userID": 35,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 47
   },
   {
     "userID": 36,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 95
   },
   {
     "userID": 37,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 86
   },
   {
     "userID": 38,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 57
   },
   {
     "userID": 39,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 94
   },
   {
     "userID": 40,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 86
   },
   {
     "userID": 41,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 66
   },
   {
     "userID": 42,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 47
   },
   {
     "userID": 43,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 57
   },
   {
     "userID": 44,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 88
   },
   {
     "userID": 45,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 65
   },
   {
     "userID": 46,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 28
   },
   {
     "userID": 47,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 82
   },
   {
     "userID": 48,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 23
   },
   {
     "userID": 49,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 94
   },
   {
     "userID": 50,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numOunces": 21
   },
   {
     "userID": 1,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 47
   },
   {
     "userID": 2,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 84
   },
   {
     "userID": 3,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 47
   },
   {
     "userID": 4,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 54
   },
   {
     "userID": 5,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 93
   },
   {
     "userID": 6,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 38
   },
   {
     "userID": 7,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 96
   },
   {
     "userID": 8,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 77
   },
   {
     "userID": 9,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 88
   },
   {
     "userID": 10,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 100
   },
   {
     "userID": 11,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 29
   },
   {
     "userID": 12,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 28
   },
   {
     "userID": 13,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 67
   },
   {
     "userID": 14,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 41
   },
   {
     "userID": 15,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 55
   },
   {
     "userID": 16,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 46
   },
   {
     "userID": 17,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 61
   },
   {
     "userID": 18,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 34
   },
   {
     "userID": 19,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 62
   },
   {
     "userID": 20,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 75
   },
   {
     "userID": 21,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 67
   },
   {
     "userID": 22,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 45
   },
   {
     "userID": 23,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 45
   },
   {
     "userID": 24,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 63
   },
   {
     "userID": 25,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 62
   },
   {
     "userID": 26,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 85
   },
   {
     "userID": 27,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 81
   },
   {
     "userID": 28,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 92
   },
   {
     "userID": 29,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 73
   },
   {
     "userID": 30,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 73
   },
   {
     "userID": 31,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 64
   },
   {
     "userID": 32,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 55
   },
   {
     "userID": 33,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 77
   },
   {
     "userID": 34,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 87
   },
   {
     "userID": 35,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 52
   },
   {
     "userID": 36,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 56
   },
   {
     "userID": 37,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 79
   },
   {
     "userID": 38,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 91
   },
   {
     "userID": 39,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 99
   },
   {
     "userID": 40,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 95
   },
   {
     "userID": 41,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 47
   },
   {
     "userID": 42,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 26
   },
   {
     "userID": 43,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 77
   },
   {
     "userID": 44,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 65
   },
   {
     "userID": 45,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 82
   },
   {
     "userID": 46,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 93
   },
   {
     "userID": 47,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 49
   },
   {
     "userID": 48,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 74
   },
   {
     "userID": 49,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 51
   },
   {
     "userID": 50,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numOunces": 95
   },
   {
     "userID": 1,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 83
   },
   {
     "userID": 2,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 25
   },
   {
     "userID": 3,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 64
   },
   {
     "userID": 4,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 76
   },
   {
     "userID": 5,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 51
   },
   {
     "userID": 6,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 23
   },
   {
     "userID": 7,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 74
   },
   {
     "userID": 8,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 23
   },
   {
     "userID": 9,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 74
   },
   {
     "userID": 10,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 89
   },
   {
     "userID": 11,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 44
   },
   {
     "userID": 12,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 51
   },
   {
     "userID": 13,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 61
   },
   {
     "userID": 14,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 42
   },
   {
     "userID": 15,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 38
   },
   {
     "userID": 16,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 46
   },
   {
     "userID": 17,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 45
   },
   {
     "userID": 18,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 42
   },
   {
     "userID": 19,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 84
   },
   {
     "userID": 20,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 89
   },
   {
     "userID": 21,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 39
   },
   {
     "userID": 22,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 75
   },
   {
     "userID": 23,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 49
   },
   {
     "userID": 24,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 36
   },
   {
     "userID": 25,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 27
   },
   {
     "userID": 26,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 85
   },
   {
     "userID": 27,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 55
   },
   {
     "userID": 28,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 77
   },
   {
     "userID": 29,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 20
   },
   {
     "userID": 30,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 61
   },
   {
     "userID": 31,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 23
   },
   {
     "userID": 32,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 83
   },
   {
     "userID": 33,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 98
   },
   {
     "userID": 34,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 77
   },
   {
     "userID": 35,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 74
   },
   {
     "userID": 36,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 75
   },
   {
     "userID": 37,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 26
   },
   {
     "userID": 38,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 82
   },
   {
     "userID": 39,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 90
   },
   {
     "userID": 40,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 73
   },
   {
     "userID": 41,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 63
   },
   {
     "userID": 42,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 37
   },
   {
     "userID": 43,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 76
   },
   {
     "userID": 44,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 90
   },
   {
     "userID": 45,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 44
   },
   {
     "userID": 46,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 24
   },
   {
     "userID": 47,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 90
   },
   {
     "userID": 48,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 92
   },
   {
     "userID": 49,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 71
   },
   {
     "userID": 50,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numOunces": 39
   },
   {
     "userID": 1,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 92
   },
   {
     "userID": 2,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 96
   },
   {
     "userID": 3,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 63
   },
   {
     "userID": 4,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 81
   },
   {
     "userID": 5,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 82
   },
   {
     "userID": 6,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 64
   },
   {
     "userID": 7,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 74
   },
   {
     "userID": 8,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 97
   },
   {
     "userID": 9,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 100
   },
   {
     "userID": 10,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 66
   },
   {
     "userID": 11,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 51
   },
   {
     "userID": 12,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 48
   },
   {
     "userID": 13,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 37
   },
   {
     "userID": 14,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 48
   },
   {
     "userID": 15,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 100
   },
   {
     "userID": 16,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 31
   },
   {
     "userID": 17,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 41
   },
   {
     "userID": 18,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 47
   },
   {
     "userID": 19,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 97
   },
   {
     "userID": 20,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 43
   },
   {
     "userID": 21,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 40
   },
   {
     "userID": 22,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 29
   },
   {
     "userID": 23,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 22
   },
   {
     "userID": 24,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 41
   },
   {
     "userID": 25,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 28
   },
   {
     "userID": 26,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 72
   },
   {
     "userID": 27,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 45
   },
   {
     "userID": 28,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 96
   },
   {
     "userID": 29,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 98
   },
   {
     "userID": 30,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 57
   },
   {
     "userID": 31,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 22
   },
   {
     "userID": 32,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 43
   },
   {
     "userID": 33,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 50
   },
   {
     "userID": 34,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 29
   },
   {
     "userID": 35,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 94
   },
   {
     "userID": 36,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 62
   },
   {
     "userID": 37,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 83
   },
   {
     "userID": 38,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 37
   },
   {
     "userID": 39,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 42
   },
   {
     "userID": 40,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 33
   },
   {
     "userID": 41,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 32
   },
   {
     "userID": 42,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 37
   },
   {
     "userID": 43,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 68
   },
   {
     "userID": 44,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 56
   },
   {
     "userID": 45,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 56
   },
   {
     "userID": 46,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 37
   },
   {
     "userID": 47,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 33
   },
   {
     "userID": 48,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 94
   },
   {
     "userID": 49,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 27
   },
   {
     "userID": 50,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numOunces": 40
   },
   {
     "userID": 1,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 96
   },
   {
     "userID": 2,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 80
   },
   {
     "userID": 3,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 41
   },
   {
     "userID": 4,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 56
   },
   {
     "userID": 5,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 98
   },
   {
     "userID": 6,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 38
   },
   {
     "userID": 7,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 85
   },
   {
     "userID": 8,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 49
   },
   {
     "userID": 9,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 79
   },
   {
     "userID": 10,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 80
   },
   {
     "userID": 11,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 31
   },
   {
     "userID": 12,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 98
   },
   {
     "userID": 13,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 85
   },
   {
     "userID": 14,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 29
   },
   {
     "userID": 15,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 45
   },
   {
     "userID": 16,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 100
   },
   {
     "userID": 17,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 72
   },
   {
     "userID": 18,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 97
   },
   {
     "userID": 19,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 99
   },
   {
     "userID": 20,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 86
   },
   {
     "userID": 21,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 77
   },
   {
     "userID": 22,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 72
   },
   {
     "userID": 23,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 62
   },
   {
     "userID": 24,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 80
   },
   {
     "userID": 25,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 92
   },
   {
     "userID": 26,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 63
   },
   {
     "userID": 27,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 50
   },
   {
     "userID": 28,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 89
   },
   {
     "userID": 29,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 94
   },
   {
     "userID": 30,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 27
   },
   {
     "userID": 31,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 73
   },
   {
     "userID": 32,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 25
   },
   {
     "userID": 33,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 58
   },
   {
     "userID": 34,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 79
   },
   {
     "userID": 35,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 49
   },
   {
     "userID": 36,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 69
   },
   {
     "userID": 37,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 46
   },
   {
     "userID": 38,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 34
   },
   {
     "userID": 39,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 29
   },
   {
     "userID": 40,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 69
   },
   {
     "userID": 41,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 37
   },
   {
     "userID": 42,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 56
   },
   {
     "userID": 43,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 20
   },
   {
     "userID": 44,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 24
   },
   {
     "userID": 45,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 86
   },
   {
     "userID": 46,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 52
   },
   {
     "userID": 47,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 46
   },
   {
     "userID": 48,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 50
   },
   {
     "userID": 49,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 95
   },
   {
     "userID": 50,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numOunces": 34
   },
   {
     "userID": 1,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 100
   },
   {
     "userID": 2,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 99
   },
   {
     "userID": 3,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 22
   },
   {
     "userID": 4,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 90
   },
   {
     "userID": 5,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 21
   },
   {
     "userID": 6,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 22
   },
   {
     "userID": 7,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 80
   },
   {
     "userID": 8,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 22
   },
   {
     "userID": 9,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 81
   },
   {
     "userID": 10,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 69
   },
   {
     "userID": 11,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 73
   },
   {
     "userID": 12,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 81
   },
   {
     "userID": 13,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 26
   },
   {
     "userID": 14,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 53
   },
   {
     "userID": 15,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 75
   },
   {
     "userID": 16,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 47
   },
   {
     "userID": 17,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 80
   },
   {
     "userID": 18,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 66
   },
   {
     "userID": 19,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 27
   },
   {
     "userID": 20,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 57
   },
   {
     "userID": 21,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 82
   },
   {
     "userID": 22,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 74
   },
   {
     "userID": 23,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 48
   },
   {
     "userID": 24,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 32
   },
   {
     "userID": 25,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 63
   },
   {
     "userID": 26,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 60
   },
   {
     "userID": 27,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 39
   },
   {
     "userID": 28,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 90
   },
   {
     "userID": 29,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 23
   },
   {
     "userID": 30,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 21
   },
   {
     "userID": 31,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 31
   },
   {
     "userID": 32,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 99
   },
   {
     "userID": 33,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 99
   },
   {
     "userID": 34,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 68
   },
   {
     "userID": 35,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 20
   },
   {
     "userID": 36,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 22
   },
   {
     "userID": 37,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 38
   },
   {
     "userID": 38,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 53
   },
   {
     "userID": 39,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 72
   },
   {
     "userID": 40,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 67
   },
   {
     "userID": 41,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 59
   },
   {
     "userID": 42,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 98
   },
   {
     "userID": 43,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 69
   },
   {
     "userID": 44,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 67
   },
   {
     "userID": 45,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 68
   },
   {
     "userID": 46,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 55
   },
   {
     "userID": 47,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 67
   },
   {
     "userID": 48,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 68
   },
   {
     "userID": 49,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 83
   },
   {
     "userID": 50,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numOunces": 80
   },
   {
     "userID": 1,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 60
   },
   {
     "userID": 2,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 66
   },
   {
     "userID": 3,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 32
   },
   {
     "userID": 4,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 35
   },
   {
     "userID": 5,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 65
   },
   {
     "userID": 6,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 46
   },
   {
     "userID": 7,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 88
   },
   {
     "userID": 8,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 78
   },
   {
     "userID": 9,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 42
   },
   {
     "userID": 10,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 55
   },
   {
     "userID": 11,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 73
   },
   {
     "userID": 12,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 50
   },
   {
     "userID": 13,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 73
   },
   {
     "userID": 14,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 81
   },
   {
     "userID": 15,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 56
   },
   {
     "userID": 16,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 92
   },
   {
     "userID": 17,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 95
   },
   {
     "userID": 18,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 77
   },
   {
     "userID": 19,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 29
   },
   {
     "userID": 20,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 26
   },
   {
     "userID": 21,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 35
   },
   {
     "userID": 22,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 50
   },
   {
     "userID": 23,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 79
   },
   {
     "userID": 24,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 78
   },
   {
     "userID": 25,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 59
   },
   {
     "userID": 26,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 90
   },
   {
     "userID": 27,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 40
   },
   {
     "userID": 28,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 77
   },
   {
     "userID": 29,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 71
   },
   {
     "userID": 30,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 29
   },
   {
     "userID": 31,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 59
   },
   {
     "userID": 32,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 39
   },
   {
     "userID": 33,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 46
   },
   {
     "userID": 34,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 86
   },
   {
     "userID": 35,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 63
   },
   {
     "userID": 36,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 27
   },
   {
     "userID": 37,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 54
   },
   {
     "userID": 38,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 26
   },
   {
     "userID": 39,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 47
   },
   {
     "userID": 40,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 83
   },
   {
     "userID": 41,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 39
   },
   {
     "userID": 42,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 51
   },
   {
     "userID": 43,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 37
   },
   {
     "userID": 44,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 65
   },
   {
     "userID": 45,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 82
   },
   {
     "userID": 46,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 97
   },
   {
     "userID": 47,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 51
   },
   {
     "userID": 48,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 47
   },
   {
     "userID": 49,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 72
   },
   {
     "userID": 50,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numOunces": 31
   },
   {
     "userID": 1,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 41
   },
   {
     "userID": 2,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 32
   },
   {
     "userID": 3,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 69
   },
   {
     "userID": 4,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 43
   },
   {
     "userID": 5,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 61
   },
   {
     "userID": 6,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 23
   },
   {
     "userID": 7,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 96
   },
   {
     "userID": 8,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 91
   },
   {
     "userID": 9,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 66
   },
   {
     "userID": 10,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 41
   },
   {
     "userID": 11,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 84
   },
   {
     "userID": 12,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 76
   },
   {
     "userID": 13,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 72
   },
   {
     "userID": 14,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 29
   },
   {
     "userID": 15,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 30
   },
   {
     "userID": 16,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 96
   },
   {
     "userID": 17,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 74
   },
   {
     "userID": 18,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 77
   },
   {
     "userID": 19,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 32
   },
   {
     "userID": 20,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 77
   },
   {
     "userID": 21,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 79
   },
   {
     "userID": 22,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 65
   },
   {
     "userID": 23,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 68
   },
   {
     "userID": 24,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 96
   },
   {
     "userID": 25,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 69
   },
   {
     "userID": 26,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 22
   },
   {
     "userID": 27,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 32
   },
   {
     "userID": 28,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 57
   },
   {
     "userID": 29,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 100
   },
   {
     "userID": 30,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 30
   },
   {
     "userID": 31,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 88
   },
   {
     "userID": 32,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 21
   },
   {
     "userID": 33,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 43
   },
   {
     "userID": 34,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 62
   },
   {
     "userID": 35,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 79
   },
   {
     "userID": 36,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 53
   },
   {
     "userID": 37,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 82
   },
   {
     "userID": 38,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 79
   },
   {
     "userID": 39,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 21
   },
   {
     "userID": 40,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 66
   },
   {
     "userID": 41,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 47
   },
   {
     "userID": 42,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 30
   },
   {
     "userID": 43,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 85
   },
   {
     "userID": 44,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 55
   },
   {
     "userID": 45,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 41
   },
   {
     "userID": 46,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 57
   },
   {
     "userID": 47,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 51
   },
   {
     "userID": 48,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 99
   },
   {
     "userID": 49,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 67
   },
   {
     "userID": 50,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numOunces": 78
   },
   {
     "userID": 1,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 88
   },
   {
     "userID": 2,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 94
   },
   {
     "userID": 3,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 22
   },
   {
     "userID": 4,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 61
   },
   {
     "userID": 5,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 86
   },
   {
     "userID": 6,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 94
   },
   {
     "userID": 7,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 89
   },
   {
     "userID": 8,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 89
   },
   {
     "userID": 9,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 71
   },
   {
     "userID": 10,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 29
   },
   {
     "userID": 11,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 97
   },
   {
     "userID": 12,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 81
   },
   {
     "userID": 13,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 86
   },
   {
     "userID": 14,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 23
   },
   {
     "userID": 15,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 68
   },
   {
     "userID": 16,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 77
   },
   {
     "userID": 17,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 44
   },
   {
     "userID": 18,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 52
   },
   {
     "userID": 19,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 53
   },
   {
     "userID": 20,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 68
   },
   {
     "userID": 21,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 93
   },
   {
     "userID": 22,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 63
   },
   {
     "userID": 23,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 84
   },
   {
     "userID": 24,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 71
   },
   {
     "userID": 25,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 61
   },
   {
     "userID": 26,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 72
   },
   {
     "userID": 27,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 74
   },
   {
     "userID": 28,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 38
   },
   {
     "userID": 29,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 88
   },
   {
     "userID": 30,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 98
   },
   {
     "userID": 31,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 30
   },
   {
     "userID": 32,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 71
   },
   {
     "userID": 33,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 63
   },
   {
     "userID": 34,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 48
   },
   {
     "userID": 35,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 50
   },
   {
     "userID": 36,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 69
   },
   {
     "userID": 37,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 23
   },
   {
     "userID": 38,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 64
   },
   {
     "userID": 39,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 84
   },
   {
     "userID": 40,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 27
   },
   {
     "userID": 41,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 69
   },
   {
     "userID": 42,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 98
   },
   {
     "userID": 43,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 38
   },
   {
     "userID": 44,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 67
   },
   {
     "userID": 45,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 75
   },
   {
     "userID": 46,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 56
   },
   {
     "userID": 47,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 68
   },
   {
     "userID": 48,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 25
   },
   {
     "userID": 49,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 67
   },
   {
     "userID": 50,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numOunces": 64
   },
   {
     "userID": 1,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 25
   },
   {
     "userID": 2,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 31
   },
   {
     "userID": 3,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 58
   },
   {
     "userID": 4,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 37
   },
   {
     "userID": 5,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 36
   },
   {
     "userID": 6,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 62
   },
   {
     "userID": 7,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 24
   },
   {
     "userID": 8,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 21
   },
   {
     "userID": 9,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 65
   },
   {
     "userID": 10,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 75
   },
   {
     "userID": 11,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 66
   },
   {
     "userID": 12,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 61
   },
   {
     "userID": 13,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 46
   },
   {
     "userID": 14,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 49
   },
   {
     "userID": 15,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 78
   },
   {
     "userID": 16,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 95
   },
   {
     "userID": 17,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 23
   },
   {
     "userID": 18,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 28
   },
   {
     "userID": 19,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 82
   },
   {
     "userID": 20,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 31
   },
   {
     "userID": 21,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 83
   },
   {
     "userID": 22,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 95
   },
   {
     "userID": 23,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 27
   },
   {
     "userID": 24,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 89
   },
   {
     "userID": 25,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 71
   },
   {
     "userID": 26,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 42
   },
   {
     "userID": 27,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 47
   },
   {
     "userID": 28,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 93
   },
   {
     "userID": 29,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 97
   },
   {
     "userID": 30,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 37
   },
   {
     "userID": 31,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 57
   },
   {
     "userID": 32,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 46
   },
   {
     "userID": 33,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 87
   },
   {
     "userID": 34,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 34
   },
   {
     "userID": 35,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 66
   },
   {
     "userID": 36,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 72
   },
   {
     "userID": 37,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 68
   },
   {
     "userID": 38,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 55
   },
   {
     "userID": 39,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 57
   },
   {
     "userID": 40,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 58
   },
   {
     "userID": 41,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 73
   },
   {
     "userID": 42,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 65
   },
   {
     "userID": 43,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 74
   },
   {
     "userID": 44,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 54
   },
   {
     "userID": 45,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 98
   },
   {
     "userID": 46,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 76
   },
   {
     "userID": 47,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 37
   },
   {
     "userID": 48,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 46
   },
   {
     "userID": 49,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 31
   },
   {
     "userID": 50,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numOunces": 30
   },
   {
     "userID": 1,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 82
   },
   {
     "userID": 2,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 31
   },
   {
     "userID": 3,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 87
   },
   {
     "userID": 4,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 65
   },
   {
     "userID": 5,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 50
   },
   {
     "userID": 6,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 26
   },
   {
     "userID": 7,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 63
   },
   {
     "userID": 8,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 87
   },
   {
     "userID": 9,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 56
   },
   {
     "userID": 10,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 49
   },
   {
     "userID": 11,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 80
   },
   {
     "userID": 12,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 48
   },
   {
     "userID": 13,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 84
   },
   {
     "userID": 14,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 73
   },
   {
     "userID": 15,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 49
   },
   {
     "userID": 16,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 100
   },
   {
     "userID": 17,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 72
   },
   {
     "userID": 18,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 94
   },
   {
     "userID": 19,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 32
   },
   {
     "userID": 20,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 23
   },
   {
     "userID": 21,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 88
   },
   {
     "userID": 22,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 61
   },
   {
     "userID": 23,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 39
   },
   {
     "userID": 24,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 66
   },
   {
     "userID": 25,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 41
   },
   {
     "userID": 26,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 75
   },
   {
     "userID": 27,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 44
   },
   {
     "userID": 28,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 38
   },
   {
     "userID": 29,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 75
   },
   {
     "userID": 30,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 56
   },
   {
     "userID": 31,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 26
   },
   {
     "userID": 32,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 42
   },
   {
     "userID": 33,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 94
   },
   {
     "userID": 34,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 87
   },
   {
     "userID": 35,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 95
   },
   {
     "userID": 36,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 62
   },
   {
     "userID": 37,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 91
   },
   {
     "userID": 38,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 25
   },
   {
     "userID": 39,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 76
   },
   {
     "userID": 40,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 46
   },
   {
     "userID": 41,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 45
   },
   {
     "userID": 42,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 32
   },
   {
     "userID": 43,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 40
   },
   {
     "userID": 44,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 27
   },
   {
     "userID": 45,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 48
   },
   {
     "userID": 46,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 27
   },
   {
     "userID": 47,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 75
   },
   {
     "userID": 48,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 27
   },
   {
     "userID": 49,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 60
   },
   {
     "userID": 50,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numOunces": 94
   },
   {
     "userID": 1,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 72
   },
   {
     "userID": 2,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 58
   },
   {
     "userID": 3,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 38
   },
   {
     "userID": 4,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 93
   },
   {
     "userID": 5,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 82
   },
   {
     "userID": 6,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 35
   },
   {
     "userID": 7,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 100
   },
   {
     "userID": 8,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 21
   },
   {
     "userID": 9,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 64
   },
   {
     "userID": 10,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 55
   },
   {
     "userID": 11,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 78
   },
   {
     "userID": 12,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 87
   },
   {
     "userID": 13,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 54
   },
   {
     "userID": 14,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 42
   },
   {
     "userID": 15,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 74
   },
   {
     "userID": 16,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 92
   },
   {
     "userID": 17,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 63
   },
   {
     "userID": 18,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 64
   },
   {
     "userID": 19,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 21
   },
   {
     "userID": 20,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 75
   },
   {
     "userID": 21,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 29
   },
   {
     "userID": 22,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 74
   },
   {
     "userID": 23,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 85
   },
   {
     "userID": 24,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 69
   },
   {
     "userID": 25,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 77
   },
   {
     "userID": 26,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 98
   },
   {
     "userID": 27,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 95
   },
   {
     "userID": 28,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 59
   },
   {
     "userID": 29,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 62
   },
   {
     "userID": 30,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 79
   },
   {
     "userID": 31,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 57
   },
   {
     "userID": 32,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 63
   },
   {
     "userID": 33,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 45
   },
   {
     "userID": 34,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 69
   },
   {
     "userID": 35,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 95
   },
   {
     "userID": 36,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 32
   },
   {
     "userID": 37,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 95
   },
   {
     "userID": 38,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 23
   },
   {
     "userID": 39,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 28
   },
   {
     "userID": 40,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 41
   },
   {
     "userID": 41,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 90
   },
   {
     "userID": 42,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 63
   },
   {
     "userID": 43,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 48
   },
   {
     "userID": 44,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 58
   },
   {
     "userID": 45,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 85
   },
   {
     "userID": 46,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 75
   },
   {
     "userID": 47,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 47
   },
   {
     "userID": 48,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 61
   },
   {
     "userID": 49,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 61
   },
   {
     "userID": 50,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numOunces": 35
   },
   {
     "userID": 1,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 86
   },
   {
     "userID": 2,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 67
   },
   {
     "userID": 3,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 64
   },
   {
     "userID": 4,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 56
   },
   {
     "userID": 5,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 54
   },
   {
     "userID": 6,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 37
   },
   {
     "userID": 7,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 54
   },
   {
     "userID": 8,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 97
   },
   {
     "userID": 9,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 31
   },
   {
     "userID": 10,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 43
   },
   {
     "userID": 11,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 35
   },
   {
     "userID": 12,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 21
   },
   {
     "userID": 13,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 46
   },
   {
     "userID": 14,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 70
   },
   {
     "userID": 15,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 37
   },
   {
     "userID": 16,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 84
   },
   {
     "userID": 17,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 58
   },
   {
     "userID": 18,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 58
   },
   {
     "userID": 19,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 39
   },
   {
     "userID": 20,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 22
   },
   {
     "userID": 21,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 96
   },
   {
     "userID": 22,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 59
   },
   {
     "userID": 23,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 75
   },
   {
     "userID": 24,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 89
   },
   {
     "userID": 25,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 37
   },
   {
     "userID": 26,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 71
   },
   {
     "userID": 27,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 31
   },
   {
     "userID": 28,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 28
   },
   {
     "userID": 29,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 94
   },
   {
     "userID": 30,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 35
   },
   {
     "userID": 31,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 91
   },
   {
     "userID": 32,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 47
   },
   {
     "userID": 33,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 85
   },
   {
     "userID": 34,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 98
   },
   {
     "userID": 35,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 58
   },
   {
     "userID": 36,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 94
   },
   {
     "userID": 37,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 34
   },
   {
     "userID": 38,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 66
   },
   {
     "userID": 39,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 86
   },
   {
     "userID": 40,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 77
   },
   {
     "userID": 41,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 74
   },
   {
     "userID": 42,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 51
   },
   {
     "userID": 43,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 84
   },
   {
     "userID": 44,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 83
   },
   {
     "userID": 45,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 85
   },
   {
     "userID": 46,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 66
   },
   {
     "userID": 47,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 57
   },
   {
     "userID": 48,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 21
   },
   {
     "userID": 49,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 63
   },
   {
     "userID": 50,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numOunces": 69
   },
   {
     "userID": 1,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 53
   },
   {
     "userID": 2,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 27
   },
   {
     "userID": 3,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 77
   },
   {
     "userID": 4,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 73
   },
   {
     "userID": 5,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 73
   },
   {
     "userID": 6,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 93
   },
   {
     "userID": 7,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 47
   },
   {
     "userID": 8,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 71
   },
   {
     "userID": 9,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 99
   },
   {
     "userID": 10,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 52
   },
   {
     "userID": 11,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 65
   },
   {
     "userID": 12,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 32
   },
   {
     "userID": 13,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 62
   },
   {
     "userID": 14,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 65
   },
   {
     "userID": 15,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 72
   },
   {
     "userID": 16,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 62
   },
   {
     "userID": 17,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 64
   },
   {
     "userID": 18,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 47
   },
   {
     "userID": 19,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 29
   },
   {
     "userID": 20,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 60
   },
   {
     "userID": 21,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 93
   },
   {
     "userID": 22,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 75
   },
   {
     "userID": 23,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 88
   },
   {
     "userID": 24,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 72
   },
   {
     "userID": 25,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 86
   },
   {
     "userID": 26,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 72
   },
   {
     "userID": 27,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 75
   },
   {
     "userID": 28,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 82
   },
   {
     "userID": 29,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 45
   },
   {
     "userID": 30,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 70
   },
   {
     "userID": 31,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 50
   },
   {
     "userID": 32,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 36
   },
   {
     "userID": 33,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 50
   },
   {
     "userID": 34,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 20
   },
   {
     "userID": 35,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 75
   },
   {
     "userID": 36,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 62
   },
   {
     "userID": 37,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 24
   },
   {
     "userID": 38,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 49
   },
   {
     "userID": 39,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 34
   },
   {
     "userID": 40,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 88
   },
   {
     "userID": 41,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 32
   },
   {
     "userID": 42,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 58
   },
   {
     "userID": 43,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 91
   },
   {
     "userID": 44,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 47
   },
   {
     "userID": 45,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 29
   },
   {
     "userID": 46,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 70
   },
   {
     "userID": 47,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 93
   },
   {
     "userID": 48,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 90
   },
   {
     "userID": 49,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 68
   },
   {
     "userID": 50,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numOunces": 20
   },
   {
     "userID": 1,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 23
   },
   {
     "userID": 2,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 86
   },
   {
     "userID": 3,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 73
   },
   {
     "userID": 4,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 60
   },
   {
     "userID": 5,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 89
   },
   {
     "userID": 6,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 25
   },
   {
     "userID": 7,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 79
   },
   {
     "userID": 8,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 49
   },
   {
     "userID": 9,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 81
   },
   {
     "userID": 10,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 77
   },
   {
     "userID": 11,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 89
   },
   {
     "userID": 12,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 92
   },
   {
     "userID": 13,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 65
   },
   {
     "userID": 14,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 82
   },
   {
     "userID": 15,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 39
   },
   {
     "userID": 16,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 64
   },
   {
     "userID": 17,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 28
   },
   {
     "userID": 18,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 48
   },
   {
     "userID": 19,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 76
   },
   {
     "userID": 20,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 66
   },
   {
     "userID": 21,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 42
   },
   {
     "userID": 22,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 53
   },
   {
     "userID": 23,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 95
   },
   {
     "userID": 24,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 42
   },
   {
     "userID": 25,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 94
   },
   {
     "userID": 26,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 65
   },
   {
     "userID": 27,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 88
   },
   {
     "userID": 28,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 35
   },
   {
     "userID": 29,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 68
   },
   {
     "userID": 30,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 44
   },
   {
     "userID": 31,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 44
   },
   {
     "userID": 32,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 35
   },
   {
     "userID": 33,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 23
   },
   {
     "userID": 34,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 26
   },
   {
     "userID": 35,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 81
   },
   {
     "userID": 36,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 46
   },
   {
     "userID": 37,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 53
   },
   {
     "userID": 38,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 62
   },
   {
     "userID": 39,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 30
   },
   {
     "userID": 40,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 43
   },
   {
     "userID": 41,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 45
   },
   {
     "userID": 42,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 27
   },
   {
     "userID": 43,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 70
   },
   {
     "userID": 44,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 43
   },
   {
     "userID": 45,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 98
   },
   {
     "userID": 46,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 77
   },
   {
     "userID": 47,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 41
   },
   {
     "userID": 48,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 73
   },
   {
     "userID": 49,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 59
   },
   {
     "userID": 50,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numOunces": 28
   },
   {
     "userID": 1,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 48
   },
   {
     "userID": 2,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 71
   },
   {
     "userID": 3,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 42
   },
   {
     "userID": 4,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 61
   },
   {
     "userID": 5,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 59
   },
   {
     "userID": 6,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 69
   },
   {
     "userID": 7,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 95
   },
   {
     "userID": 8,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 74
   },
   {
     "userID": 9,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 76
   },
   {
     "userID": 10,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 85
   },
   {
     "userID": 11,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 49
   },
   {
     "userID": 12,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 49
   },
   {
     "userID": 13,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 90
   },
   {
     "userID": 14,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 99
   },
   {
     "userID": 15,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 86
   },
   {
     "userID": 16,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 54
   },
   {
     "userID": 17,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 52
   },
   {
     "userID": 18,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 95
   },
   {
     "userID": 19,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 36
   },
   {
     "userID": 20,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 34
   },
   {
     "userID": 21,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 73
   },
   {
     "userID": 22,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 71
   },
   {
     "userID": 23,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 78
   },
   {
     "userID": 24,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 48
   },
   {
     "userID": 25,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 35
   },
   {
     "userID": 26,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 86
   },
   {
     "userID": 27,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 96
   },
   {
     "userID": 28,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 58
   },
   {
     "userID": 29,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 43
   },
   {
     "userID": 30,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 59
   },
   {
     "userID": 31,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 84
   },
   {
     "userID": 32,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 93
   },
   {
     "userID": 33,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 21
   },
   {
     "userID": 34,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 50
   },
   {
     "userID": 35,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 96
   },
   {
     "userID": 36,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 52
   },
   {
     "userID": 37,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 88
   },
   {
     "userID": 38,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 42
   },
   {
     "userID": 39,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 94
   },
   {
     "userID": 40,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 46
   },
   {
     "userID": 41,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 28
   },
   {
     "userID": 42,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 78
   },
   {
     "userID": 43,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 66
   },
   {
     "userID": 44,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 22
   },
   {
     "userID": 45,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 44
   },
   {
     "userID": 46,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 87
   },
   {
     "userID": 47,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 57
   },
   {
     "userID": 48,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 98
   },
   {
     "userID": 49,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 41
   },
   {
     "userID": 50,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numOunces": 35
   },
   {
     "userID": 1,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 68
   },
   {
     "userID": 2,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 64
   },
   {
     "userID": 3,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 38
   },
   {
     "userID": 4,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 68
   },
   {
     "userID": 5,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 37
   },
   {
     "userID": 6,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 87
   },
   {
     "userID": 7,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 47
   },
   {
     "userID": 8,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 75
   },
   {
     "userID": 9,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 46
   },
   {
     "userID": 10,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 74
   },
   {
     "userID": 11,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 30
   },
   {
     "userID": 12,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 60
   },
   {
     "userID": 13,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 27
   },
   {
     "userID": 14,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 62
   },
   {
     "userID": 15,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 39
   },
   {
     "userID": 16,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 93
   },
   {
     "userID": 17,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 60
   },
   {
     "userID": 18,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 98
   },
   {
     "userID": 19,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 57
   },
   {
     "userID": 20,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 96
   },
   {
     "userID": 21,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 51
   },
   {
     "userID": 22,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 90
   },
   {
     "userID": 23,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 79
   },
   {
     "userID": 24,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 93
   },
   {
     "userID": 25,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 25
   },
   {
     "userID": 26,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 71
   },
   {
     "userID": 27,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 65
   },
   {
     "userID": 28,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 88
   },
   {
     "userID": 29,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 67
   },
   {
     "userID": 30,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 61
   },
   {
     "userID": 31,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 68
   },
   {
     "userID": 32,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 64
   },
   {
     "userID": 33,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 60
   },
   {
     "userID": 34,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 45
   },
   {
     "userID": 35,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 91
   },
   {
     "userID": 36,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 71
   },
   {
     "userID": 37,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 31
   },
   {
     "userID": 38,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 91
   },
   {
     "userID": 39,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 62
   },
   {
     "userID": 40,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 52
   },
   {
     "userID": 41,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 45
   },
   {
     "userID": 42,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 81
   },
   {
     "userID": 43,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 42
   },
   {
     "userID": 44,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 97
   },
   {
     "userID": 45,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 65
   },
   {
     "userID": 46,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 25
   },
   {
     "userID": 47,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 22
   },
   {
     "userID": 48,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 90
   },
   {
     "userID": 49,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 81
   },
   {
     "userID": 50,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numOunces": 87
   }
 ];
+
+
+export default hydrationData;

@@ -1,3 +1,30 @@
+import $ from 'jquery';
+
+import User from './User';
+import UserRepository from './User-repository';
+import Activity from './Activity-Repository';
+import Hydration from './Hydration-Repository';
+import Sleep from './Sleep-Repository';
+
+import userData from '../data/users';
+import sleepData from '../data/sleep';
+import hydrationData from '../data/hydration';
+import activityData from '../data/activity';
+
+// An example of how you tell webpack to use a CSS (SCSS) file
+import './css/styles.scss';
+
+// An example of how you tell webpack to use an image (also need to link to it in the index.html)
+import './images/building.svg'
+import './images/coffin.svg'
+import './images/ghost (1).svg'
+import './images/ghost-happy.svg'
+import './images/ghost-sad.svg'
+import './images/glass-empty.svg'
+import './images/glass-full.svg'
+
+
+
 const userIdNum = generateRandomUserId();
 const currentDate = '2019/06/30';
 const userRepo = new UserRepository(userData);

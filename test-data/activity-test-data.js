@@ -147,4 +147,4 @@ const activityTestData = [{
 }
 ];
 
-module.exports = activityTestData;
+export default activityTestData;

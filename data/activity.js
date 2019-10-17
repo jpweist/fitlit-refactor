@@ -27301,7702 +27301,7704 @@ const activityData = [
   },
   {
     "userID": 1,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 3278,
     "minutesActive": 75,
     "flightsOfStairs": 19
   },
   {
     "userID": 2,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2547,
     "minutesActive": 189,
     "flightsOfStairs": 38
   },
   {
     "userID": 3,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 6968,
     "minutesActive": 45,
     "flightsOfStairs": 11
   },
   {
     "userID": 4,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 8769,
     "minutesActive": 65,
     "flightsOfStairs": 30
   },
   {
     "userID": 5,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14006,
     "minutesActive": 132,
     "flightsOfStairs": 48
   },
   {
     "userID": 6,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2067,
     "minutesActive": 70,
     "flightsOfStairs": 43
   },
   {
     "userID": 7,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5085,
     "minutesActive": 297,
     "flightsOfStairs": 30
   },
   {
     "userID": 8,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14729,
     "minutesActive": 175,
     "flightsOfStairs": 14
   },
   {
     "userID": 9,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 3537,
     "minutesActive": 175,
     "flightsOfStairs": 48
   },
   {
     "userID": 10,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 9497,
     "minutesActive": 246,
     "flightsOfStairs": 45
   },
   {
     "userID": 11,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 9053,
     "minutesActive": 70,
     "flightsOfStairs": 6
   },
   {
     "userID": 12,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 3430,
     "minutesActive": 99,
     "flightsOfStairs": 39
   },
   {
     "userID": 13,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 11408,
     "minutesActive": 97,
     "flightsOfStairs": 13
   },
   {
     "userID": 14,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 6707,
     "minutesActive": 213,
     "flightsOfStairs": 41
   },
   {
     "userID": 15,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14663,
     "minutesActive": 259,
     "flightsOfStairs": 21
   },
   {
     "userID": 16,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 7383,
     "minutesActive": 266,
     "flightsOfStairs": 38
   },
   {
     "userID": 17,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14257,
     "minutesActive": 161,
     "flightsOfStairs": 43
   },
   {
     "userID": 18,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 7630,
     "minutesActive": 262,
     "flightsOfStairs": 36
   },
   {
     "userID": 19,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14222,
     "minutesActive": 199,
     "flightsOfStairs": 24
   },
   {
     "userID": 20,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14523,
     "minutesActive": 254,
     "flightsOfStairs": 25
   },
   {
     "userID": 21,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 4415,
     "minutesActive": 291,
     "flightsOfStairs": 37
   },
   {
     "userID": 22,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2111,
     "minutesActive": 48,
     "flightsOfStairs": 16
   },
   {
     "userID": 23,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 7866,
     "minutesActive": 210,
     "flightsOfStairs": 15
   },
   {
     "userID": 24,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2159,
     "minutesActive": 33,
     "flightsOfStairs": 24
   },
   {
     "userID": 25,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 11860,
     "minutesActive": 212,
     "flightsOfStairs": 31
   },
   {
     "userID": 26,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 4501,
     "minutesActive": 57,
     "flightsOfStairs": 48
   },
   {
     "userID": 27,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 11534,
     "minutesActive": 195,
     "flightsOfStairs": 22
   },
   {
     "userID": 28,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 10131,
     "minutesActive": 260,
     "flightsOfStairs": 19
   },
   {
     "userID": 29,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5849,
     "minutesActive": 39,
     "flightsOfStairs": 16
   },
   {
     "userID": 30,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5960,
     "minutesActive": 246,
     "flightsOfStairs": 48
   },
   {
     "userID": 31,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 8571,
     "minutesActive": 67,
     "flightsOfStairs": 13
   },
   {
     "userID": 32,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 11280,
     "minutesActive": 99,
     "flightsOfStairs": 5
   },
   {
     "userID": 33,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 3193,
     "minutesActive": 184,
     "flightsOfStairs": 22
   },
   {
     "userID": 34,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5392,
     "minutesActive": 59,
     "flightsOfStairs": 46
   },
   {
     "userID": 35,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2274,
     "minutesActive": 108,
     "flightsOfStairs": 20
   },
   {
     "userID": 36,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 10186,
     "minutesActive": 205,
     "flightsOfStairs": 7
   },
   {
     "userID": 37,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5629,
     "minutesActive": 112,
     "flightsOfStairs": 0
   },
   {
     "userID": 38,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 13470,
     "minutesActive": 124,
     "flightsOfStairs": 43
   },
   {
     "userID": 39,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 7588,
     "minutesActive": 295,
     "flightsOfStairs": 3
   },
   {
     "userID": 40,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 12136,
     "minutesActive": 129,
     "flightsOfStairs": 31
   },
   {
     "userID": 41,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 12072,
     "minutesActive": 99,
     "flightsOfStairs": 38
   },
   {
     "userID": 42,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5115,
     "minutesActive": 25,
     "flightsOfStairs": 21
   },
   {
     "userID": 43,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 10724,
     "minutesActive": 59,
     "flightsOfStairs": 39
   },
   {
     "userID": 44,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14134,
     "minutesActive": 53,
     "flightsOfStairs": 12
   },
   {
     "userID": 45,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 5162,
     "minutesActive": 154,
     "flightsOfStairs": 48
   },
   {
     "userID": 46,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 3067,
     "minutesActive": 150,
     "flightsOfStairs": 48
   },
   {
     "userID": 47,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 10095,
     "minutesActive": 28,
     "flightsOfStairs": 45
   },
   {
     "userID": 48,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 13142,
     "minutesActive": 257,
     "flightsOfStairs": 41
   },
   {
     "userID": 49,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 14983,
     "minutesActive": 34,
     "flightsOfStairs": 29
   },
   {
     "userID": 50,
-    "date": "2019/09/01",
+    "date": "2019/10/01",
     "numSteps": 2656,
     "minutesActive": 132,
     "flightsOfStairs": 1
   },
   {
     "userID": 1,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7167,
     "minutesActive": 292,
     "flightsOfStairs": 37
   },
   {
     "userID": 2,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 13456,
     "minutesActive": 165,
     "flightsOfStairs": 2
   },
   {
     "userID": 3,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5465,
     "minutesActive": 202,
     "flightsOfStairs": 41
   },
   {
     "userID": 4,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7723,
     "minutesActive": 296,
     "flightsOfStairs": 46
   },
   {
     "userID": 5,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5535,
     "minutesActive": 141,
     "flightsOfStairs": 18
   },
   {
     "userID": 6,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5333,
     "minutesActive": 196,
     "flightsOfStairs": 41
   },
   {
     "userID": 7,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 14460,
     "minutesActive": 246,
     "flightsOfStairs": 9
   },
   {
     "userID": 8,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5253,
     "minutesActive": 131,
     "flightsOfStairs": 16
   },
   {
     "userID": 9,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 6944,
     "minutesActive": 199,
     "flightsOfStairs": 37
   },
   {
     "userID": 10,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7068,
     "minutesActive": 182,
     "flightsOfStairs": 4
   },
   {
     "userID": 11,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 2131,
     "minutesActive": 230,
     "flightsOfStairs": 27
   },
   {
     "userID": 12,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3366,
     "minutesActive": 262,
     "flightsOfStairs": 12
   },
   {
     "userID": 13,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7978,
     "minutesActive": 298,
     "flightsOfStairs": 47
   },
   {
     "userID": 14,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7211,
     "minutesActive": 195,
     "flightsOfStairs": 27
   },
   {
     "userID": 15,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 10359,
     "minutesActive": 185,
     "flightsOfStairs": 21
   },
   {
     "userID": 16,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 14634,
     "minutesActive": 251,
     "flightsOfStairs": 5
   },
   {
     "userID": 17,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 8994,
     "minutesActive": 153,
     "flightsOfStairs": 50
   },
   {
     "userID": 18,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 11780,
     "minutesActive": 110,
     "flightsOfStairs": 48
   },
   {
     "userID": 19,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 8312,
     "minutesActive": 269,
     "flightsOfStairs": 28
   },
   {
     "userID": 20,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5884,
     "minutesActive": 156,
     "flightsOfStairs": 10
   },
   {
     "userID": 21,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 12573,
     "minutesActive": 208,
     "flightsOfStairs": 20
   },
   {
     "userID": 22,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 2953,
     "minutesActive": 107,
     "flightsOfStairs": 21
   },
   {
     "userID": 23,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7458,
     "minutesActive": 33,
     "flightsOfStairs": 49
   },
   {
     "userID": 24,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 8467,
     "minutesActive": 216,
     "flightsOfStairs": 36
   },
   {
     "userID": 25,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 14259,
     "minutesActive": 109,
     "flightsOfStairs": 6
   },
   {
     "userID": 26,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3399,
     "minutesActive": 244,
     "flightsOfStairs": 28
   },
   {
     "userID": 27,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3100,
     "minutesActive": 145,
     "flightsOfStairs": 32
   },
   {
     "userID": 28,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 10008,
     "minutesActive": 67,
     "flightsOfStairs": 31
   },
   {
     "userID": 29,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 11438,
     "minutesActive": 99,
     "flightsOfStairs": 32
   },
   {
     "userID": 30,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 13832,
     "minutesActive": 107,
     "flightsOfStairs": 20
   },
   {
     "userID": 31,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 6456,
     "minutesActive": 198,
     "flightsOfStairs": 11
   },
   {
     "userID": 32,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 13719,
     "minutesActive": 273,
     "flightsOfStairs": 9
   },
   {
     "userID": 33,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 9342,
     "minutesActive": 148,
     "flightsOfStairs": 28
   },
   {
     "userID": 34,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3907,
     "minutesActive": 192,
     "flightsOfStairs": 10
   },
   {
     "userID": 35,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 11214,
     "minutesActive": 214,
     "flightsOfStairs": 43
   },
   {
     "userID": 36,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3613,
     "minutesActive": 281,
     "flightsOfStairs": 43
   },
   {
     "userID": 37,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 14694,
     "minutesActive": 261,
     "flightsOfStairs": 12
   },
   {
     "userID": 38,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 11109,
     "minutesActive": 295,
     "flightsOfStairs": 41
   },
   {
     "userID": 39,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 13122,
     "minutesActive": 259,
     "flightsOfStairs": 35
   },
   {
     "userID": 40,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 3917,
     "minutesActive": 24,
     "flightsOfStairs": 17
   },
   {
     "userID": 41,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 10283,
     "minutesActive": 45,
     "flightsOfStairs": 40
   },
   {
     "userID": 42,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 8820,
     "minutesActive": 207,
     "flightsOfStairs": 4
   },
   {
     "userID": 43,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 9830,
     "minutesActive": 34,
     "flightsOfStairs": 45
   },
   {
     "userID": 44,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 9568,
     "minutesActive": 228,
     "flightsOfStairs": 37
   },
   {
     "userID": 45,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 4234,
     "minutesActive": 180,
     "flightsOfStairs": 38
   },
   {
     "userID": 46,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 2826,
     "minutesActive": 108,
     "flightsOfStairs": 11
   },
   {
     "userID": 47,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 7230,
     "minutesActive": 192,
     "flightsOfStairs": 9
   },
   {
     "userID": 48,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 5838,
     "minutesActive": 62,
     "flightsOfStairs": 11
   },
   {
     "userID": 49,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 8265,
     "minutesActive": 261,
     "flightsOfStairs": 25
   },
   {
     "userID": 50,
-    "date": "2019/09/02",
+    "date": "2019/10/02",
     "numSteps": 13533,
     "minutesActive": 63,
     "flightsOfStairs": 26
   },
   {
     "userID": 1,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 6337,
     "minutesActive": 102,
     "flightsOfStairs": 43
   },
   {
     "userID": 2,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3246,
     "minutesActive": 36,
     "flightsOfStairs": 41
   },
   {
     "userID": 3,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 7726,
     "minutesActive": 81,
     "flightsOfStairs": 14
   },
   {
     "userID": 4,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 2088,
     "minutesActive": 112,
     "flightsOfStairs": 25
   },
   {
     "userID": 5,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11809,
     "minutesActive": 153,
     "flightsOfStairs": 46
   },
   {
     "userID": 6,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3899,
     "minutesActive": 47,
     "flightsOfStairs": 36
   },
   {
     "userID": 7,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 9152,
     "minutesActive": 292,
     "flightsOfStairs": 36
   },
   {
     "userID": 8,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 2446,
     "minutesActive": 254,
     "flightsOfStairs": 29
   },
   {
     "userID": 9,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 14877,
     "minutesActive": 247,
     "flightsOfStairs": 20
   },
   {
     "userID": 10,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 7414,
     "minutesActive": 138,
     "flightsOfStairs": 41
   },
   {
     "userID": 11,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3959,
     "minutesActive": 200,
     "flightsOfStairs": 46
   },
   {
     "userID": 12,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11881,
     "minutesActive": 230,
     "flightsOfStairs": 42
   },
   {
     "userID": 13,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3187,
     "minutesActive": 139,
     "flightsOfStairs": 39
   },
   {
     "userID": 14,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11984,
     "minutesActive": 40,
     "flightsOfStairs": 40
   },
   {
     "userID": 15,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11402,
     "minutesActive": 151,
     "flightsOfStairs": 41
   },
   {
     "userID": 16,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11309,
     "minutesActive": 166,
     "flightsOfStairs": 9
   },
   {
     "userID": 17,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 14794,
     "minutesActive": 299,
     "flightsOfStairs": 18
   },
   {
     "userID": 18,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 10803,
     "minutesActive": 117,
     "flightsOfStairs": 5
   },
   {
     "userID": 19,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 4741,
     "minutesActive": 62,
     "flightsOfStairs": 42
   },
   {
     "userID": 20,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 6871,
     "minutesActive": 240,
     "flightsOfStairs": 36
   },
   {
     "userID": 21,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 8909,
     "minutesActive": 188,
     "flightsOfStairs": 17
   },
   {
     "userID": 22,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 7238,
     "minutesActive": 286,
     "flightsOfStairs": 15
   },
   {
     "userID": 23,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 12477,
     "minutesActive": 245,
     "flightsOfStairs": 21
   },
   {
     "userID": 24,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 4009,
     "minutesActive": 257,
     "flightsOfStairs": 9
   },
   {
     "userID": 25,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3235,
     "minutesActive": 227,
     "flightsOfStairs": 46
   },
   {
     "userID": 26,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 10032,
     "minutesActive": 294,
     "flightsOfStairs": 36
   },
   {
     "userID": 27,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 13287,
     "minutesActive": 174,
     "flightsOfStairs": 48
   },
   {
     "userID": 28,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 8234,
     "minutesActive": 69,
     "flightsOfStairs": 36
   },
   {
     "userID": 29,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 4529,
     "minutesActive": 59,
     "flightsOfStairs": 2
   },
   {
     "userID": 30,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 7110,
     "minutesActive": 176,
     "flightsOfStairs": 35
   },
   {
     "userID": 31,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 14053,
     "minutesActive": 294,
     "flightsOfStairs": 1
   },
   {
     "userID": 32,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 10307,
     "minutesActive": 266,
     "flightsOfStairs": 34
   },
   {
     "userID": 33,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3606,
     "minutesActive": 242,
     "flightsOfStairs": 31
   },
   {
     "userID": 34,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11201,
     "minutesActive": 38,
     "flightsOfStairs": 47
   },
   {
     "userID": 35,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 14396,
     "minutesActive": 47,
     "flightsOfStairs": 44
   },
   {
     "userID": 36,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 8672,
     "minutesActive": 147,
     "flightsOfStairs": 10
   },
   {
     "userID": 37,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 4636,
     "minutesActive": 50,
     "flightsOfStairs": 39
   },
   {
     "userID": 38,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 8072,
     "minutesActive": 21,
     "flightsOfStairs": 28
   },
   {
     "userID": 39,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 7191,
     "minutesActive": 84,
     "flightsOfStairs": 5
   },
   {
     "userID": 40,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 8807,
     "minutesActive": 84,
     "flightsOfStairs": 47
   },
   {
     "userID": 41,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 9359,
     "minutesActive": 225,
     "flightsOfStairs": 28
   },
   {
     "userID": 42,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 9877,
     "minutesActive": 195,
     "flightsOfStairs": 18
   },
   {
     "userID": 43,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 9418,
     "minutesActive": 272,
     "flightsOfStairs": 18
   },
   {
     "userID": 44,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3189,
     "minutesActive": 52,
     "flightsOfStairs": 31
   },
   {
     "userID": 45,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 4547,
     "minutesActive": 287,
     "flightsOfStairs": 21
   },
   {
     "userID": 46,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 3499,
     "minutesActive": 291,
     "flightsOfStairs": 17
   },
   {
     "userID": 47,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 11497,
     "minutesActive": 193,
     "flightsOfStairs": 6
   },
   {
     "userID": 48,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 14722,
     "minutesActive": 39,
     "flightsOfStairs": 41
   },
   {
     "userID": 49,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 5428,
     "minutesActive": 193,
     "flightsOfStairs": 2
   },
   {
     "userID": 50,
-    "date": "2019/09/03",
+    "date": "2019/10/03",
     "numSteps": 12443,
     "minutesActive": 82,
     "flightsOfStairs": 24
   },
   {
     "userID": 1,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 3235,
     "minutesActive": 158,
     "flightsOfStairs": 10
   },
   {
     "userID": 2,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7497,
     "minutesActive": 104,
     "flightsOfStairs": 12
   },
   {
     "userID": 3,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10761,
     "minutesActive": 249,
     "flightsOfStairs": 1
   },
   {
     "userID": 4,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14074,
     "minutesActive": 127,
     "flightsOfStairs": 21
   },
   {
     "userID": 5,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10909,
     "minutesActive": 231,
     "flightsOfStairs": 28
   },
   {
     "userID": 6,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 6486,
     "minutesActive": 297,
     "flightsOfStairs": 35
   },
   {
     "userID": 7,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 6590,
     "minutesActive": 208,
     "flightsOfStairs": 15
   },
   {
     "userID": 8,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 2604,
     "minutesActive": 122,
     "flightsOfStairs": 35
   },
   {
     "userID": 9,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 4677,
     "minutesActive": 73,
     "flightsOfStairs": 37
   },
   {
     "userID": 10,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 13125,
     "minutesActive": 73,
     "flightsOfStairs": 16
   },
   {
     "userID": 11,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 2841,
     "minutesActive": 66,
     "flightsOfStairs": 7
   },
   {
     "userID": 12,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10166,
     "minutesActive": 192,
     "flightsOfStairs": 41
   },
   {
     "userID": 13,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 3303,
     "minutesActive": 226,
     "flightsOfStairs": 26
   },
   {
     "userID": 14,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7725,
     "minutesActive": 214,
     "flightsOfStairs": 32
   },
   {
     "userID": 15,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 3566,
     "minutesActive": 285,
     "flightsOfStairs": 12
   },
   {
     "userID": 16,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 13668,
     "minutesActive": 132,
     "flightsOfStairs": 48
   },
   {
     "userID": 17,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7290,
     "minutesActive": 39,
     "flightsOfStairs": 41
   },
   {
     "userID": 18,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7645,
     "minutesActive": 85,
     "flightsOfStairs": 38
   },
   {
     "userID": 19,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10244,
     "minutesActive": 60,
     "flightsOfStairs": 7
   },
   {
     "userID": 20,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 12295,
     "minutesActive": 270,
     "flightsOfStairs": 16
   },
   {
     "userID": 21,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 6649,
     "minutesActive": 255,
     "flightsOfStairs": 11
   },
   {
     "userID": 22,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 11243,
     "minutesActive": 217,
     "flightsOfStairs": 40
   },
   {
     "userID": 23,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10903,
     "minutesActive": 89,
     "flightsOfStairs": 3
   },
   {
     "userID": 24,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10744,
     "minutesActive": 211,
     "flightsOfStairs": 42
   },
   {
     "userID": 25,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 4979,
     "minutesActive": 76,
     "flightsOfStairs": 11
   },
   {
     "userID": 26,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 5375,
     "minutesActive": 247,
     "flightsOfStairs": 42
   },
   {
     "userID": 27,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 5964,
     "minutesActive": 158,
     "flightsOfStairs": 49
   },
   {
     "userID": 28,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7193,
     "minutesActive": 128,
     "flightsOfStairs": 10
   },
   {
     "userID": 29,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 12035,
     "minutesActive": 88,
     "flightsOfStairs": 0
   },
   {
     "userID": 30,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14659,
     "minutesActive": 145,
     "flightsOfStairs": 38
   },
   {
     "userID": 31,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14846,
     "minutesActive": 152,
     "flightsOfStairs": 23
   },
   {
     "userID": 32,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 8539,
     "minutesActive": 300,
     "flightsOfStairs": 39
   },
   {
     "userID": 33,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14865,
     "minutesActive": 41,
     "flightsOfStairs": 38
   },
   {
     "userID": 34,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14131,
     "minutesActive": 159,
     "flightsOfStairs": 5
   },
   {
     "userID": 35,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 4575,
     "minutesActive": 295,
     "flightsOfStairs": 7
   },
   {
     "userID": 36,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 11580,
     "minutesActive": 209,
     "flightsOfStairs": 12
   },
   {
     "userID": 37,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 2098,
     "minutesActive": 200,
     "flightsOfStairs": 1
   },
   {
     "userID": 38,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 14263,
     "minutesActive": 183,
     "flightsOfStairs": 10
   },
   {
     "userID": 39,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 11865,
     "minutesActive": 62,
     "flightsOfStairs": 4
   },
   {
     "userID": 40,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 6606,
     "minutesActive": 58,
     "flightsOfStairs": 18
   },
   {
     "userID": 41,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 9752,
     "minutesActive": 221,
     "flightsOfStairs": 18
   },
   {
     "userID": 42,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 11316,
     "minutesActive": 249,
     "flightsOfStairs": 46
   },
   {
     "userID": 43,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 7258,
     "minutesActive": 261,
     "flightsOfStairs": 2
   },
   {
     "userID": 44,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 11187,
     "minutesActive": 40,
     "flightsOfStairs": 16
   },
   {
     "userID": 45,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 6389,
     "minutesActive": 52,
     "flightsOfStairs": 10
   },
   {
     "userID": 46,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 8646,
     "minutesActive": 134,
     "flightsOfStairs": 27
   },
   {
     "userID": 47,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 4085,
     "minutesActive": 281,
     "flightsOfStairs": 45
   },
   {
     "userID": 48,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 10470,
     "minutesActive": 271,
     "flightsOfStairs": 3
   },
   {
     "userID": 49,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 13562,
     "minutesActive": 43,
     "flightsOfStairs": 20
   },
   {
     "userID": 50,
-    "date": "2019/09/04",
+    "date": "2019/10/04",
     "numSteps": 9014,
     "minutesActive": 152,
     "flightsOfStairs": 2
   },
   {
     "userID": 1,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 14074,
     "minutesActive": 265,
     "flightsOfStairs": 37
   },
   {
     "userID": 2,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 10007,
     "minutesActive": 288,
     "flightsOfStairs": 47
   },
   {
     "userID": 3,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 11796,
     "minutesActive": 200,
     "flightsOfStairs": 25
   },
   {
     "userID": 4,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 5520,
     "minutesActive": 253,
     "flightsOfStairs": 18
   },
   {
     "userID": 5,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 6540,
     "minutesActive": 123,
     "flightsOfStairs": 43
   },
   {
     "userID": 6,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 12014,
     "minutesActive": 78,
     "flightsOfStairs": 8
   },
   {
     "userID": 7,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 7521,
     "minutesActive": 99,
     "flightsOfStairs": 8
   },
   {
     "userID": 8,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 13070,
     "minutesActive": 289,
     "flightsOfStairs": 43
   },
   {
     "userID": 9,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 14018,
     "minutesActive": 142,
     "flightsOfStairs": 45
   },
   {
     "userID": 10,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 11661,
     "minutesActive": 93,
     "flightsOfStairs": 2
   },
   {
     "userID": 11,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 11246,
     "minutesActive": 260,
     "flightsOfStairs": 23
   },
   {
     "userID": 12,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 3567,
     "minutesActive": 106,
     "flightsOfStairs": 10
   },
   {
     "userID": 13,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 13602,
     "minutesActive": 137,
     "flightsOfStairs": 20
   },
   {
     "userID": 14,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 5782,
     "minutesActive": 289,
     "flightsOfStairs": 23
   },
   {
     "userID": 15,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 8034,
     "minutesActive": 152,
     "flightsOfStairs": 9
   },
   {
     "userID": 16,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 12186,
     "minutesActive": 259,
     "flightsOfStairs": 18
   },
   {
     "userID": 17,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 2355,
     "minutesActive": 75,
     "flightsOfStairs": 5
   },
   {
     "userID": 18,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 7513,
     "minutesActive": 130,
     "flightsOfStairs": 43
   },
   {
     "userID": 19,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 8565,
     "minutesActive": 265,
     "flightsOfStairs": 17
   },
   {
     "userID": 20,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 10685,
     "minutesActive": 121,
     "flightsOfStairs": 24
   },
   {
     "userID": 21,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4228,
     "minutesActive": 33,
     "flightsOfStairs": 44
   },
   {
     "userID": 22,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 3439,
     "minutesActive": 259,
     "flightsOfStairs": 5
   },
   {
     "userID": 23,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 9092,
     "minutesActive": 116,
     "flightsOfStairs": 27
   },
   {
     "userID": 24,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4936,
     "minutesActive": 163,
     "flightsOfStairs": 22
   },
   {
     "userID": 25,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4421,
     "minutesActive": 117,
     "flightsOfStairs": 27
   },
   {
     "userID": 26,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 2720,
     "minutesActive": 237,
     "flightsOfStairs": 47
   },
   {
     "userID": 27,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 6380,
     "minutesActive": 111,
     "flightsOfStairs": 39
   },
   {
     "userID": 28,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 14305,
     "minutesActive": 158,
     "flightsOfStairs": 46
   },
   {
     "userID": 29,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 13040,
     "minutesActive": 199,
     "flightsOfStairs": 27
   },
   {
     "userID": 30,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 6548,
     "minutesActive": 197,
     "flightsOfStairs": 8
   },
   {
     "userID": 31,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 14925,
     "minutesActive": 142,
     "flightsOfStairs": 20
   },
   {
     "userID": 32,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4451,
     "minutesActive": 148,
     "flightsOfStairs": 33
   },
   {
     "userID": 33,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 10577,
     "minutesActive": 265,
     "flightsOfStairs": 29
   },
   {
     "userID": 34,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 13360,
     "minutesActive": 99,
     "flightsOfStairs": 36
   },
   {
     "userID": 35,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 2278,
     "minutesActive": 207,
     "flightsOfStairs": 19
   },
   {
     "userID": 36,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 5269,
     "minutesActive": 275,
     "flightsOfStairs": 48
   },
   {
     "userID": 37,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4494,
     "minutesActive": 225,
     "flightsOfStairs": 9
   },
   {
     "userID": 38,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 9932,
     "minutesActive": 210,
     "flightsOfStairs": 49
   },
   {
     "userID": 39,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 9093,
     "minutesActive": 100,
     "flightsOfStairs": 46
   },
   {
     "userID": 40,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 10005,
     "minutesActive": 131,
     "flightsOfStairs": 11
   },
   {
     "userID": 41,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 12117,
     "minutesActive": 166,
     "flightsOfStairs": 29
   },
   {
     "userID": 42,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 7643,
     "minutesActive": 119,
     "flightsOfStairs": 2
   },
   {
     "userID": 43,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 6604,
     "minutesActive": 80,
     "flightsOfStairs": 45
   },
   {
     "userID": 44,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 8582,
     "minutesActive": 135,
     "flightsOfStairs": 0
   },
   {
     "userID": 45,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 12831,
     "minutesActive": 27,
     "flightsOfStairs": 38
   },
   {
     "userID": 46,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 6623,
     "minutesActive": 231,
     "flightsOfStairs": 1
   },
   {
     "userID": 47,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 4712,
     "minutesActive": 67,
     "flightsOfStairs": 39
   },
   {
     "userID": 48,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 10850,
     "minutesActive": 83,
     "flightsOfStairs": 41
   },
   {
     "userID": 49,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 7495,
     "minutesActive": 283,
     "flightsOfStairs": 37
   },
   {
     "userID": 50,
-    "date": "2019/09/05",
+    "date": "2019/10/05",
     "numSteps": 7069,
     "minutesActive": 108,
     "flightsOfStairs": 16
   },
   {
     "userID": 1,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 4888,
     "minutesActive": 252,
     "flightsOfStairs": 1
   },
   {
     "userID": 2,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 9650,
     "minutesActive": 59,
     "flightsOfStairs": 21
   },
   {
     "userID": 3,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 10464,
     "minutesActive": 262,
     "flightsOfStairs": 4
   },
   {
     "userID": 4,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 5653,
     "minutesActive": 87,
     "flightsOfStairs": 44
   },
   {
     "userID": 5,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8553,
     "minutesActive": 20,
     "flightsOfStairs": 3
   },
   {
     "userID": 6,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8214,
     "minutesActive": 147,
     "flightsOfStairs": 13
   },
   {
     "userID": 7,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 3977,
     "minutesActive": 157,
     "flightsOfStairs": 3
   },
   {
     "userID": 8,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 14499,
     "minutesActive": 208,
     "flightsOfStairs": 42
   },
   {
     "userID": 9,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 6119,
     "minutesActive": 77,
     "flightsOfStairs": 24
   },
   {
     "userID": 10,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 2644,
     "minutesActive": 249,
     "flightsOfStairs": 27
   },
   {
     "userID": 11,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13290,
     "minutesActive": 110,
     "flightsOfStairs": 35
   },
   {
     "userID": 12,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8447,
     "minutesActive": 60,
     "flightsOfStairs": 24
   },
   {
     "userID": 13,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8343,
     "minutesActive": 286,
     "flightsOfStairs": 13
   },
   {
     "userID": 14,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 10747,
     "minutesActive": 256,
     "flightsOfStairs": 7
   },
   {
     "userID": 15,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13141,
     "minutesActive": 44,
     "flightsOfStairs": 0
   },
   {
     "userID": 16,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 10814,
     "minutesActive": 111,
     "flightsOfStairs": 15
   },
   {
     "userID": 17,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 14106,
     "minutesActive": 208,
     "flightsOfStairs": 31
   },
   {
     "userID": 18,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 10317,
     "minutesActive": 291,
     "flightsOfStairs": 7
   },
   {
     "userID": 19,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8515,
     "minutesActive": 203,
     "flightsOfStairs": 31
   },
   {
     "userID": 20,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 12257,
     "minutesActive": 161,
     "flightsOfStairs": 25
   },
   {
     "userID": 21,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 11864,
     "minutesActive": 193,
     "flightsOfStairs": 23
   },
   {
     "userID": 22,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 3287,
     "minutesActive": 180,
     "flightsOfStairs": 7
   },
   {
     "userID": 23,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 5539,
     "minutesActive": 20,
     "flightsOfStairs": 10
   },
   {
     "userID": 24,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13308,
     "minutesActive": 110,
     "flightsOfStairs": 18
   },
   {
     "userID": 25,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 12848,
     "minutesActive": 192,
     "flightsOfStairs": 21
   },
   {
     "userID": 26,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 11917,
     "minutesActive": 125,
     "flightsOfStairs": 32
   },
   {
     "userID": 27,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 6263,
     "minutesActive": 182,
     "flightsOfStairs": 14
   },
   {
     "userID": 28,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 11267,
     "minutesActive": 234,
     "flightsOfStairs": 49
   },
   {
     "userID": 29,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 2465,
     "minutesActive": 208,
     "flightsOfStairs": 18
   },
   {
     "userID": 30,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13428,
     "minutesActive": 57,
     "flightsOfStairs": 39
   },
   {
     "userID": 31,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 7162,
     "minutesActive": 293,
     "flightsOfStairs": 9
   },
   {
     "userID": 32,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13385,
     "minutesActive": 296,
     "flightsOfStairs": 26
   },
   {
     "userID": 33,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 11957,
     "minutesActive": 151,
     "flightsOfStairs": 36
   },
   {
     "userID": 34,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 13217,
     "minutesActive": 257,
     "flightsOfStairs": 2
   },
   {
     "userID": 35,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 2352,
     "minutesActive": 175,
     "flightsOfStairs": 44
   },
   {
     "userID": 36,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 9124,
     "minutesActive": 95,
     "flightsOfStairs": 2
   },
   {
     "userID": 37,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 2101,
     "minutesActive": 77,
     "flightsOfStairs": 31
   },
   {
     "userID": 38,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8720,
     "minutesActive": 288,
     "flightsOfStairs": 27
   },
   {
     "userID": 39,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 9131,
     "minutesActive": 177,
     "flightsOfStairs": 44
   },
   {
     "userID": 40,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 3785,
     "minutesActive": 248,
     "flightsOfStairs": 47
   },
   {
     "userID": 41,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 9523,
     "minutesActive": 74,
     "flightsOfStairs": 18
   },
   {
     "userID": 42,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 12199,
     "minutesActive": 216,
     "flightsOfStairs": 49
   },
   {
     "userID": 43,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 10576,
     "minutesActive": 163,
     "flightsOfStairs": 6
   },
   {
     "userID": 44,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 3136,
     "minutesActive": 142,
     "flightsOfStairs": 14
   },
   {
     "userID": 45,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 5062,
     "minutesActive": 130,
     "flightsOfStairs": 27
   },
   {
     "userID": 46,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 6076,
     "minutesActive": 241,
     "flightsOfStairs": 35
   },
   {
     "userID": 47,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8983,
     "minutesActive": 255,
     "flightsOfStairs": 18
   },
   {
     "userID": 48,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 8452,
     "minutesActive": 207,
     "flightsOfStairs": 41
   },
   {
     "userID": 49,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 6589,
     "minutesActive": 150,
     "flightsOfStairs": 43
   },
   {
     "userID": 50,
-    "date": "2019/09/06",
+    "date": "2019/10/06",
     "numSteps": 2247,
     "minutesActive": 169,
     "flightsOfStairs": 25
   },
   {
     "userID": 1,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 14303,
     "minutesActive": 270,
     "flightsOfStairs": 8
   },
   {
     "userID": 2,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 6426,
     "minutesActive": 204,
     "flightsOfStairs": 6
   },
   {
     "userID": 3,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 8906,
     "minutesActive": 89,
     "flightsOfStairs": 35
   },
   {
     "userID": 4,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 8159,
     "minutesActive": 141,
     "flightsOfStairs": 38
   },
   {
     "userID": 5,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 13031,
     "minutesActive": 231,
     "flightsOfStairs": 46
   },
   {
     "userID": 6,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9924,
     "minutesActive": 261,
     "flightsOfStairs": 46
   },
   {
     "userID": 7,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 8978,
     "minutesActive": 221,
     "flightsOfStairs": 44
   },
   {
     "userID": 8,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 10941,
     "minutesActive": 198,
     "flightsOfStairs": 19
   },
   {
     "userID": 9,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4228,
     "minutesActive": 106,
     "flightsOfStairs": 27
   },
   {
     "userID": 10,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 3115,
     "minutesActive": 171,
     "flightsOfStairs": 21
   },
   {
     "userID": 11,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 5589,
     "minutesActive": 278,
     "flightsOfStairs": 19
   },
   {
     "userID": 12,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 11233,
     "minutesActive": 37,
     "flightsOfStairs": 18
   },
   {
     "userID": 13,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 7740,
     "minutesActive": 229,
     "flightsOfStairs": 19
   },
   {
     "userID": 14,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 14867,
     "minutesActive": 223,
     "flightsOfStairs": 23
   },
   {
     "userID": 15,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 6503,
     "minutesActive": 57,
     "flightsOfStairs": 2
   },
   {
     "userID": 16,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 3016,
     "minutesActive": 267,
     "flightsOfStairs": 28
   },
   {
     "userID": 17,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 3412,
     "minutesActive": 50,
     "flightsOfStairs": 7
   },
   {
     "userID": 18,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9457,
     "minutesActive": 298,
     "flightsOfStairs": 40
   },
   {
     "userID": 19,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4826,
     "minutesActive": 119,
     "flightsOfStairs": 23
   },
   {
     "userID": 20,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 10374,
     "minutesActive": 127,
     "flightsOfStairs": 43
   },
   {
     "userID": 21,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 3513,
     "minutesActive": 102,
     "flightsOfStairs": 49
   },
   {
     "userID": 22,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 5102,
     "minutesActive": 285,
     "flightsOfStairs": 49
   },
   {
     "userID": 23,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 14026,
     "minutesActive": 143,
     "flightsOfStairs": 47
   },
   {
     "userID": 24,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4994,
     "minutesActive": 21,
     "flightsOfStairs": 12
   },
   {
     "userID": 25,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 11696,
     "minutesActive": 80,
     "flightsOfStairs": 24
   },
   {
     "userID": 26,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 14295,
     "minutesActive": 222,
     "flightsOfStairs": 27
   },
   {
     "userID": 27,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 2305,
     "minutesActive": 267,
     "flightsOfStairs": 37
   },
   {
     "userID": 28,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 7291,
     "minutesActive": 181,
     "flightsOfStairs": 37
   },
   {
     "userID": 29,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 8364,
     "minutesActive": 173,
     "flightsOfStairs": 38
   },
   {
     "userID": 30,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 3582,
     "minutesActive": 189,
     "flightsOfStairs": 23
   },
   {
     "userID": 31,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4521,
     "minutesActive": 290,
     "flightsOfStairs": 49
   },
   {
     "userID": 32,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4456,
     "minutesActive": 89,
     "flightsOfStairs": 5
   },
   {
     "userID": 33,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9821,
     "minutesActive": 163,
     "flightsOfStairs": 30
   },
   {
     "userID": 34,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 2447,
     "minutesActive": 296,
     "flightsOfStairs": 10
   },
   {
     "userID": 35,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 4318,
     "minutesActive": 152,
     "flightsOfStairs": 25
   },
   {
     "userID": 36,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 8950,
     "minutesActive": 52,
     "flightsOfStairs": 5
   },
   {
     "userID": 37,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 13860,
     "minutesActive": 113,
     "flightsOfStairs": 41
   },
   {
     "userID": 38,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 6818,
     "minutesActive": 280,
     "flightsOfStairs": 41
   },
   {
     "userID": 39,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9589,
     "minutesActive": 271,
     "flightsOfStairs": 34
   },
   {
     "userID": 40,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 11509,
     "minutesActive": 25,
     "flightsOfStairs": 42
   },
   {
     "userID": 41,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 10405,
     "minutesActive": 275,
     "flightsOfStairs": 30
   },
   {
     "userID": 42,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 6941,
     "minutesActive": 153,
     "flightsOfStairs": 45
   },
   {
     "userID": 43,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 11752,
     "minutesActive": 192,
     "flightsOfStairs": 6
   },
   {
     "userID": 44,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 6388,
     "minutesActive": 93,
     "flightsOfStairs": 12
   },
   {
     "userID": 45,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9478,
     "minutesActive": 160,
     "flightsOfStairs": 18
   },
   {
     "userID": 46,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 14287,
     "minutesActive": 216,
     "flightsOfStairs": 12
   },
   {
     "userID": 47,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9060,
     "minutesActive": 32,
     "flightsOfStairs": 20
   },
   {
     "userID": 48,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 2334,
     "minutesActive": 145,
     "flightsOfStairs": 26
   },
   {
     "userID": 49,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 11008,
     "minutesActive": 73,
     "flightsOfStairs": 34
   },
   {
     "userID": 50,
-    "date": "2019/09/07",
+    "date": "2019/10/07",
     "numSteps": 9931,
     "minutesActive": 283,
     "flightsOfStairs": 38
   },
   {
     "userID": 1,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4359,
     "minutesActive": 31,
     "flightsOfStairs": 26
   },
   {
     "userID": 2,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 12187,
     "minutesActive": 87,
     "flightsOfStairs": 6
   },
   {
     "userID": 3,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5037,
     "minutesActive": 58,
     "flightsOfStairs": 11
   },
   {
     "userID": 4,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5872,
     "minutesActive": 33,
     "flightsOfStairs": 16
   },
   {
     "userID": 5,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 14331,
     "minutesActive": 161,
     "flightsOfStairs": 2
   },
   {
     "userID": 6,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 13684,
     "minutesActive": 120,
     "flightsOfStairs": 18
   },
   {
     "userID": 7,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 7523,
     "minutesActive": 39,
     "flightsOfStairs": 9
   },
   {
     "userID": 8,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 7921,
     "minutesActive": 290,
     "flightsOfStairs": 16
   },
   {
     "userID": 9,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4788,
     "minutesActive": 139,
     "flightsOfStairs": 0
   },
   {
     "userID": 10,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 2953,
     "minutesActive": 57,
     "flightsOfStairs": 3
   },
   {
     "userID": 11,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 2312,
     "minutesActive": 171,
     "flightsOfStairs": 15
   },
   {
     "userID": 12,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11403,
     "minutesActive": 280,
     "flightsOfStairs": 13
   },
   {
     "userID": 13,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5288,
     "minutesActive": 213,
     "flightsOfStairs": 27
   },
   {
     "userID": 14,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9377,
     "minutesActive": 44,
     "flightsOfStairs": 18
   },
   {
     "userID": 15,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 10343,
     "minutesActive": 290,
     "flightsOfStairs": 30
   },
   {
     "userID": 16,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11015,
     "minutesActive": 83,
     "flightsOfStairs": 37
   },
   {
     "userID": 17,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 2541,
     "minutesActive": 45,
     "flightsOfStairs": 1
   },
   {
     "userID": 18,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9507,
     "minutesActive": 172,
     "flightsOfStairs": 41
   },
   {
     "userID": 19,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 8930,
     "minutesActive": 153,
     "flightsOfStairs": 20
   },
   {
     "userID": 20,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9582,
     "minutesActive": 145,
     "flightsOfStairs": 13
   },
   {
     "userID": 21,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9957,
     "minutesActive": 225,
     "flightsOfStairs": 33
   },
   {
     "userID": 22,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5375,
     "minutesActive": 229,
     "flightsOfStairs": 47
   },
   {
     "userID": 23,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 14713,
     "minutesActive": 193,
     "flightsOfStairs": 36
   },
   {
     "userID": 24,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11861,
     "minutesActive": 113,
     "flightsOfStairs": 14
   },
   {
     "userID": 25,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4033,
     "minutesActive": 274,
     "flightsOfStairs": 46
   },
   {
     "userID": 26,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 12710,
     "minutesActive": 276,
     "flightsOfStairs": 40
   },
   {
     "userID": 27,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 6085,
     "minutesActive": 148,
     "flightsOfStairs": 48
   },
   {
     "userID": 28,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11527,
     "minutesActive": 64,
     "flightsOfStairs": 25
   },
   {
     "userID": 29,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5998,
     "minutesActive": 20,
     "flightsOfStairs": 9
   },
   {
     "userID": 30,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11646,
     "minutesActive": 172,
     "flightsOfStairs": 36
   },
   {
     "userID": 31,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9906,
     "minutesActive": 156,
     "flightsOfStairs": 1
   },
   {
     "userID": 32,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 13016,
     "minutesActive": 132,
     "flightsOfStairs": 2
   },
   {
     "userID": 33,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 6686,
     "minutesActive": 202,
     "flightsOfStairs": 21
   },
   {
     "userID": 34,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 6603,
     "minutesActive": 114,
     "flightsOfStairs": 35
   },
   {
     "userID": 35,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4191,
     "minutesActive": 237,
     "flightsOfStairs": 35
   },
   {
     "userID": 36,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 12660,
     "minutesActive": 167,
     "flightsOfStairs": 15
   },
   {
     "userID": 37,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 14080,
     "minutesActive": 49,
     "flightsOfStairs": 47
   },
   {
     "userID": 38,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11334,
     "minutesActive": 284,
     "flightsOfStairs": 46
   },
   {
     "userID": 39,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 13263,
     "minutesActive": 74,
     "flightsOfStairs": 14
   },
   {
     "userID": 40,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 5090,
     "minutesActive": 274,
     "flightsOfStairs": 21
   },
   {
     "userID": 41,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4863,
     "minutesActive": 201,
     "flightsOfStairs": 36
   },
   {
     "userID": 42,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 3678,
     "minutesActive": 150,
     "flightsOfStairs": 50
   },
   {
     "userID": 43,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 6110,
     "minutesActive": 161,
     "flightsOfStairs": 24
   },
   {
     "userID": 44,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 3886,
     "minutesActive": 243,
     "flightsOfStairs": 38
   },
   {
     "userID": 45,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 11891,
     "minutesActive": 101,
     "flightsOfStairs": 23
   },
   {
     "userID": 46,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 13211,
     "minutesActive": 199,
     "flightsOfStairs": 44
   },
   {
     "userID": 47,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 4098,
     "minutesActive": 262,
     "flightsOfStairs": 45
   },
   {
     "userID": 48,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 9521,
     "minutesActive": 82,
     "flightsOfStairs": 47
   },
   {
     "userID": 49,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 12721,
     "minutesActive": 181,
     "flightsOfStairs": 7
   },
   {
     "userID": 50,
-    "date": "2019/09/08",
+    "date": "2019/10/08",
     "numSteps": 14893,
     "minutesActive": 202,
     "flightsOfStairs": 14
   },
   {
     "userID": 1,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11346,
     "minutesActive": 257,
     "flightsOfStairs": 33
   },
   {
     "userID": 2,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11344,
     "minutesActive": 248,
     "flightsOfStairs": 44
   },
   {
     "userID": 3,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11445,
     "minutesActive": 210,
     "flightsOfStairs": 41
   },
   {
     "userID": 4,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 7295,
     "minutesActive": 157,
     "flightsOfStairs": 26
   },
   {
     "userID": 5,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 2771,
     "minutesActive": 65,
     "flightsOfStairs": 2
   },
   {
     "userID": 6,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12562,
     "minutesActive": 128,
     "flightsOfStairs": 31
   },
   {
     "userID": 7,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 6146,
     "minutesActive": 148,
     "flightsOfStairs": 9
   },
   {
     "userID": 8,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3209,
     "minutesActive": 139,
     "flightsOfStairs": 26
   },
   {
     "userID": 9,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 10318,
     "minutesActive": 287,
     "flightsOfStairs": 43
   },
   {
     "userID": 10,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3277,
     "minutesActive": 88,
     "flightsOfStairs": 44
   },
   {
     "userID": 11,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12634,
     "minutesActive": 224,
     "flightsOfStairs": 30
   },
   {
     "userID": 12,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 14496,
     "minutesActive": 163,
     "flightsOfStairs": 11
   },
   {
     "userID": 13,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 8309,
     "minutesActive": 58,
     "flightsOfStairs": 40
   },
   {
     "userID": 14,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 10961,
     "minutesActive": 184,
     "flightsOfStairs": 30
   },
   {
     "userID": 15,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3199,
     "minutesActive": 45,
     "flightsOfStairs": 17
   },
   {
     "userID": 16,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11476,
     "minutesActive": 138,
     "flightsOfStairs": 42
   },
   {
     "userID": 17,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 6050,
     "minutesActive": 259,
     "flightsOfStairs": 23
   },
   {
     "userID": 18,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 14784,
     "minutesActive": 159,
     "flightsOfStairs": 27
   },
   {
     "userID": 19,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 8350,
     "minutesActive": 37,
     "flightsOfStairs": 31
   },
   {
     "userID": 20,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11018,
     "minutesActive": 221,
     "flightsOfStairs": 44
   },
   {
     "userID": 21,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 13071,
     "minutesActive": 272,
     "flightsOfStairs": 14
   },
   {
     "userID": 22,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 6396,
     "minutesActive": 208,
     "flightsOfStairs": 29
   },
   {
     "userID": 23,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 7937,
     "minutesActive": 296,
     "flightsOfStairs": 20
   },
   {
     "userID": 24,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 5712,
     "minutesActive": 283,
     "flightsOfStairs": 10
   },
   {
     "userID": 25,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12360,
     "minutesActive": 68,
     "flightsOfStairs": 43
   },
   {
     "userID": 26,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 2329,
     "minutesActive": 253,
     "flightsOfStairs": 23
   },
   {
     "userID": 27,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 8002,
     "minutesActive": 166,
     "flightsOfStairs": 22
   },
   {
     "userID": 28,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 10601,
     "minutesActive": 203,
     "flightsOfStairs": 38
   },
   {
     "userID": 29,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 14135,
     "minutesActive": 184,
     "flightsOfStairs": 33
   },
   {
     "userID": 30,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12842,
     "minutesActive": 226,
     "flightsOfStairs": 1
   },
   {
     "userID": 31,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12854,
     "minutesActive": 31,
     "flightsOfStairs": 38
   },
   {
     "userID": 32,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 13033,
     "minutesActive": 194,
     "flightsOfStairs": 12
   },
   {
     "userID": 33,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 8842,
     "minutesActive": 223,
     "flightsOfStairs": 24
   },
   {
     "userID": 34,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3115,
     "minutesActive": 131,
     "flightsOfStairs": 26
   },
   {
     "userID": 35,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 11566,
     "minutesActive": 79,
     "flightsOfStairs": 20
   },
   {
     "userID": 36,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3522,
     "minutesActive": 76,
     "flightsOfStairs": 6
   },
   {
     "userID": 37,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 6181,
     "minutesActive": 95,
     "flightsOfStairs": 7
   },
   {
     "userID": 38,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 12519,
     "minutesActive": 214,
     "flightsOfStairs": 1
   },
   {
     "userID": 39,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 9262,
     "minutesActive": 292,
     "flightsOfStairs": 21
   },
   {
     "userID": 40,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 14792,
     "minutesActive": 93,
     "flightsOfStairs": 31
   },
   {
     "userID": 41,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 5921,
     "minutesActive": 187,
     "flightsOfStairs": 50
   },
   {
     "userID": 42,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3269,
     "minutesActive": 132,
     "flightsOfStairs": 47
   },
   {
     "userID": 43,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 7620,
     "minutesActive": 117,
     "flightsOfStairs": 27
   },
   {
     "userID": 44,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 2778,
     "minutesActive": 24,
     "flightsOfStairs": 8
   },
   {
     "userID": 45,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 13469,
     "minutesActive": 277,
     "flightsOfStairs": 10
   },
   {
     "userID": 46,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 10265,
     "minutesActive": 24,
     "flightsOfStairs": 36
   },
   {
     "userID": 47,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 6457,
     "minutesActive": 166,
     "flightsOfStairs": 2
   },
   {
     "userID": 48,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 8154,
     "minutesActive": 137,
     "flightsOfStairs": 13
   },
   {
     "userID": 49,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 5485,
     "minutesActive": 75,
     "flightsOfStairs": 37
   },
   {
     "userID": 50,
-    "date": "2019/09/09",
+    "date": "2019/10/09",
     "numSteps": 3334,
     "minutesActive": 57,
     "flightsOfStairs": 1
   },
   {
     "userID": 1,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 5938,
     "minutesActive": 183,
     "flightsOfStairs": 2
   },
   {
     "userID": 2,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2156,
     "minutesActive": 138,
     "flightsOfStairs": 31
   },
   {
     "userID": 3,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2322,
     "minutesActive": 54,
     "flightsOfStairs": 3
   },
   {
     "userID": 4,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 6994,
     "minutesActive": 276,
     "flightsOfStairs": 1
   },
   {
     "userID": 5,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 12030,
     "minutesActive": 175,
     "flightsOfStairs": 22
   },
   {
     "userID": 6,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 6714,
     "minutesActive": 271,
     "flightsOfStairs": 3
   },
   {
     "userID": 7,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9752,
     "minutesActive": 264,
     "flightsOfStairs": 11
   },
   {
     "userID": 8,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4058,
     "minutesActive": 208,
     "flightsOfStairs": 27
   },
   {
     "userID": 9,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 8975,
     "minutesActive": 226,
     "flightsOfStairs": 47
   },
   {
     "userID": 10,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4749,
     "minutesActive": 163,
     "flightsOfStairs": 46
   },
   {
     "userID": 11,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 12024,
     "minutesActive": 295,
     "flightsOfStairs": 6
   },
   {
     "userID": 12,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 7352,
     "minutesActive": 292,
     "flightsOfStairs": 1
   },
   {
     "userID": 13,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 14457,
     "minutesActive": 214,
     "flightsOfStairs": 47
   },
   {
     "userID": 14,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 10112,
     "minutesActive": 295,
     "flightsOfStairs": 1
   },
   {
     "userID": 15,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 14871,
     "minutesActive": 249,
     "flightsOfStairs": 20
   },
   {
     "userID": 16,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 13724,
     "minutesActive": 170,
     "flightsOfStairs": 14
   },
   {
     "userID": 17,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 6911,
     "minutesActive": 259,
     "flightsOfStairs": 15
   },
   {
     "userID": 18,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 12321,
     "minutesActive": 93,
     "flightsOfStairs": 24
   },
   {
     "userID": 19,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 3700,
     "minutesActive": 244,
     "flightsOfStairs": 39
   },
   {
     "userID": 20,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 14541,
     "minutesActive": 46,
     "flightsOfStairs": 34
   },
   {
     "userID": 21,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 14935,
     "minutesActive": 148,
     "flightsOfStairs": 27
   },
   {
     "userID": 22,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 3207,
     "minutesActive": 126,
     "flightsOfStairs": 4
   },
   {
     "userID": 23,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4110,
     "minutesActive": 85,
     "flightsOfStairs": 19
   },
   {
     "userID": 24,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4086,
     "minutesActive": 274,
     "flightsOfStairs": 28
   },
   {
     "userID": 25,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9969,
     "minutesActive": 81,
     "flightsOfStairs": 22
   },
   {
     "userID": 26,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 5269,
     "minutesActive": 86,
     "flightsOfStairs": 46
   },
   {
     "userID": 27,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 7456,
     "minutesActive": 203,
     "flightsOfStairs": 22
   },
   {
     "userID": 28,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 13407,
     "minutesActive": 40,
     "flightsOfStairs": 26
   },
   {
     "userID": 29,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 12408,
     "minutesActive": 179,
     "flightsOfStairs": 49
   },
   {
     "userID": 30,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 10333,
     "minutesActive": 158,
     "flightsOfStairs": 50
   },
   {
     "userID": 31,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4762,
     "minutesActive": 208,
     "flightsOfStairs": 17
   },
   {
     "userID": 32,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 13844,
     "minutesActive": 25,
     "flightsOfStairs": 35
   },
   {
     "userID": 33,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4891,
     "minutesActive": 214,
     "flightsOfStairs": 49
   },
   {
     "userID": 34,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 14129,
     "minutesActive": 60,
     "flightsOfStairs": 19
   },
   {
     "userID": 35,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 11490,
     "minutesActive": 104,
     "flightsOfStairs": 16
   },
   {
     "userID": 36,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 4434,
     "minutesActive": 278,
     "flightsOfStairs": 12
   },
   {
     "userID": 37,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2842,
     "minutesActive": 257,
     "flightsOfStairs": 28
   },
   {
     "userID": 38,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 12317,
     "minutesActive": 175,
     "flightsOfStairs": 13
   },
   {
     "userID": 39,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2328,
     "minutesActive": 286,
     "flightsOfStairs": 27
   },
   {
     "userID": 40,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9989,
     "minutesActive": 27,
     "flightsOfStairs": 29
   },
   {
     "userID": 41,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 7402,
     "minutesActive": 47,
     "flightsOfStairs": 21
   },
   {
     "userID": 42,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9396,
     "minutesActive": 198,
     "flightsOfStairs": 10
   },
   {
     "userID": 43,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 8571,
     "minutesActive": 88,
     "flightsOfStairs": 46
   },
   {
     "userID": 44,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2854,
     "minutesActive": 32,
     "flightsOfStairs": 43
   },
   {
     "userID": 45,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9724,
     "minutesActive": 226,
     "flightsOfStairs": 15
   },
   {
     "userID": 46,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 13394,
     "minutesActive": 270,
     "flightsOfStairs": 23
   },
   {
     "userID": 47,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 11352,
     "minutesActive": 217,
     "flightsOfStairs": 3
   },
   {
     "userID": 48,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 9934,
     "minutesActive": 296,
     "flightsOfStairs": 47
   },
   {
     "userID": 49,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 2281,
     "minutesActive": 157,
     "flightsOfStairs": 6
   },
   {
     "userID": 50,
-    "date": "2019/09/10",
+    "date": "2019/10/10",
     "numSteps": 6524,
     "minutesActive": 292,
     "flightsOfStairs": 26
   },
   {
     "userID": 1,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 10350,
     "minutesActive": 242,
     "flightsOfStairs": 29
   },
   {
     "userID": 2,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9235,
     "minutesActive": 258,
     "flightsOfStairs": 28
   },
   {
     "userID": 3,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7084,
     "minutesActive": 79,
     "flightsOfStairs": 21
   },
   {
     "userID": 4,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 8103,
     "minutesActive": 195,
     "flightsOfStairs": 29
   },
   {
     "userID": 5,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 10927,
     "minutesActive": 144,
     "flightsOfStairs": 30
   },
   {
     "userID": 6,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7025,
     "minutesActive": 96,
     "flightsOfStairs": 18
   },
   {
     "userID": 7,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9889,
     "minutesActive": 145,
     "flightsOfStairs": 44
   },
   {
     "userID": 8,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6721,
     "minutesActive": 61,
     "flightsOfStairs": 28
   },
   {
     "userID": 9,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 11469,
     "minutesActive": 25,
     "flightsOfStairs": 19
   },
   {
     "userID": 10,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 12542,
     "minutesActive": 24,
     "flightsOfStairs": 7
   },
   {
     "userID": 11,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6281,
     "minutesActive": 275,
     "flightsOfStairs": 24
   },
   {
     "userID": 12,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7692,
     "minutesActive": 159,
     "flightsOfStairs": 40
   },
   {
     "userID": 13,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6121,
     "minutesActive": 282,
     "flightsOfStairs": 17
   },
   {
     "userID": 14,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6883,
     "minutesActive": 200,
     "flightsOfStairs": 8
   },
   {
     "userID": 15,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 2342,
     "minutesActive": 137,
     "flightsOfStairs": 43
   },
   {
     "userID": 16,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7207,
     "minutesActive": 218,
     "flightsOfStairs": 25
   },
   {
     "userID": 17,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6720,
     "minutesActive": 177,
     "flightsOfStairs": 13
   },
   {
     "userID": 18,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6279,
     "minutesActive": 78,
     "flightsOfStairs": 30
   },
   {
     "userID": 19,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 13049,
     "minutesActive": 245,
     "flightsOfStairs": 11
   },
   {
     "userID": 20,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 3115,
     "minutesActive": 276,
     "flightsOfStairs": 50
   },
   {
     "userID": 21,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 3504,
     "minutesActive": 29,
     "flightsOfStairs": 14
   },
   {
     "userID": 22,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 4050,
     "minutesActive": 170,
     "flightsOfStairs": 49
   },
   {
     "userID": 23,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 12761,
     "minutesActive": 140,
     "flightsOfStairs": 22
   },
   {
     "userID": 24,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6815,
     "minutesActive": 182,
     "flightsOfStairs": 12
   },
   {
     "userID": 25,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 4412,
     "minutesActive": 116,
     "flightsOfStairs": 42
   },
   {
     "userID": 26,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6317,
     "minutesActive": 143,
     "flightsOfStairs": 41
   },
   {
     "userID": 27,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 3090,
     "minutesActive": 52,
     "flightsOfStairs": 6
   },
   {
     "userID": 28,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 3370,
     "minutesActive": 298,
     "flightsOfStairs": 20
   },
   {
     "userID": 29,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 8063,
     "minutesActive": 172,
     "flightsOfStairs": 49
   },
   {
     "userID": 30,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9608,
     "minutesActive": 148,
     "flightsOfStairs": 37
   },
   {
     "userID": 31,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6738,
     "minutesActive": 45,
     "flightsOfStairs": 30
   },
   {
     "userID": 32,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7907,
     "minutesActive": 248,
     "flightsOfStairs": 40
   },
   {
     "userID": 33,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 6933,
     "minutesActive": 291,
     "flightsOfStairs": 20
   },
   {
     "userID": 34,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9691,
     "minutesActive": 139,
     "flightsOfStairs": 12
   },
   {
     "userID": 35,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 5393,
     "minutesActive": 24,
     "flightsOfStairs": 18
   },
   {
     "userID": 36,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 3794,
     "minutesActive": 193,
     "flightsOfStairs": 48
   },
   {
     "userID": 37,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 10344,
     "minutesActive": 127,
     "flightsOfStairs": 50
   },
   {
     "userID": 38,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 8683,
     "minutesActive": 56,
     "flightsOfStairs": 18
   },
   {
     "userID": 39,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9549,
     "minutesActive": 172,
     "flightsOfStairs": 31
   },
   {
     "userID": 40,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7718,
     "minutesActive": 202,
     "flightsOfStairs": 17
   },
   {
     "userID": 41,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 9851,
     "minutesActive": 136,
     "flightsOfStairs": 2
   },
   {
     "userID": 42,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 5380,
     "minutesActive": 296,
     "flightsOfStairs": 33
   },
   {
     "userID": 43,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 7211,
     "minutesActive": 126,
     "flightsOfStairs": 33
   },
   {
     "userID": 44,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 4844,
     "minutesActive": 66,
     "flightsOfStairs": 18
   },
   {
     "userID": 45,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 8261,
     "minutesActive": 117,
     "flightsOfStairs": 41
   },
   {
     "userID": 46,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 5345,
     "minutesActive": 80,
     "flightsOfStairs": 47
   },
   {
     "userID": 47,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 11389,
     "minutesActive": 280,
     "flightsOfStairs": 4
   },
   {
     "userID": 48,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 8797,
     "minutesActive": 95,
     "flightsOfStairs": 5
   },
   {
     "userID": 49,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 14768,
     "minutesActive": 132,
     "flightsOfStairs": 8
   },
   {
     "userID": 50,
-    "date": "2019/09/11",
+    "date": "2019/10/11",
     "numSteps": 14543,
     "minutesActive": 72,
     "flightsOfStairs": 34
   },
   {
     "userID": 1,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 13684,
     "minutesActive": 274,
     "flightsOfStairs": 30
   },
   {
     "userID": 2,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 8916,
     "minutesActive": 32,
     "flightsOfStairs": 32
   },
   {
     "userID": 3,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14237,
     "minutesActive": 240,
     "flightsOfStairs": 22
   },
   {
     "userID": 4,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 12169,
     "minutesActive": 26,
     "flightsOfStairs": 28
   },
   {
     "userID": 5,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14587,
     "minutesActive": 290,
     "flightsOfStairs": 20
   },
   {
     "userID": 6,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 5399,
     "minutesActive": 140,
     "flightsOfStairs": 21
   },
   {
     "userID": 7,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 12742,
     "minutesActive": 239,
     "flightsOfStairs": 25
   },
   {
     "userID": 8,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14357,
     "minutesActive": 246,
     "flightsOfStairs": 43
   },
   {
     "userID": 9,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2960,
     "minutesActive": 163,
     "flightsOfStairs": 22
   },
   {
     "userID": 10,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 11936,
     "minutesActive": 35,
     "flightsOfStairs": 47
   },
   {
     "userID": 11,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14541,
     "minutesActive": 272,
     "flightsOfStairs": 41
   },
   {
     "userID": 12,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2746,
     "minutesActive": 198,
     "flightsOfStairs": 29
   },
   {
     "userID": 13,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2874,
     "minutesActive": 24,
     "flightsOfStairs": 34
   },
   {
     "userID": 14,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 8101,
     "minutesActive": 33,
     "flightsOfStairs": 33
   },
   {
     "userID": 15,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2871,
     "minutesActive": 277,
     "flightsOfStairs": 29
   },
   {
     "userID": 16,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2591,
     "minutesActive": 261,
     "flightsOfStairs": 47
   },
   {
     "userID": 17,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 7600,
     "minutesActive": 87,
     "flightsOfStairs": 24
   },
   {
     "userID": 18,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 6771,
     "minutesActive": 76,
     "flightsOfStairs": 17
   },
   {
     "userID": 19,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3747,
     "minutesActive": 134,
     "flightsOfStairs": 34
   },
   {
     "userID": 20,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 13975,
     "minutesActive": 28,
     "flightsOfStairs": 16
   },
   {
     "userID": 21,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 7466,
     "minutesActive": 195,
     "flightsOfStairs": 40
   },
   {
     "userID": 22,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 7047,
     "minutesActive": 70,
     "flightsOfStairs": 46
   },
   {
     "userID": 23,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3597,
     "minutesActive": 39,
     "flightsOfStairs": 39
   },
   {
     "userID": 24,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 8635,
     "minutesActive": 277,
     "flightsOfStairs": 31
   },
   {
     "userID": 25,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2834,
     "minutesActive": 194,
     "flightsOfStairs": 21
   },
   {
     "userID": 26,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 12009,
     "minutesActive": 74,
     "flightsOfStairs": 8
   },
   {
     "userID": 27,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 8271,
     "minutesActive": 163,
     "flightsOfStairs": 3
   },
   {
     "userID": 28,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 4481,
     "minutesActive": 118,
     "flightsOfStairs": 12
   },
   {
     "userID": 29,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 4046,
     "minutesActive": 285,
     "flightsOfStairs": 6
   },
   {
     "userID": 30,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3212,
     "minutesActive": 171,
     "flightsOfStairs": 20
   },
   {
     "userID": 31,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3288,
     "minutesActive": 227,
     "flightsOfStairs": 43
   },
   {
     "userID": 32,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 5129,
     "minutesActive": 206,
     "flightsOfStairs": 44
   },
   {
     "userID": 33,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 8855,
     "minutesActive": 28,
     "flightsOfStairs": 8
   },
   {
     "userID": 34,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14950,
     "minutesActive": 88,
     "flightsOfStairs": 30
   },
   {
     "userID": 35,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3252,
     "minutesActive": 293,
     "flightsOfStairs": 28
   },
   {
     "userID": 36,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 12942,
     "minutesActive": 165,
     "flightsOfStairs": 44
   },
   {
     "userID": 37,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 9535,
     "minutesActive": 122,
     "flightsOfStairs": 25
   },
   {
     "userID": 38,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 11866,
     "minutesActive": 291,
     "flightsOfStairs": 14
   },
   {
     "userID": 39,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 2201,
     "minutesActive": 35,
     "flightsOfStairs": 37
   },
   {
     "userID": 40,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14179,
     "minutesActive": 125,
     "flightsOfStairs": 21
   },
   {
     "userID": 41,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 3062,
     "minutesActive": 236,
     "flightsOfStairs": 19
   },
   {
     "userID": 42,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14282,
     "minutesActive": 67,
     "flightsOfStairs": 14
   },
   {
     "userID": 43,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 4745,
     "minutesActive": 293,
     "flightsOfStairs": 28
   },
   {
     "userID": 44,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 12811,
     "minutesActive": 288,
     "flightsOfStairs": 40
   },
   {
     "userID": 45,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 5232,
     "minutesActive": 166,
     "flightsOfStairs": 7
   },
   {
     "userID": 46,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 11671,
     "minutesActive": 45,
     "flightsOfStairs": 48
   },
   {
     "userID": 47,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 9429,
     "minutesActive": 282,
     "flightsOfStairs": 29
   },
   {
     "userID": 48,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14891,
     "minutesActive": 83,
     "flightsOfStairs": 32
   },
   {
     "userID": 49,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 14680,
     "minutesActive": 75,
     "flightsOfStairs": 20
   },
   {
     "userID": 50,
-    "date": "2019/09/12",
+    "date": "2019/10/12",
     "numSteps": 10667,
     "minutesActive": 45,
     "flightsOfStairs": 40
   },
   {
     "userID": 1,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8705,
     "minutesActive": 67,
     "flightsOfStairs": 40
   },
   {
     "userID": 2,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 13206,
     "minutesActive": 289,
     "flightsOfStairs": 29
   },
   {
     "userID": 3,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10840,
     "minutesActive": 97,
     "flightsOfStairs": 28
   },
   {
     "userID": 4,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 4057,
     "minutesActive": 204,
     "flightsOfStairs": 10
   },
   {
     "userID": 5,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 9159,
     "minutesActive": 46,
     "flightsOfStairs": 9
   },
   {
     "userID": 6,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 2708,
     "minutesActive": 280,
     "flightsOfStairs": 9
   },
   {
     "userID": 7,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 12703,
     "minutesActive": 115,
     "flightsOfStairs": 4
   },
   {
     "userID": 8,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10319,
     "minutesActive": 46,
     "flightsOfStairs": 33
   },
   {
     "userID": 9,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 7431,
     "minutesActive": 204,
     "flightsOfStairs": 8
   },
   {
     "userID": 10,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 5884,
     "minutesActive": 164,
     "flightsOfStairs": 30
   },
   {
     "userID": 11,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10337,
     "minutesActive": 112,
     "flightsOfStairs": 12
   },
   {
     "userID": 12,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 9623,
     "minutesActive": 79,
     "flightsOfStairs": 29
   },
   {
     "userID": 13,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10951,
     "minutesActive": 287,
     "flightsOfStairs": 22
   },
   {
     "userID": 14,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10421,
     "minutesActive": 270,
     "flightsOfStairs": 31
   },
   {
     "userID": 15,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8291,
     "minutesActive": 265,
     "flightsOfStairs": 48
   },
   {
     "userID": 16,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 3910,
     "minutesActive": 181,
     "flightsOfStairs": 29
   },
   {
     "userID": 17,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8524,
     "minutesActive": 80,
     "flightsOfStairs": 8
   },
   {
     "userID": 18,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 9917,
     "minutesActive": 20,
     "flightsOfStairs": 30
   },
   {
     "userID": 19,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 4131,
     "minutesActive": 160,
     "flightsOfStairs": 14
   },
   {
     "userID": 20,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 6045,
     "minutesActive": 46,
     "flightsOfStairs": 46
   },
   {
     "userID": 21,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 13673,
     "minutesActive": 213,
     "flightsOfStairs": 22
   },
   {
     "userID": 22,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8383,
     "minutesActive": 248,
     "flightsOfStairs": 12
   },
   {
     "userID": 23,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 14453,
     "minutesActive": 223,
     "flightsOfStairs": 15
   },
   {
     "userID": 24,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 14522,
     "minutesActive": 153,
     "flightsOfStairs": 40
   },
   {
     "userID": 25,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 13493,
     "minutesActive": 247,
     "flightsOfStairs": 25
   },
   {
     "userID": 26,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 6539,
     "minutesActive": 108,
     "flightsOfStairs": 44
   },
   {
     "userID": 27,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8973,
     "minutesActive": 35,
     "flightsOfStairs": 2
   },
   {
     "userID": 28,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 5456,
     "minutesActive": 134,
     "flightsOfStairs": 13
   },
   {
     "userID": 29,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10275,
     "minutesActive": 262,
     "flightsOfStairs": 32
   },
   {
     "userID": 30,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 7356,
     "minutesActive": 148,
     "flightsOfStairs": 48
   },
   {
     "userID": 31,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 11264,
     "minutesActive": 271,
     "flightsOfStairs": 45
   },
   {
     "userID": 32,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10060,
     "minutesActive": 236,
     "flightsOfStairs": 18
   },
   {
     "userID": 33,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 5082,
     "minutesActive": 176,
     "flightsOfStairs": 23
   },
   {
     "userID": 34,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 11084,
     "minutesActive": 225,
     "flightsOfStairs": 21
   },
   {
     "userID": 35,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 8297,
     "minutesActive": 286,
     "flightsOfStairs": 21
   },
   {
     "userID": 36,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 9083,
     "minutesActive": 160,
     "flightsOfStairs": 23
   },
   {
     "userID": 37,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 14037,
     "minutesActive": 48,
     "flightsOfStairs": 37
   },
   {
     "userID": 38,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10102,
     "minutesActive": 169,
     "flightsOfStairs": 26
   },
   {
     "userID": 39,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 3097,
     "minutesActive": 93,
     "flightsOfStairs": 8
   },
   {
     "userID": 40,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 13654,
     "minutesActive": 95,
     "flightsOfStairs": 38
   },
   {
     "userID": 41,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 3185,
     "minutesActive": 56,
     "flightsOfStairs": 4
   },
   {
     "userID": 42,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 7135,
     "minutesActive": 127,
     "flightsOfStairs": 23
   },
   {
     "userID": 43,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 9563,
     "minutesActive": 216,
     "flightsOfStairs": 14
   },
   {
     "userID": 44,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 12342,
     "minutesActive": 158,
     "flightsOfStairs": 24
   },
   {
     "userID": 45,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 14276,
     "minutesActive": 171,
     "flightsOfStairs": 33
   },
   {
     "userID": 46,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 6483,
     "minutesActive": 265,
     "flightsOfStairs": 16
   },
   {
     "userID": 47,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 11773,
     "minutesActive": 150,
     "flightsOfStairs": 12
   },
   {
     "userID": 48,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 12408,
     "minutesActive": 225,
     "flightsOfStairs": 9
   },
   {
     "userID": 49,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 10015,
     "minutesActive": 269,
     "flightsOfStairs": 3
   },
   {
     "userID": 50,
-    "date": "2019/09/13",
+    "date": "2019/10/13",
     "numSteps": 3671,
     "minutesActive": 135,
     "flightsOfStairs": 39
   },
   {
     "userID": 1,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4559,
     "minutesActive": 153,
     "flightsOfStairs": 44
   },
   {
     "userID": 2,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 10872,
     "minutesActive": 153,
     "flightsOfStairs": 2
   },
   {
     "userID": 3,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 10691,
     "minutesActive": 245,
     "flightsOfStairs": 1
   },
   {
     "userID": 4,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 7255,
     "minutesActive": 36,
     "flightsOfStairs": 19
   },
   {
     "userID": 5,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 13005,
     "minutesActive": 114,
     "flightsOfStairs": 11
   },
   {
     "userID": 6,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4608,
     "minutesActive": 150,
     "flightsOfStairs": 18
   },
   {
     "userID": 7,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 12935,
     "minutesActive": 78,
     "flightsOfStairs": 32
   },
   {
     "userID": 8,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 12272,
     "minutesActive": 108,
     "flightsOfStairs": 1
   },
   {
     "userID": 9,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 3837,
     "minutesActive": 70,
     "flightsOfStairs": 45
   },
   {
     "userID": 10,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 6792,
     "minutesActive": 266,
     "flightsOfStairs": 41
   },
   {
     "userID": 11,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 14541,
     "minutesActive": 193,
     "flightsOfStairs": 10
   },
   {
     "userID": 12,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 13092,
     "minutesActive": 102,
     "flightsOfStairs": 22
   },
   {
     "userID": 13,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4136,
     "minutesActive": 171,
     "flightsOfStairs": 20
   },
   {
     "userID": 14,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 3152,
     "minutesActive": 127,
     "flightsOfStairs": 23
   },
   {
     "userID": 15,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 2245,
     "minutesActive": 153,
     "flightsOfStairs": 42
   },
   {
     "userID": 16,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 10316,
     "minutesActive": 88,
     "flightsOfStairs": 2
   },
   {
     "userID": 17,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 9878,
     "minutesActive": 218,
     "flightsOfStairs": 44
   },
   {
     "userID": 18,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4608,
     "minutesActive": 46,
     "flightsOfStairs": 39
   },
   {
     "userID": 19,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 9791,
     "minutesActive": 173,
     "flightsOfStairs": 23
   },
   {
     "userID": 20,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 11872,
     "minutesActive": 244,
     "flightsOfStairs": 5
   },
   {
     "userID": 21,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 13557,
     "minutesActive": 110,
     "flightsOfStairs": 8
   },
   {
     "userID": 22,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 14022,
     "minutesActive": 177,
     "flightsOfStairs": 5
   },
   {
     "userID": 23,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 9315,
     "minutesActive": 69,
     "flightsOfStairs": 32
   },
   {
     "userID": 24,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 3059,
     "minutesActive": 90,
     "flightsOfStairs": 0
   },
   {
     "userID": 25,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 3052,
     "minutesActive": 190,
     "flightsOfStairs": 6
   },
   {
     "userID": 26,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 14077,
     "minutesActive": 182,
     "flightsOfStairs": 26
   },
   {
     "userID": 27,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 8198,
     "minutesActive": 102,
     "flightsOfStairs": 25
   },
   {
     "userID": 28,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 6265,
     "minutesActive": 152,
     "flightsOfStairs": 9
   },
   {
     "userID": 29,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 12794,
     "minutesActive": 93,
     "flightsOfStairs": 25
   },
   {
     "userID": 30,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4029,
     "minutesActive": 159,
     "flightsOfStairs": 38
   },
   {
     "userID": 31,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 12222,
     "minutesActive": 227,
     "flightsOfStairs": 38
   },
   {
     "userID": 32,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 10732,
     "minutesActive": 26,
     "flightsOfStairs": 7
   },
   {
     "userID": 33,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 5286,
     "minutesActive": 250,
     "flightsOfStairs": 29
   },
   {
     "userID": 34,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 7777,
     "minutesActive": 193,
     "flightsOfStairs": 42
   },
   {
     "userID": 35,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4184,
     "minutesActive": 107,
     "flightsOfStairs": 38
   },
   {
     "userID": 36,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 11305,
     "minutesActive": 219,
     "flightsOfStairs": 36
   },
   {
     "userID": 37,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 11461,
     "minutesActive": 42,
     "flightsOfStairs": 19
   },
   {
     "userID": 38,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 2959,
     "minutesActive": 103,
     "flightsOfStairs": 40
   },
   {
     "userID": 39,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 11929,
     "minutesActive": 254,
     "flightsOfStairs": 12
   },
   {
     "userID": 40,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 10235,
     "minutesActive": 128,
     "flightsOfStairs": 22
   },
   {
     "userID": 41,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 7984,
     "minutesActive": 283,
     "flightsOfStairs": 2
   },
   {
     "userID": 42,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 6676,
     "minutesActive": 234,
     "flightsOfStairs": 32
   },
   {
     "userID": 43,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 12182,
     "minutesActive": 265,
     "flightsOfStairs": 17
   },
   {
     "userID": 44,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 11369,
     "minutesActive": 211,
     "flightsOfStairs": 49
   },
   {
     "userID": 45,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 4453,
     "minutesActive": 247,
     "flightsOfStairs": 41
   },
   {
     "userID": 46,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 8457,
     "minutesActive": 84,
     "flightsOfStairs": 21
   },
   {
     "userID": 47,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 7369,
     "minutesActive": 246,
     "flightsOfStairs": 5
   },
   {
     "userID": 48,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 5063,
     "minutesActive": 107,
     "flightsOfStairs": 18
   },
   {
     "userID": 49,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 7309,
     "minutesActive": 172,
     "flightsOfStairs": 48
   },
   {
     "userID": 50,
-    "date": "2019/09/14",
+    "date": "2019/10/14",
     "numSteps": 6856,
     "minutesActive": 294,
     "flightsOfStairs": 12
   },
   {
     "userID": 1,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 10028,
     "minutesActive": 113,
     "flightsOfStairs": 45
   },
   {
     "userID": 2,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 7886,
     "minutesActive": 152,
     "flightsOfStairs": 25
   },
   {
     "userID": 3,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11998,
     "minutesActive": 24,
     "flightsOfStairs": 49
   },
   {
     "userID": 4,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 9289,
     "minutesActive": 174,
     "flightsOfStairs": 19
   },
   {
     "userID": 5,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 12715,
     "minutesActive": 138,
     "flightsOfStairs": 2
   },
   {
     "userID": 6,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 4051,
     "minutesActive": 115,
     "flightsOfStairs": 27
   },
   {
     "userID": 7,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 2901,
     "minutesActive": 224,
     "flightsOfStairs": 12
   },
   {
     "userID": 8,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 2388,
     "minutesActive": 199,
     "flightsOfStairs": 24
   },
   {
     "userID": 9,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 12554,
     "minutesActive": 23,
     "flightsOfStairs": 8
   },
   {
     "userID": 10,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 10720,
     "minutesActive": 99,
     "flightsOfStairs": 15
   },
   {
     "userID": 11,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 2074,
     "minutesActive": 264,
     "flightsOfStairs": 44
   },
   {
     "userID": 12,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 10674,
     "minutesActive": 107,
     "flightsOfStairs": 10
   },
   {
     "userID": 13,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 4274,
     "minutesActive": 177,
     "flightsOfStairs": 36
   },
   {
     "userID": 14,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8027,
     "minutesActive": 292,
     "flightsOfStairs": 27
   },
   {
     "userID": 15,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 14722,
     "minutesActive": 261,
     "flightsOfStairs": 43
   },
   {
     "userID": 16,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 14044,
     "minutesActive": 86,
     "flightsOfStairs": 26
   },
   {
     "userID": 17,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8562,
     "minutesActive": 146,
     "flightsOfStairs": 20
   },
   {
     "userID": 18,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 4366,
     "minutesActive": 254,
     "flightsOfStairs": 5
   },
   {
     "userID": 19,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11482,
     "minutesActive": 245,
     "flightsOfStairs": 22
   },
   {
     "userID": 20,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 7316,
     "minutesActive": 265,
     "flightsOfStairs": 50
   },
   {
     "userID": 21,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 5477,
     "minutesActive": 69,
     "flightsOfStairs": 37
   },
   {
     "userID": 22,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 6085,
     "minutesActive": 228,
     "flightsOfStairs": 44
   },
   {
     "userID": 23,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 14759,
     "minutesActive": 238,
     "flightsOfStairs": 48
   },
   {
     "userID": 24,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 4295,
     "minutesActive": 46,
     "flightsOfStairs": 24
   },
   {
     "userID": 25,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11033,
     "minutesActive": 44,
     "flightsOfStairs": 20
   },
   {
     "userID": 26,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11391,
     "minutesActive": 263,
     "flightsOfStairs": 46
   },
   {
     "userID": 27,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 5117,
     "minutesActive": 186,
     "flightsOfStairs": 46
   },
   {
     "userID": 28,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 6446,
     "minutesActive": 121,
     "flightsOfStairs": 18
   },
   {
     "userID": 29,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 12313,
     "minutesActive": 138,
     "flightsOfStairs": 9
   },
   {
     "userID": 30,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 9504,
     "minutesActive": 122,
     "flightsOfStairs": 13
   },
   {
     "userID": 31,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 13766,
     "minutesActive": 73,
     "flightsOfStairs": 3
   },
   {
     "userID": 32,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8371,
     "minutesActive": 224,
     "flightsOfStairs": 37
   },
   {
     "userID": 33,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 2752,
     "minutesActive": 273,
     "flightsOfStairs": 44
   },
   {
     "userID": 34,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 5834,
     "minutesActive": 89,
     "flightsOfStairs": 4
   },
   {
     "userID": 35,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11955,
     "minutesActive": 113,
     "flightsOfStairs": 48
   },
   {
     "userID": 36,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8268,
     "minutesActive": 181,
     "flightsOfStairs": 0
   },
   {
     "userID": 37,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 7136,
     "minutesActive": 82,
     "flightsOfStairs": 36
   },
   {
     "userID": 38,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 14146,
     "minutesActive": 70,
     "flightsOfStairs": 1
   },
   {
     "userID": 39,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11092,
     "minutesActive": 24,
     "flightsOfStairs": 31
   },
   {
     "userID": 40,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 13713,
     "minutesActive": 35,
     "flightsOfStairs": 33
   },
   {
     "userID": 41,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 9478,
     "minutesActive": 92,
     "flightsOfStairs": 23
   },
   {
     "userID": 42,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8485,
     "minutesActive": 65,
     "flightsOfStairs": 23
   },
   {
     "userID": 43,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 8894,
     "minutesActive": 251,
     "flightsOfStairs": 42
   },
   {
     "userID": 44,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 13367,
     "minutesActive": 169,
     "flightsOfStairs": 0
   },
   {
     "userID": 45,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 11407,
     "minutesActive": 254,
     "flightsOfStairs": 2
   },
   {
     "userID": 46,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 13724,
     "minutesActive": 287,
     "flightsOfStairs": 4
   },
   {
     "userID": 47,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 3833,
     "minutesActive": 60,
     "flightsOfStairs": 24
   },
   {
     "userID": 48,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 14490,
     "minutesActive": 288,
     "flightsOfStairs": 24
   },
   {
     "userID": 49,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 7230,
     "minutesActive": 293,
     "flightsOfStairs": 38
   },
   {
     "userID": 50,
-    "date": "2019/09/15",
+    "date": "2019/10/15",
     "numSteps": 12344,
     "minutesActive": 84,
     "flightsOfStairs": 24
   },
   {
     "userID": 1,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 11067,
     "minutesActive": 300,
     "flightsOfStairs": 19
   },
   {
     "userID": 2,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 7322,
     "minutesActive": 164,
     "flightsOfStairs": 21
   },
   {
     "userID": 3,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 13195,
     "minutesActive": 144,
     "flightsOfStairs": 40
   },
   {
     "userID": 4,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4503,
     "minutesActive": 166,
     "flightsOfStairs": 46
   },
   {
     "userID": 5,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4115,
     "minutesActive": 55,
     "flightsOfStairs": 46
   },
   {
     "userID": 6,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 7004,
     "minutesActive": 235,
     "flightsOfStairs": 34
   },
   {
     "userID": 7,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 5629,
     "minutesActive": 296,
     "flightsOfStairs": 20
   },
   {
     "userID": 8,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 5572,
     "minutesActive": 206,
     "flightsOfStairs": 43
   },
   {
     "userID": 9,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 9646,
     "minutesActive": 122,
     "flightsOfStairs": 24
   },
   {
     "userID": 10,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4496,
     "minutesActive": 47,
     "flightsOfStairs": 6
   },
   {
     "userID": 11,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 12109,
     "minutesActive": 219,
     "flightsOfStairs": 13
   },
   {
     "userID": 12,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10611,
     "minutesActive": 42,
     "flightsOfStairs": 17
   },
   {
     "userID": 13,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10925,
     "minutesActive": 247,
     "flightsOfStairs": 50
   },
   {
     "userID": 14,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 3088,
     "minutesActive": 102,
     "flightsOfStairs": 45
   },
   {
     "userID": 15,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 11403,
     "minutesActive": 225,
     "flightsOfStairs": 15
   },
   {
     "userID": 16,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 7753,
     "minutesActive": 46,
     "flightsOfStairs": 42
   },
   {
     "userID": 17,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10205,
     "minutesActive": 46,
     "flightsOfStairs": 49
   },
   {
     "userID": 18,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 3456,
     "minutesActive": 209,
     "flightsOfStairs": 27
   },
   {
     "userID": 19,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 12980,
     "minutesActive": 112,
     "flightsOfStairs": 34
   },
   {
     "userID": 20,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10216,
     "minutesActive": 291,
     "flightsOfStairs": 6
   },
   {
     "userID": 21,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 11734,
     "minutesActive": 103,
     "flightsOfStairs": 13
   },
   {
     "userID": 22,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 11988,
     "minutesActive": 248,
     "flightsOfStairs": 18
   },
   {
     "userID": 23,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4083,
     "minutesActive": 77,
     "flightsOfStairs": 23
   },
   {
     "userID": 24,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 6505,
     "minutesActive": 182,
     "flightsOfStairs": 30
   },
   {
     "userID": 25,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 7940,
     "minutesActive": 223,
     "flightsOfStairs": 23
   },
   {
     "userID": 26,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10820,
     "minutesActive": 162,
     "flightsOfStairs": 11
   },
   {
     "userID": 27,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 6523,
     "minutesActive": 76,
     "flightsOfStairs": 24
   },
   {
     "userID": 28,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 14384,
     "minutesActive": 45,
     "flightsOfStairs": 6
   },
   {
     "userID": 29,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10494,
     "minutesActive": 152,
     "flightsOfStairs": 30
   },
   {
     "userID": 30,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 7226,
     "minutesActive": 43,
     "flightsOfStairs": 41
   },
   {
     "userID": 31,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 3149,
     "minutesActive": 82,
     "flightsOfStairs": 0
   },
   {
     "userID": 32,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 6227,
     "minutesActive": 299,
     "flightsOfStairs": 31
   },
   {
     "userID": 33,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4435,
     "minutesActive": 198,
     "flightsOfStairs": 28
   },
   {
     "userID": 34,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 8843,
     "minutesActive": 126,
     "flightsOfStairs": 14
   },
   {
     "userID": 35,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4632,
     "minutesActive": 119,
     "flightsOfStairs": 4
   },
   {
     "userID": 36,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 13637,
     "minutesActive": 100,
     "flightsOfStairs": 40
   },
   {
     "userID": 37,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 8311,
     "minutesActive": 208,
     "flightsOfStairs": 26
   },
   {
     "userID": 38,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4789,
     "minutesActive": 145,
     "flightsOfStairs": 2
   },
   {
     "userID": 39,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4328,
     "minutesActive": 125,
     "flightsOfStairs": 44
   },
   {
     "userID": 40,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 8388,
     "minutesActive": 214,
     "flightsOfStairs": 16
   },
   {
     "userID": 41,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 11454,
     "minutesActive": 249,
     "flightsOfStairs": 40
   },
   {
     "userID": 42,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 14066,
     "minutesActive": 68,
     "flightsOfStairs": 33
   },
   {
     "userID": 43,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4416,
     "minutesActive": 193,
     "flightsOfStairs": 17
   },
   {
     "userID": 44,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 2495,
     "minutesActive": 38,
     "flightsOfStairs": 25
   },
   {
     "userID": 45,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4560,
     "minutesActive": 219,
     "flightsOfStairs": 29
   },
   {
     "userID": 46,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 4458,
     "minutesActive": 286,
     "flightsOfStairs": 34
   },
   {
     "userID": 47,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 5371,
     "minutesActive": 115,
     "flightsOfStairs": 23
   },
   {
     "userID": 48,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 10638,
     "minutesActive": 38,
     "flightsOfStairs": 23
   },
   {
     "userID": 49,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 13796,
     "minutesActive": 264,
     "flightsOfStairs": 27
   },
   {
     "userID": 50,
-    "date": "2019/09/16",
+    "date": "2019/10/16",
     "numSteps": 2289,
     "minutesActive": 298,
     "flightsOfStairs": 48
   },
   {
     "userID": 1,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 4901,
     "minutesActive": 288,
     "flightsOfStairs": 10
   },
   {
     "userID": 2,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2813,
     "minutesActive": 277,
     "flightsOfStairs": 2
   },
   {
     "userID": 3,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 4993,
     "minutesActive": 191,
     "flightsOfStairs": 43
   },
   {
     "userID": 4,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 12457,
     "minutesActive": 144,
     "flightsOfStairs": 30
   },
   {
     "userID": 5,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5231,
     "minutesActive": 141,
     "flightsOfStairs": 28
   },
   {
     "userID": 6,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5899,
     "minutesActive": 273,
     "flightsOfStairs": 36
   },
   {
     "userID": 7,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 9968,
     "minutesActive": 270,
     "flightsOfStairs": 4
   },
   {
     "userID": 8,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 4751,
     "minutesActive": 230,
     "flightsOfStairs": 28
   },
   {
     "userID": 9,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 6779,
     "minutesActive": 300,
     "flightsOfStairs": 29
   },
   {
     "userID": 10,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 12966,
     "minutesActive": 25,
     "flightsOfStairs": 40
   },
   {
     "userID": 11,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 3484,
     "minutesActive": 104,
     "flightsOfStairs": 15
   },
   {
     "userID": 12,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 11903,
     "minutesActive": 135,
     "flightsOfStairs": 25
   },
   {
     "userID": 13,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 14495,
     "minutesActive": 114,
     "flightsOfStairs": 26
   },
   {
     "userID": 14,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5226,
     "minutesActive": 285,
     "flightsOfStairs": 11
   },
   {
     "userID": 15,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5092,
     "minutesActive": 87,
     "flightsOfStairs": 44
   },
   {
     "userID": 16,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2300,
     "minutesActive": 30,
     "flightsOfStairs": 20
   },
   {
     "userID": 17,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 14960,
     "minutesActive": 91,
     "flightsOfStairs": 2
   },
   {
     "userID": 18,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 13098,
     "minutesActive": 199,
     "flightsOfStairs": 27
   },
   {
     "userID": 19,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 8693,
     "minutesActive": 72,
     "flightsOfStairs": 8
   },
   {
     "userID": 20,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 14312,
     "minutesActive": 271,
     "flightsOfStairs": 45
   },
   {
     "userID": 21,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 13187,
     "minutesActive": 161,
     "flightsOfStairs": 18
   },
   {
     "userID": 22,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2882,
     "minutesActive": 227,
     "flightsOfStairs": 36
   },
   {
     "userID": 23,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 9751,
     "minutesActive": 117,
     "flightsOfStairs": 16
   },
   {
     "userID": 24,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2698,
     "minutesActive": 105,
     "flightsOfStairs": 17
   },
   {
     "userID": 25,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 9767,
     "minutesActive": 146,
     "flightsOfStairs": 48
   },
   {
     "userID": 26,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 12083,
     "minutesActive": 230,
     "flightsOfStairs": 29
   },
   {
     "userID": 27,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 11738,
     "minutesActive": 114,
     "flightsOfStairs": 49
   },
   {
     "userID": 28,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 7228,
     "minutesActive": 23,
     "flightsOfStairs": 35
   },
   {
     "userID": 29,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 6877,
     "minutesActive": 194,
     "flightsOfStairs": 12
   },
   {
     "userID": 30,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 7266,
     "minutesActive": 107,
     "flightsOfStairs": 3
   },
   {
     "userID": 31,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 12063,
     "minutesActive": 29,
     "flightsOfStairs": 14
   },
   {
     "userID": 32,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 3028,
     "minutesActive": 73,
     "flightsOfStairs": 35
   },
   {
     "userID": 33,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 6891,
     "minutesActive": 146,
     "flightsOfStairs": 6
   },
   {
     "userID": 34,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 4109,
     "minutesActive": 117,
     "flightsOfStairs": 47
   },
   {
     "userID": 35,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 7746,
     "minutesActive": 98,
     "flightsOfStairs": 7
   },
   {
     "userID": 36,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 6788,
     "minutesActive": 165,
     "flightsOfStairs": 39
   },
   {
     "userID": 37,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 4000,
     "minutesActive": 74,
     "flightsOfStairs": 34
   },
   {
     "userID": 38,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5538,
     "minutesActive": 160,
     "flightsOfStairs": 4
   },
   {
     "userID": 39,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 6500,
     "minutesActive": 212,
     "flightsOfStairs": 30
   },
   {
     "userID": 40,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 14153,
     "minutesActive": 295,
     "flightsOfStairs": 33
   },
   {
     "userID": 41,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 11228,
     "minutesActive": 62,
     "flightsOfStairs": 43
   },
   {
     "userID": 42,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 14689,
     "minutesActive": 162,
     "flightsOfStairs": 17
   },
   {
     "userID": 43,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 12562,
     "minutesActive": 258,
     "flightsOfStairs": 32
   },
   {
     "userID": 44,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 7701,
     "minutesActive": 41,
     "flightsOfStairs": 44
   },
   {
     "userID": 45,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2641,
     "minutesActive": 32,
     "flightsOfStairs": 22
   },
   {
     "userID": 46,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 9186,
     "minutesActive": 240,
     "flightsOfStairs": 12
   },
   {
     "userID": 47,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 5904,
     "minutesActive": 131,
     "flightsOfStairs": 25
   },
   {
     "userID": 48,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 10715,
     "minutesActive": 145,
     "flightsOfStairs": 8
   },
   {
     "userID": 49,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 3489,
     "minutesActive": 246,
     "flightsOfStairs": 28
   },
   {
     "userID": 50,
-    "date": "2019/09/17",
+    "date": "2019/10/17",
     "numSteps": 2438,
     "minutesActive": 176,
     "flightsOfStairs": 48
   },
   {
     "userID": 1,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 9974,
     "minutesActive": 80,
     "flightsOfStairs": 40
   },
   {
     "userID": 2,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 8664,
     "minutesActive": 142,
     "flightsOfStairs": 3
   },
   {
     "userID": 3,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12102,
     "minutesActive": 270,
     "flightsOfStairs": 6
   },
   {
     "userID": 4,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13546,
     "minutesActive": 92,
     "flightsOfStairs": 40
   },
   {
     "userID": 5,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7965,
     "minutesActive": 159,
     "flightsOfStairs": 26
   },
   {
     "userID": 6,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13416,
     "minutesActive": 175,
     "flightsOfStairs": 46
   },
   {
     "userID": 7,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 6362,
     "minutesActive": 270,
     "flightsOfStairs": 35
   },
   {
     "userID": 8,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13888,
     "minutesActive": 170,
     "flightsOfStairs": 13
   },
   {
     "userID": 9,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 5467,
     "minutesActive": 185,
     "flightsOfStairs": 39
   },
   {
     "userID": 10,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12099,
     "minutesActive": 38,
     "flightsOfStairs": 19
   },
   {
     "userID": 11,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 2879,
     "minutesActive": 278,
     "flightsOfStairs": 34
   },
   {
     "userID": 12,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 2988,
     "minutesActive": 257,
     "flightsOfStairs": 34
   },
   {
     "userID": 13,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12877,
     "minutesActive": 128,
     "flightsOfStairs": 12
   },
   {
     "userID": 14,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12084,
     "minutesActive": 146,
     "flightsOfStairs": 41
   },
   {
     "userID": 15,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12282,
     "minutesActive": 71,
     "flightsOfStairs": 28
   },
   {
     "userID": 16,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 9641,
     "minutesActive": 231,
     "flightsOfStairs": 32
   },
   {
     "userID": 17,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 10914,
     "minutesActive": 34,
     "flightsOfStairs": 45
   },
   {
     "userID": 18,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 2315,
     "minutesActive": 98,
     "flightsOfStairs": 45
   },
   {
     "userID": 19,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 2340,
     "minutesActive": 107,
     "flightsOfStairs": 10
   },
   {
     "userID": 20,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 4721,
     "minutesActive": 269,
     "flightsOfStairs": 7
   },
   {
     "userID": 21,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 14846,
     "minutesActive": 92,
     "flightsOfStairs": 25
   },
   {
     "userID": 22,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 4288,
     "minutesActive": 94,
     "flightsOfStairs": 16
   },
   {
     "userID": 23,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 5589,
     "minutesActive": 185,
     "flightsOfStairs": 12
   },
   {
     "userID": 24,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13363,
     "minutesActive": 46,
     "flightsOfStairs": 24
   },
   {
     "userID": 25,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 3745,
     "minutesActive": 99,
     "flightsOfStairs": 8
   },
   {
     "userID": 26,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 3725,
     "minutesActive": 29,
     "flightsOfStairs": 33
   },
   {
     "userID": 27,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12534,
     "minutesActive": 165,
     "flightsOfStairs": 48
   },
   {
     "userID": 28,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 3155,
     "minutesActive": 280,
     "flightsOfStairs": 48
   },
   {
     "userID": 29,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7871,
     "minutesActive": 186,
     "flightsOfStairs": 33
   },
   {
     "userID": 30,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7545,
     "minutesActive": 158,
     "flightsOfStairs": 27
   },
   {
     "userID": 31,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 9513,
     "minutesActive": 129,
     "flightsOfStairs": 40
   },
   {
     "userID": 32,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13916,
     "minutesActive": 69,
     "flightsOfStairs": 18
   },
   {
     "userID": 33,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7279,
     "minutesActive": 225,
     "flightsOfStairs": 45
   },
   {
     "userID": 34,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 6208,
     "minutesActive": 63,
     "flightsOfStairs": 20
   },
   {
     "userID": 35,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7074,
     "minutesActive": 127,
     "flightsOfStairs": 39
   },
   {
     "userID": 36,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13126,
     "minutesActive": 28,
     "flightsOfStairs": 32
   },
   {
     "userID": 37,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13101,
     "minutesActive": 160,
     "flightsOfStairs": 48
   },
   {
     "userID": 38,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 13535,
     "minutesActive": 128,
     "flightsOfStairs": 6
   },
   {
     "userID": 39,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 6659,
     "minutesActive": 118,
     "flightsOfStairs": 48
   },
   {
     "userID": 40,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12121,
     "minutesActive": 284,
     "flightsOfStairs": 35
   },
   {
     "userID": 41,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 4638,
     "minutesActive": 179,
     "flightsOfStairs": 48
   },
   {
     "userID": 42,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 14406,
     "minutesActive": 147,
     "flightsOfStairs": 0
   },
   {
     "userID": 43,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 7502,
     "minutesActive": 43,
     "flightsOfStairs": 50
   },
   {
     "userID": 44,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 3696,
     "minutesActive": 40,
     "flightsOfStairs": 21
   },
   {
     "userID": 45,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 5185,
     "minutesActive": 170,
     "flightsOfStairs": 22
   },
   {
     "userID": 46,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 11666,
     "minutesActive": 81,
     "flightsOfStairs": 30
   },
   {
     "userID": 47,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 4291,
     "minutesActive": 142,
     "flightsOfStairs": 9
   },
   {
     "userID": 48,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 2342,
     "minutesActive": 292,
     "flightsOfStairs": 22
   },
   {
     "userID": 49,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 12423,
     "minutesActive": 46,
     "flightsOfStairs": 20
   },
   {
     "userID": 50,
-    "date": "2019/09/18",
+    "date": "2019/10/18",
     "numSteps": 11712,
     "minutesActive": 142,
     "flightsOfStairs": 10
   },
   {
     "userID": 1,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12083,
     "minutesActive": 218,
     "flightsOfStairs": 20
   },
   {
     "userID": 2,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5773,
     "minutesActive": 181,
     "flightsOfStairs": 3
   },
   {
     "userID": 3,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 8901,
     "minutesActive": 50,
     "flightsOfStairs": 6
   },
   {
     "userID": 4,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 10889,
     "minutesActive": 270,
     "flightsOfStairs": 44
   },
   {
     "userID": 5,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 8932,
     "minutesActive": 33,
     "flightsOfStairs": 33
   },
   {
     "userID": 6,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 9661,
     "minutesActive": 39,
     "flightsOfStairs": 37
   },
   {
     "userID": 7,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 7985,
     "minutesActive": 262,
     "flightsOfStairs": 36
   },
   {
     "userID": 8,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13227,
     "minutesActive": 250,
     "flightsOfStairs": 19
   },
   {
     "userID": 9,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12202,
     "minutesActive": 80,
     "flightsOfStairs": 50
   },
   {
     "userID": 10,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 4808,
     "minutesActive": 128,
     "flightsOfStairs": 12
   },
   {
     "userID": 11,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 14038,
     "minutesActive": 253,
     "flightsOfStairs": 18
   },
   {
     "userID": 12,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12511,
     "minutesActive": 269,
     "flightsOfStairs": 38
   },
   {
     "userID": 13,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13360,
     "minutesActive": 188,
     "flightsOfStairs": 6
   },
   {
     "userID": 14,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 7997,
     "minutesActive": 154,
     "flightsOfStairs": 6
   },
   {
     "userID": 15,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 4376,
     "minutesActive": 46,
     "flightsOfStairs": 29
   },
   {
     "userID": 16,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13734,
     "minutesActive": 55,
     "flightsOfStairs": 38
   },
   {
     "userID": 17,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 7701,
     "minutesActive": 230,
     "flightsOfStairs": 15
   },
   {
     "userID": 18,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 3669,
     "minutesActive": 136,
     "flightsOfStairs": 7
   },
   {
     "userID": 19,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 14175,
     "minutesActive": 165,
     "flightsOfStairs": 9
   },
   {
     "userID": 20,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13705,
     "minutesActive": 89,
     "flightsOfStairs": 11
   },
   {
     "userID": 21,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 11044,
     "minutesActive": 153,
     "flightsOfStairs": 18
   },
   {
     "userID": 22,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 3950,
     "minutesActive": 261,
     "flightsOfStairs": 32
   },
   {
     "userID": 23,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 14398,
     "minutesActive": 137,
     "flightsOfStairs": 9
   },
   {
     "userID": 24,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5126,
     "minutesActive": 139,
     "flightsOfStairs": 12
   },
   {
     "userID": 25,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 11324,
     "minutesActive": 185,
     "flightsOfStairs": 36
   },
   {
     "userID": 26,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 3434,
     "minutesActive": 115,
     "flightsOfStairs": 3
   },
   {
     "userID": 27,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12095,
     "minutesActive": 175,
     "flightsOfStairs": 34
   },
   {
     "userID": 28,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13882,
     "minutesActive": 54,
     "flightsOfStairs": 4
   },
   {
     "userID": 29,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 14973,
     "minutesActive": 225,
     "flightsOfStairs": 45
   },
   {
     "userID": 30,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5009,
     "minutesActive": 181,
     "flightsOfStairs": 47
   },
   {
     "userID": 31,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 3761,
     "minutesActive": 70,
     "flightsOfStairs": 49
   },
   {
     "userID": 32,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12830,
     "minutesActive": 83,
     "flightsOfStairs": 17
   },
   {
     "userID": 33,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12902,
     "minutesActive": 70,
     "flightsOfStairs": 5
   },
   {
     "userID": 34,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5096,
     "minutesActive": 74,
     "flightsOfStairs": 49
   },
   {
     "userID": 35,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 4858,
     "minutesActive": 239,
     "flightsOfStairs": 22
   },
   {
     "userID": 36,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 7668,
     "minutesActive": 231,
     "flightsOfStairs": 34
   },
   {
     "userID": 37,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 6983,
     "minutesActive": 184,
     "flightsOfStairs": 37
   },
   {
     "userID": 38,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 8700,
     "minutesActive": 160,
     "flightsOfStairs": 45
   },
   {
     "userID": 39,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5449,
     "minutesActive": 125,
     "flightsOfStairs": 37
   },
   {
     "userID": 40,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 9408,
     "minutesActive": 253,
     "flightsOfStairs": 11
   },
   {
     "userID": 41,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 2290,
     "minutesActive": 178,
     "flightsOfStairs": 41
   },
   {
     "userID": 42,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 5249,
     "minutesActive": 198,
     "flightsOfStairs": 7
   },
   {
     "userID": 43,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 8628,
     "minutesActive": 44,
     "flightsOfStairs": 31
   },
   {
     "userID": 44,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 12209,
     "minutesActive": 217,
     "flightsOfStairs": 36
   },
   {
     "userID": 45,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 11229,
     "minutesActive": 260,
     "flightsOfStairs": 4
   },
   {
     "userID": 46,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 14801,
     "minutesActive": 46,
     "flightsOfStairs": 28
   },
   {
     "userID": 47,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 7238,
     "minutesActive": 86,
     "flightsOfStairs": 31
   },
   {
     "userID": 48,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13605,
     "minutesActive": 88,
     "flightsOfStairs": 9
   },
   {
     "userID": 49,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 13211,
     "minutesActive": 58,
     "flightsOfStairs": 18
   },
   {
     "userID": 50,
-    "date": "2019/09/19",
+    "date": "2019/10/19",
     "numSteps": 6722,
     "minutesActive": 180,
     "flightsOfStairs": 36
   },
   {
     "userID": 1,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 14000,
     "minutesActive": 262,
     "flightsOfStairs": 17
   },
   {
     "userID": 2,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 2969,
     "minutesActive": 273,
     "flightsOfStairs": 6
   },
   {
     "userID": 3,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9383,
     "minutesActive": 271,
     "flightsOfStairs": 4
   },
   {
     "userID": 4,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 5259,
     "minutesActive": 165,
     "flightsOfStairs": 15
   },
   {
     "userID": 5,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 11939,
     "minutesActive": 253,
     "flightsOfStairs": 38
   },
   {
     "userID": 6,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6295,
     "minutesActive": 285,
     "flightsOfStairs": 34
   },
   {
     "userID": 7,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6241,
     "minutesActive": 59,
     "flightsOfStairs": 16
   },
   {
     "userID": 8,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 13999,
     "minutesActive": 217,
     "flightsOfStairs": 44
   },
   {
     "userID": 9,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 4667,
     "minutesActive": 59,
     "flightsOfStairs": 41
   },
   {
     "userID": 10,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12441,
     "minutesActive": 173,
     "flightsOfStairs": 48
   },
   {
     "userID": 11,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 8294,
     "minutesActive": 193,
     "flightsOfStairs": 29
   },
   {
     "userID": 12,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 13147,
     "minutesActive": 200,
     "flightsOfStairs": 43
   },
   {
     "userID": 13,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 11286,
     "minutesActive": 45,
     "flightsOfStairs": 32
   },
   {
     "userID": 14,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 2044,
     "minutesActive": 187,
     "flightsOfStairs": 39
   },
   {
     "userID": 15,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 5229,
     "minutesActive": 185,
     "flightsOfStairs": 5
   },
   {
     "userID": 16,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12110,
     "minutesActive": 259,
     "flightsOfStairs": 11
   },
   {
     "userID": 17,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 10513,
     "minutesActive": 151,
     "flightsOfStairs": 22
   },
   {
     "userID": 18,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6423,
     "minutesActive": 112,
     "flightsOfStairs": 45
   },
   {
     "userID": 19,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12366,
     "minutesActive": 220,
     "flightsOfStairs": 3
   },
   {
     "userID": 20,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 8181,
     "minutesActive": 207,
     "flightsOfStairs": 17
   },
   {
     "userID": 21,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 5029,
     "minutesActive": 113,
     "flightsOfStairs": 33
   },
   {
     "userID": 22,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6332,
     "minutesActive": 117,
     "flightsOfStairs": 34
   },
   {
     "userID": 23,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 14838,
     "minutesActive": 73,
     "flightsOfStairs": 22
   },
   {
     "userID": 24,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9546,
     "minutesActive": 41,
     "flightsOfStairs": 12
   },
   {
     "userID": 25,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 3698,
     "minutesActive": 132,
     "flightsOfStairs": 2
   },
   {
     "userID": 26,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 8162,
     "minutesActive": 30,
     "flightsOfStairs": 6
   },
   {
     "userID": 27,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9429,
     "minutesActive": 21,
     "flightsOfStairs": 41
   },
   {
     "userID": 28,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6133,
     "minutesActive": 81,
     "flightsOfStairs": 12
   },
   {
     "userID": 29,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 13926,
     "minutesActive": 96,
     "flightsOfStairs": 23
   },
   {
     "userID": 30,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 3836,
     "minutesActive": 283,
     "flightsOfStairs": 26
   },
   {
     "userID": 31,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 4171,
     "minutesActive": 166,
     "flightsOfStairs": 8
   },
   {
     "userID": 32,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9676,
     "minutesActive": 174,
     "flightsOfStairs": 33
   },
   {
     "userID": 33,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6641,
     "minutesActive": 232,
     "flightsOfStairs": 19
   },
   {
     "userID": 34,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 10506,
     "minutesActive": 213,
     "flightsOfStairs": 34
   },
   {
     "userID": 35,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 4142,
     "minutesActive": 161,
     "flightsOfStairs": 17
   },
   {
     "userID": 36,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 14290,
     "minutesActive": 138,
     "flightsOfStairs": 33
   },
   {
     "userID": 37,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9927,
     "minutesActive": 232,
     "flightsOfStairs": 28
   },
   {
     "userID": 38,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 8003,
     "minutesActive": 259,
     "flightsOfStairs": 50
   },
   {
     "userID": 39,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 6900,
     "minutesActive": 226,
     "flightsOfStairs": 30
   },
   {
     "userID": 40,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 2261,
     "minutesActive": 293,
     "flightsOfStairs": 48
   },
   {
     "userID": 41,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 3987,
     "minutesActive": 148,
     "flightsOfStairs": 8
   },
   {
     "userID": 42,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 9094,
     "minutesActive": 258,
     "flightsOfStairs": 0
   },
   {
     "userID": 43,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 5933,
     "minutesActive": 159,
     "flightsOfStairs": 16
   },
   {
     "userID": 44,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12646,
     "minutesActive": 170,
     "flightsOfStairs": 18
   },
   {
     "userID": 45,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12699,
     "minutesActive": 279,
     "flightsOfStairs": 31
   },
   {
     "userID": 46,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 2801,
     "minutesActive": 280,
     "flightsOfStairs": 45
   },
   {
     "userID": 47,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 8653,
     "minutesActive": 98,
     "flightsOfStairs": 21
   },
   {
     "userID": 48,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 5408,
     "minutesActive": 275,
     "flightsOfStairs": 29
   },
   {
     "userID": 49,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 2155,
     "minutesActive": 283,
     "flightsOfStairs": 40
   },
   {
     "userID": 50,
-    "date": "2019/09/20",
+    "date": "2019/10/20",
     "numSteps": 12122,
     "minutesActive": 107,
     "flightsOfStairs": 11
   },
   {
     "userID": 1,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 5711,
     "minutesActive": 137,
     "flightsOfStairs": 43
   },
   {
     "userID": 2,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 7505,
     "minutesActive": 48,
     "flightsOfStairs": 40
   },
   {
     "userID": 3,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 8855,
     "minutesActive": 235,
     "flightsOfStairs": 17
   },
   {
     "userID": 4,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 7144,
     "minutesActive": 212,
     "flightsOfStairs": 9
   },
   {
     "userID": 5,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 14993,
     "minutesActive": 91,
     "flightsOfStairs": 42
   },
   {
     "userID": 6,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 3228,
     "minutesActive": 141,
     "flightsOfStairs": 9
   },
   {
     "userID": 7,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 3909,
     "minutesActive": 78,
     "flightsOfStairs": 19
   },
   {
     "userID": 8,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 10053,
     "minutesActive": 258,
     "flightsOfStairs": 6
   },
   {
     "userID": 9,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 14313,
     "minutesActive": 287,
     "flightsOfStairs": 34
   },
   {
     "userID": 10,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 3172,
     "minutesActive": 167,
     "flightsOfStairs": 9
   },
   {
     "userID": 11,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 11656,
     "minutesActive": 76,
     "flightsOfStairs": 17
   },
   {
     "userID": 12,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 11643,
     "minutesActive": 279,
     "flightsOfStairs": 38
   },
   {
     "userID": 13,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2392,
     "minutesActive": 144,
     "flightsOfStairs": 42
   },
   {
     "userID": 14,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4613,
     "minutesActive": 60,
     "flightsOfStairs": 48
   },
   {
     "userID": 15,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2819,
     "minutesActive": 89,
     "flightsOfStairs": 31
   },
   {
     "userID": 16,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 7336,
     "minutesActive": 230,
     "flightsOfStairs": 4
   },
   {
     "userID": 17,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 11328,
     "minutesActive": 74,
     "flightsOfStairs": 17
   },
   {
     "userID": 18,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 5534,
     "minutesActive": 263,
     "flightsOfStairs": 31
   },
   {
     "userID": 19,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4991,
     "minutesActive": 81,
     "flightsOfStairs": 17
   },
   {
     "userID": 20,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 15000,
     "minutesActive": 30,
     "flightsOfStairs": 3
   },
   {
     "userID": 21,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2480,
     "minutesActive": 120,
     "flightsOfStairs": 20
   },
   {
     "userID": 22,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4483,
     "minutesActive": 157,
     "flightsOfStairs": 40
   },
   {
     "userID": 23,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 8801,
     "minutesActive": 82,
     "flightsOfStairs": 8
   },
   {
     "userID": 24,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 13304,
     "minutesActive": 86,
     "flightsOfStairs": 40
   },
   {
     "userID": 25,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 8791,
     "minutesActive": 150,
     "flightsOfStairs": 43
   },
   {
     "userID": 26,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4752,
     "minutesActive": 48,
     "flightsOfStairs": 19
   },
   {
     "userID": 27,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 14646,
     "minutesActive": 232,
     "flightsOfStairs": 28
   },
   {
     "userID": 28,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 6547,
     "minutesActive": 296,
     "flightsOfStairs": 19
   },
   {
     "userID": 29,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4267,
     "minutesActive": 180,
     "flightsOfStairs": 39
   },
   {
     "userID": 30,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 5011,
     "minutesActive": 60,
     "flightsOfStairs": 41
   },
   {
     "userID": 31,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 14081,
     "minutesActive": 298,
     "flightsOfStairs": 41
   },
   {
     "userID": 32,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 7296,
     "minutesActive": 89,
     "flightsOfStairs": 10
   },
   {
     "userID": 33,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 4070,
     "minutesActive": 168,
     "flightsOfStairs": 3
   },
   {
     "userID": 34,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 13350,
     "minutesActive": 62,
     "flightsOfStairs": 39
   },
   {
     "userID": 35,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 3549,
     "minutesActive": 30,
     "flightsOfStairs": 49
   },
   {
     "userID": 36,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 10728,
     "minutesActive": 53,
     "flightsOfStairs": 38
   },
   {
     "userID": 37,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 13499,
     "minutesActive": 166,
     "flightsOfStairs": 11
   },
   {
     "userID": 38,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 12580,
     "minutesActive": 154,
     "flightsOfStairs": 2
   },
   {
     "userID": 39,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2951,
     "minutesActive": 234,
     "flightsOfStairs": 38
   },
   {
     "userID": 40,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 14752,
     "minutesActive": 109,
     "flightsOfStairs": 39
   },
   {
     "userID": 41,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 6436,
     "minutesActive": 133,
     "flightsOfStairs": 8
   },
   {
     "userID": 42,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 13272,
     "minutesActive": 279,
     "flightsOfStairs": 43
   },
   {
     "userID": 43,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2842,
     "minutesActive": 268,
     "flightsOfStairs": 45
   },
   {
     "userID": 44,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 5953,
     "minutesActive": 233,
     "flightsOfStairs": 39
   },
   {
     "userID": 45,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 11766,
     "minutesActive": 268,
     "flightsOfStairs": 22
   },
   {
     "userID": 46,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 5689,
     "minutesActive": 255,
     "flightsOfStairs": 40
   },
   {
     "userID": 47,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2507,
     "minutesActive": 165,
     "flightsOfStairs": 29
   },
   {
     "userID": 48,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 13896,
     "minutesActive": 238,
     "flightsOfStairs": 35
   },
   {
     "userID": 49,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 2162,
     "minutesActive": 51,
     "flightsOfStairs": 48
   },
   {
     "userID": 50,
-    "date": "2019/09/21",
+    "date": "2019/10/21",
     "numSteps": 3229,
     "minutesActive": 272,
     "flightsOfStairs": 31
   },
   {
     "userID": 1,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 8072,
     "minutesActive": 239,
     "flightsOfStairs": 23
   },
   {
     "userID": 2,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 9050,
     "minutesActive": 25,
     "flightsOfStairs": 0
   },
   {
     "userID": 3,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 4831,
     "minutesActive": 144,
     "flightsOfStairs": 21
   },
   {
     "userID": 4,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3030,
     "minutesActive": 285,
     "flightsOfStairs": 45
   },
   {
     "userID": 5,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7073,
     "minutesActive": 278,
     "flightsOfStairs": 37
   },
   {
     "userID": 6,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 4128,
     "minutesActive": 31,
     "flightsOfStairs": 32
   },
   {
     "userID": 7,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 11853,
     "minutesActive": 148,
     "flightsOfStairs": 20
   },
   {
     "userID": 8,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3034,
     "minutesActive": 113,
     "flightsOfStairs": 25
   },
   {
     "userID": 9,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 5883,
     "minutesActive": 160,
     "flightsOfStairs": 20
   },
   {
     "userID": 10,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10931,
     "minutesActive": 147,
     "flightsOfStairs": 48
   },
   {
     "userID": 11,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 9314,
     "minutesActive": 264,
     "flightsOfStairs": 17
   },
   {
     "userID": 12,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7983,
     "minutesActive": 289,
     "flightsOfStairs": 38
   },
   {
     "userID": 13,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 6968,
     "minutesActive": 149,
     "flightsOfStairs": 8
   },
   {
     "userID": 14,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 11078,
     "minutesActive": 212,
     "flightsOfStairs": 28
   },
   {
     "userID": 15,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 5951,
     "minutesActive": 161,
     "flightsOfStairs": 44
   },
   {
     "userID": 16,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 13706,
     "minutesActive": 114,
     "flightsOfStairs": 24
   },
   {
     "userID": 17,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 5796,
     "minutesActive": 88,
     "flightsOfStairs": 39
   },
   {
     "userID": 18,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7454,
     "minutesActive": 43,
     "flightsOfStairs": 16
   },
   {
     "userID": 19,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3343,
     "minutesActive": 270,
     "flightsOfStairs": 12
   },
   {
     "userID": 20,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3490,
     "minutesActive": 42,
     "flightsOfStairs": 32
   },
   {
     "userID": 21,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10527,
     "minutesActive": 295,
     "flightsOfStairs": 48
   },
   {
     "userID": 22,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7346,
     "minutesActive": 192,
     "flightsOfStairs": 47
   },
   {
     "userID": 23,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7024,
     "minutesActive": 215,
     "flightsOfStairs": 21
   },
   {
     "userID": 24,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 9998,
     "minutesActive": 249,
     "flightsOfStairs": 45
   },
   {
     "userID": 25,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 4408,
     "minutesActive": 236,
     "flightsOfStairs": 43
   },
   {
     "userID": 26,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 8411,
     "minutesActive": 77,
     "flightsOfStairs": 8
   },
   {
     "userID": 27,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 12086,
     "minutesActive": 160,
     "flightsOfStairs": 23
   },
   {
     "userID": 28,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 5464,
     "minutesActive": 217,
     "flightsOfStairs": 15
   },
   {
     "userID": 29,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3788,
     "minutesActive": 277,
     "flightsOfStairs": 43
   },
   {
     "userID": 30,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 7169,
     "minutesActive": 142,
     "flightsOfStairs": 31
   },
   {
     "userID": 31,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 4314,
     "minutesActive": 63,
     "flightsOfStairs": 7
   },
   {
     "userID": 32,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 8434,
     "minutesActive": 292,
     "flightsOfStairs": 1
   },
   {
     "userID": 33,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 11953,
     "minutesActive": 184,
     "flightsOfStairs": 21
   },
   {
     "userID": 34,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 6937,
     "minutesActive": 104,
     "flightsOfStairs": 2
   },
   {
     "userID": 35,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 14835,
     "minutesActive": 138,
     "flightsOfStairs": 29
   },
   {
     "userID": 36,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 9488,
     "minutesActive": 157,
     "flightsOfStairs": 22
   },
   {
     "userID": 37,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 3997,
     "minutesActive": 195,
     "flightsOfStairs": 28
   },
   {
     "userID": 38,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 14346,
     "minutesActive": 116,
     "flightsOfStairs": 17
   },
   {
     "userID": 39,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10135,
     "minutesActive": 121,
     "flightsOfStairs": 29
   },
   {
     "userID": 40,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10729,
     "minutesActive": 98,
     "flightsOfStairs": 35
   },
   {
     "userID": 41,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 12736,
     "minutesActive": 103,
     "flightsOfStairs": 22
   },
   {
     "userID": 42,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10268,
     "minutesActive": 41,
     "flightsOfStairs": 19
   },
   {
     "userID": 43,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 14908,
     "minutesActive": 134,
     "flightsOfStairs": 13
   },
   {
     "userID": 44,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10581,
     "minutesActive": 165,
     "flightsOfStairs": 28
   },
   {
     "userID": 45,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 2040,
     "minutesActive": 289,
     "flightsOfStairs": 46
   },
   {
     "userID": 46,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 12046,
     "minutesActive": 253,
     "flightsOfStairs": 47
   },
   {
     "userID": 47,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 10894,
     "minutesActive": 119,
     "flightsOfStairs": 27
   },
   {
     "userID": 48,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 11105,
     "minutesActive": 118,
     "flightsOfStairs": 25
   },
   {
     "userID": 49,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 6815,
     "minutesActive": 244,
     "flightsOfStairs": 4
   },
   {
     "userID": 50,
-    "date": "2019/09/22",
+    "date": "2019/10/22",
     "numSteps": 2121,
     "minutesActive": 237,
     "flightsOfStairs": 14
   }
 ];
+
+export default activityData;

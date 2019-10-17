@@ -1,10 +1,10 @@
 const chai = require('chai');
 const expect = chai.expect;
 
-const Activity = require('../src/Activity-Repository');
-const User = require('../src/User');
-const activityTestData = require('../test-data/activity-test-data');
-const userTestData = require('../test-data/user-test-data.js')
+import Activity from '../src/Activity-Repository';
+import User from '../src/User';
+import activityTestData from '../test-data/activity-test-data';
+import userTestData from '../test-data/user-test-data.js';
 
 describe('Activity', () => {
   let activity, user1, user3;

@@ -135,4 +135,4 @@ const hydrationTestData = [{
 },
 ];
 
-module.exports = hydrationTestData;
+export default hydrationTestData;

@@ -144,4 +144,4 @@ const sleepTestData = [{
 }
 ];
 
-module.exports = sleepTestData;
+export default sleepTestData;
