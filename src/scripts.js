@@ -61,9 +61,9 @@ $('#user-current-stairs-climbed').text(activity.returnStairsClimbedByDate(user.i
 $('#all-users-average-stairs-climbed').text(activity.returnUserAvgsByDate(currentDate, 'flightsOfStairs'));
 $('#user-current-active-mins').text(activity.returnActiveMinutesByDate(user.id, currentDate));
 $('#all-users-average-active-mins').text(activity.returnUserAvgsByDate(currentDate, 'minutesActive'));
-$('#user-step-count-by-week').text(activity.returnNumberOfStepsByWeek(user.id, currentDate))
-$('#user-stairs-climbed-by-week').text(activity.returnStairsClimbedByWeek(user.id, currentDate))
-$('#user-mins-active-by-week').text(activity.returnActiveMinutesByWeek(user.id, currentDate))
+$('#user-step-count-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'))
+$('#user-stairs-climbed-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'))
+$('#user-mins-active-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'minutesActive'))
 $('#winner-name').text(returnFriendChallengeWinner(friendNames))
 $('#user-water-trend-week').text(displayWaterStatus());
 $('#republic-plaza-challenge').text(activity.republicPlazaChallenge(user.id))
