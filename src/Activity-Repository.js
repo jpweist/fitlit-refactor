@@ -7,20 +7,24 @@ class Activity {
     return this.activityData.filter((activityObj) => activityObj.userID === userId);
   }
 
+  findUserCurDate(date) {
+    return this.activityData.filter((activityObj) => activityObj.date === date);
+  }
+
   returnAvgStairsClimbedAllUsersByDate(date)  {
-    let allUsersStairs = this.activityData.filter((activityObj) => activityObj.date === date);
+    let allUsersStairs = this.findUserCurDate(date);
     let allUsersStairsTotal = allUsersStairs.reduce((activityObjA, activityObjB) => activityObjA + activityObjB.flightsOfStairs, 0);
     return parseInt(allUsersStairsTotal / allUsersStairs.length);
   }
 
   returnAvgStepsTakenAllUsersByDate(date) {
-    let allUsersSteps = this.activityData.filter((activityObj) => activityObj.date === date);
+    let allUsersSteps = this.findUserCurDate(date);
     let allUsersStepsTotal = allUsersSteps.reduce((activityObjA, activityObjB) => activityObjA + activityObjB.numSteps, 0);
     return parseInt(allUsersStepsTotal / allUsersSteps.length );
   } 
 
   returnAvgActiveMinutesAllUsersByDate(date) {
-    let allUsersActiveMins = this.activityData.filter((activityObj) => activityObj.date === date)
+    let allUsersActiveMins = this.findUserCurDate(date);
     let allUsersActiveMinsTotal = allUsersActiveMins.reduce((activityObjA, activityObjB) => activityObjA + activityObjB.minutesActive, 0);
     return parseInt(allUsersActiveMinsTotal / allUsersActiveMins.length);
   } 

@@ -11,9 +11,9 @@ describe('Activity', () => {
   beforeEach(() => {
     activity = new Activity(activityTestData);
     user1 = new User(userTestData[0]);
-    user2 = new User(userTestData[1]);
-    user3 = new User(userTestData[2]);
-    userID1 = 1;
+    // user2 = new User(userTestData[1]);
+    // user3 = new User(userTestData[2]);
+    // userID1 = 1;
   });
 
   it('should be a function', function () {
