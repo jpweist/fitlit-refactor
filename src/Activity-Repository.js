@@ -22,7 +22,11 @@ class Activity {
     return parseInt(((numOfSteps * user.strideLength) / 5280).toFixed(0));
   } 
 
-  returnActivityByDate(userId, date, key)
+  returnActivityByDate(userId, date, key) {
+    return this.findCurrentUserData(userId).find(elem => {
+      return elem.date === date
+    })[key];
+  }
 
   returnActiveMinutesByDate(userId, date) {
     return this.findCurrentUserData(userId).find(elem => {

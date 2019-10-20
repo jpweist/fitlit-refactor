@@ -101,7 +101,7 @@ function populateFriends(userFriends) {
     return ({
       id: userFriend.id, 
       name: userFriend.returnUserFirstName(),
-      steps: (activity.returnNumberOfStepsByWeek(userFriend.id, currentDate)).reduce((acc, day) => acc += day)})
+      steps: (activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps')).reduce((acc, day) => acc += day)})
   });
   friends.push(populateUserDataForFriendChallenge());
   return friends.sort((userA, userB) => userB.steps - userA.steps);
@@ -111,7 +111,7 @@ function populateUserDataForFriendChallenge() {
   return {
     id: user.id,
     name: newUser.returnUserFirstName(),
-    steps: activity.returnNumberOfStepsByWeek(user.id,currentDate)
+    steps: activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps')
       .reduce((acc, day) => acc += day)
   }
 }
@@ -250,7 +250,7 @@ var stepsByWeek = new Chart(ctx, {
     labels: returnDatesOfWeek(user.id, currentDate),
     datasets: [{
       label: 'steps',
-      data: activity.returnNumberOfStepsByWeek(user.id, currentDate),
+      data: activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'),
       backgroundColor: [
         'rgba(221, 160, 221, 0.2)',
       ],
@@ -287,7 +287,7 @@ var activityByWeek = new Chart(ctx, {
     labels: returnDatesOfWeek(user.id, currentDate),
     datasets: [{
       label: 'active minutes',
-      data: activity.returnActiveMinutesByWeek(user.id, currentDate),
+      data: activity.returnUserActivityByWeek(user.id, currentDate, 'minutesActive'),
       backgroundColor: [
         'rgb(221, 160, 221, 0.2)',
       ],
@@ -323,7 +323,7 @@ var stairsByWeek = new Chart(ctx, {
     labels: returnDatesOfWeek(user.id, currentDate),
     datasets: [{
       label: 'stairs climbed',
-      data: activity.returnStairsClimbedByWeek(user.id, currentDate),
+      data: activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'),
       backgroundColor: [
         'rgb(221, 160, 221, 0.2)',
       ],
