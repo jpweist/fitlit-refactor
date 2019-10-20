@@ -101,7 +101,7 @@ function populateFriends(userFriends) {
     return ({
       id: userFriend.id, 
       name: userFriend.returnUserFirstName(),
-      steps: (activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps')).reduce((acc, day) => acc += day)})
+      steps: (activity.returnUserActivityByWeek(userFriend.id, currentDate, 'numSteps')).reduce((acc, day) => acc += day)})
   });
   friends.push(populateUserDataForFriendChallenge());
   return friends.sort((userA, userB) => userB.steps - userA.steps);
