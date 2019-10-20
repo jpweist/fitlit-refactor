@@ -56,11 +56,11 @@ $('#user-rested').text(displaySleepStatus());
 $('#user-current-mins-active').text(activity.returnActiveMinutesByDate(user.id, currentDate));
 $('#user-current-miles-walked').text(activity.returnMilesWalkedByDate(user, currentDate));
 $('#user-current-step-count-vs-average').text(activity.returnNumberOfStepsByDate(user.id, currentDate));
-$('#all-users-average-step-count').text(activity.returnAvgStepsTakenAllUsersByDate(currentDate));
+$('#all-users-average-step-count').text(activity.returnUserAvgsByDate(currentDate, 'numSteps'));
 $('#user-current-stairs-climbed').text(activity.returnStairsClimbedByDate(user.id, currentDate));
-$('#all-users-average-stairs-climbed').text(activity.returnAvgStairsClimbedAllUsersByDate(currentDate));
+$('#all-users-average-stairs-climbed').text(activity.returnUserAvgsByDate(currentDate, 'flightsOfStairs'));
 $('#user-current-active-mins').text(activity.returnActiveMinutesByDate(user.id, currentDate));
-$('#all-users-average-active-mins').text(activity.returnAvgActiveMinutesAllUsersByDate(currentDate));
+$('#all-users-average-active-mins').text(activity.returnUserAvgsByDate(currentDate, 'minutesActive'));
 $('#user-step-count-by-week').text(activity.returnNumberOfStepsByWeek(user.id, currentDate))
 $('#user-stairs-climbed-by-week').text(activity.returnStairsClimbedByWeek(user.id, currentDate))
 $('#user-mins-active-by-week').text(activity.returnActiveMinutesByWeek(user.id, currentDate))
