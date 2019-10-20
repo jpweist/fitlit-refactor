@@ -51,15 +51,15 @@ $('#user-sleep-by-week').text(sleep.returnSleepByWeek(user.id, currentDate));
 $('#user-sleep-quality-by-week').text(sleep.returnSleepQualityByWeek(user.id, currentDate));
 $('#user-average-sleep-quality').text(sleep.returnAverageSleepQuality(user.id));
 $('#user-average-hours-slept').text(sleep.returnAverageSleep(user.id));
-$('#user-current-step-count').text(activity.returnNumberOfStepsByDate(user.id, currentDate));
+$('#user-current-step-count').text(activity.returnActivityByDate(user.id, currentDate, 'numSteps'));
 $('#user-rested').text(displaySleepStatus());
-$('#user-current-mins-active').text(activity.returnActiveMinutesByDate(user.id, currentDate));
+$('#user-current-mins-active').text(activity.returnActivityByDate(user.id, currentDate, 'minutesActive'));
 $('#user-current-miles-walked').text(activity.returnMilesWalkedByDate(user, currentDate));
-$('#user-current-step-count-vs-average').text(activity.returnNumberOfStepsByDate(user.id, currentDate));
+$('#user-current-step-count-vs-average').text(activity.returnActivityByDate(user.id, currentDate, 'numSteps'));
 $('#all-users-average-step-count').text(activity.returnUserAvgsByDate(currentDate, 'numSteps'));
-$('#user-current-stairs-climbed').text(activity.returnStairsClimbedByDate(user.id, currentDate));
+$('#user-current-stairs-climbed').text(activity.returnActivityByDate(user.id, currentDate, 'flightsOfStairs'));
 $('#all-users-average-stairs-climbed').text(activity.returnUserAvgsByDate(currentDate, 'flightsOfStairs'));
-$('#user-current-active-mins').text(activity.returnActiveMinutesByDate(user.id, currentDate));
+$('#user-current-active-mins').text(activity.returnActivityByDate(user.id, currentDate, 'minutesACtive'));
 $('#all-users-average-active-mins').text(activity.returnUserAvgsByDate(currentDate, 'minutesActive'));
 $('#user-step-count-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'))
 $('#user-stairs-climbed-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'))

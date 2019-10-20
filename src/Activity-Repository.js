@@ -28,23 +28,6 @@ class Activity {
     })[key];
   }
 
-  returnActiveMinutesByDate(userId, date) {
-    return this.findCurrentUserData(userId).find(elem => {
-      return elem.date === date
-    }).minutesActive
-  } 
-  returnNumberOfStepsByDate(userID, date) {
-    return this.findCurrentUserData(userID).find((element) => {
-      return element.date === date;
-    }).numSteps;
-  }
-
-  returnStairsClimbedByDate(userID, date) {
-    return this.findCurrentUserData(userID).find((element) => {
-      return element.date === date;
-    }).flightsOfStairs;
-  }
-
   returnAvgActiveMinutesByWeek(userId, date) {
     let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
     let userActiveMins = this.findCurrentUserData(userId).map(activityObj => activityObj.minutesActive).splice(index - 6, 7);
