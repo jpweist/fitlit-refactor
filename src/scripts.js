@@ -59,7 +59,7 @@ $('#user-current-step-count-vs-average').text(activity.returnActivityByDate(user
 $('#all-users-average-step-count').text(activity.returnUserAvgsByDate(currentDate, 'numSteps'));
 $('#user-current-stairs-climbed').text(activity.returnActivityByDate(user.id, currentDate, 'flightsOfStairs'));
 $('#all-users-average-stairs-climbed').text(activity.returnUserAvgsByDate(currentDate, 'flightsOfStairs'));
-$('#user-current-active-mins').text(activity.returnActivityByDate(user.id, currentDate, 'minutesACtive'));
+$('#user-current-active-mins').text(activity.returnActivityByDate(user.id, currentDate, 'minutesActive'));
 $('#all-users-average-active-mins').text(activity.returnUserAvgsByDate(currentDate, 'minutesActive'));
 $('#user-step-count-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'))
 $('#user-stairs-climbed-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'))

@@ -7,12 +7,11 @@ import activityTestData from '../test-data/activity-test-data';
 import userTestData from '../test-data/user-test-data.js';
 
 describe('Activity', () => {
-  let activity, user1, user3;
+  let activity, user1, user2;
   beforeEach(() => {
     activity = new Activity(activityTestData);
     user1 = new User(userTestData[0]);
-    // user2 = new User(userTestData[1]);
-    // user3 = new User(userTestData[2]);
+    user2 = new User(userTestData[1]);
     // userID1 = 1;
   });
 
@@ -29,7 +28,7 @@ describe('Activity', () => {
   })
 
   it('should return a boolean based on whether a user achieved their step goal an a specific day', () => {
-    expect(activity.checkStepGoalMetByDate(user3, '2019/06/15')).to.equal(true);
+    expect(activity.checkStepGoalMetByDate(user2, '2019/06/15')).to.equal(true);
   })
 
   it('should return for a specific user their all time stair climbing record', () => {
