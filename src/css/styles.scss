@@ -1,6 +1,10 @@
-$mainColor: pink;
+$mainColor: plum;
 $BKcolorHeadContainer: #484e52;
 $BKbody: #111f28;
+$mainTextColor: #ffffff;
+$containerBorder: #afb9c5;
+$containerHover: #999999;
+$boxShadowContainer: #666666;
 
 * {
   box-sizing: border-box;
@@ -15,7 +19,7 @@ body {
 header {
   align-items: center;
   background-color: $BKcolorHeadContainer;
-  color: #ffffff;
+  color: $mainTextColor;
   display: flex;
   height: 60px;
   justify-content: space-between;
@@ -24,7 +28,7 @@ header {
 }
 
 header p {
-  color: #ffffff;
+  color: $mainTextColor;
   font-size: 20px;
 }
 
@@ -43,10 +47,10 @@ main {
 container {
   background-color: $BKcolorHeadContainer;
   border-radius: 10px;
-  border: solid 2px #afb9c5;
-  box-shadow: 0 0 5px #666666;
+  border: solid 2px $containerBorder;
+  box-shadow: 0 0 5px $boxShadowContainer;
   break-inside: avoid;
-  color: #ffffff;
+  color: $mainTextColor;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -56,7 +60,7 @@ container {
 }
 
 container:hover {
-  box-shadow: 0 0 10px #999999;
+  box-shadow: 0 0 10px $containerHover;
   transition: 0.4s;
 }
 
@@ -69,7 +73,7 @@ h4 {
 }
 
 h3 {
-  border-bottom: solid 1px #ffffff;
+  border-bottom: solid 1px $mainTextColor;
   display: block;
   font-size: 20px;
   margin-bottom:15px;
