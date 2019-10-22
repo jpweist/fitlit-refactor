@@ -25,16 +25,16 @@ header {
   justify-content: space-between;
   margin-bottom:10px;
   padding: 0 10px;
+
+  p {
+    color: $mainTextColor;
+    font-size: 1.25rem;
+  }
+  span {
+    color: $mainColor;
+  }
 }
 
-header p {
-  color: $mainTextColor;
-  font-size: 20px;
-}
-
-header span {
-  color: $mainColor;
-}
 
 main {
   break-inside: avoid;
@@ -57,28 +57,29 @@ container {
   margin-bottom: 20px;
   padding: 20px;
   width: 100%;
-}
 
-container:hover {
-  box-shadow: 0 0 10px $containerHover;
-  transition: 0.4s;
+  &:hover {
+    box-shadow: 0 0 10px $containerHover;
+    transition: 0.4s;
+  }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2rem;
 }
 
-h4 {
-  font-size: 18px;
-}
-
-h3 {
+h2 {
   border-bottom: solid 1px $mainTextColor;
   display: block;
-  font-size: 20px;
+  font-size: 1.15rem;
   margin-bottom:15px;
   padding-bottom: 15px;
   text-align: center;
+}
+
+h3 {
+  font-size: .8rem;
+
 }
 
 p {
@@ -101,21 +102,21 @@ img {
 
 .you-vs-world {
   text-align: center;
-}
 
-.you-vs-world h4 {
-  margin-bottom: 4px;
-  margin-top: 4px;
-}
+  h3 {
+    margin-bottom: 4px;
+    margin-top: 4px;
+  }
 
-.you-vs-world span {
-  color: $mainColor;
+  span {
+    color: $mainColor;
+  }
 }
 
 .number,
 #user-water-by-day {
   color: $mainColor;
-  font-size: 40px;
+  font-size: 2.75rem;
   font-weight: bold;
   margin: 3px;
   opacity: 0.8;
@@ -127,14 +128,14 @@ img {
 
 #winner-name {
   color: $mainColor;
-  font-size: 18px;
+  font-size: 1.15rem;
   font-weight: bold;
   text-align: center;
 }
 
 #republic-plaza-challenge {
   color: $mainColor;
-  font-size: 20px;
+  font-size: 2rem;
   font-weight: bold;
   padding-left: 2px;
   padding-right: 2px;
