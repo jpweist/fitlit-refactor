@@ -11,7 +11,7 @@ class Activity {
     return this.activityData.filter((activityObj) => activityObj.date === date);
   }
 
-  returnUserAvgsByDate(date, key)  {
+  returnUserAvgsByDate(date, key) {
     let allUsersActivity = this.findUserCurDate(date);
     let allUsersTotal = allUsersActivity.reduce((activityObjA, activityObjB) => activityObjA + activityObjB[key], 0);
     return parseInt(allUsersTotal / allUsersActivity.length);
@@ -20,7 +20,7 @@ class Activity {
   returnMilesWalkedByDate(user, date) {
     let numOfSteps = this.activityData.find(activityObj => activityObj.userID === user.id && activityObj.date === date).numSteps;
     return parseInt(((numOfSteps * user.strideLength) / 5280).toFixed(0));
-  } 
+  }
 
   returnActivityByDate(userId, date, key) {
     return this.findCurrentUserData(userId).find(elem => {
@@ -35,7 +35,7 @@ class Activity {
       totalMins += dailyActiveMins;
       return totalMins;
     }, 0) / 7);
-  } 
+  }
 
   returnUserActivityByWeek(userId, date, key) {
     let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
@@ -46,12 +46,12 @@ class Activity {
     if ((user.dailyStepGoal) <= (this.findCurrentUserData(user.id).find(elem => elem.date === date).numSteps)) {
       return true;
     }
-    return false; 
-  } 
+    return false;
+  }
 
   returnAllDaysStepGoalExceeded(user) {
     return this.activityData.filter((activityObj) => activityObj.userID === user.id && activityObj.numSteps > user.dailyStepGoal).map(activityObj => activityObj.date);
-  } 
+  }
 
   returnStairClimbingRecord(userId) {
     return this.findCurrentUserData(userId).sort((value1, value2) => {
@@ -61,8 +61,8 @@ class Activity {
 
   checkUserActivityStatusByDate(userID, date) {
     if ((this.findCurrentUserData(userID).find(day => {
-      return day.date === date;
-    }).minutesActive) >= (90)) {
+        return day.date === date;
+      }).minutesActive) >= (90)) {
       return true;
     }
     return false;
