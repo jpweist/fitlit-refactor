@@ -1,3 +1,7 @@
+$mainColor: pink;
+$BKcolorHeadContainer: #484e52;
+$BKbody: #111f28;
+
 * {
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
@@ -5,12 +9,12 @@
   padding: 0;
 }
 body {
-  background-color: #111f28;
+  background-color: $BKbody;
 }
 
 header {
   align-items: center;
-  background-color: #484e52;
+  background-color: $BKcolorHeadContainer;
   color: #ffffff;
   display: flex;
   height: 60px;
@@ -25,19 +29,19 @@ header p {
 }
 
 header span {
-  color: plum
+  color: $mainColor;
 }
 
 main {
   break-inside: avoid;
   column-count: 3;
-  column-width: 15em; 
+  column-width: 15em;
   padding: 10px;
   width: 100%;
 }
 
 container {
-  background-color: #484e52;
+  background-color: $BKcolorHeadContainer;
   border-radius: 10px;
   border: solid 2px #afb9c5;
   box-shadow: 0 0 5px #666666;
@@ -101,12 +105,12 @@ img {
 }
 
 .you-vs-world span {
-  color: plum;
+  color: $mainColor;
 }
 
 .number,
 #user-water-by-day {
-  color: plum;
+  color: $mainColor;
   font-size: 40px;
   font-weight: bold;
   margin: 3px;
@@ -118,20 +122,16 @@ img {
 }
 
 #winner-name {
-  color: plum;
+  color: $mainColor;
   font-size: 18px;
   font-weight: bold;
   text-align: center;
 }
 
 #republic-plaza-challenge {
-  color: plum;
+  color: $mainColor;
   font-size: 20px;
   font-weight: bold;
   padding-left: 2px;
   padding-right: 2px;
 }
-
-
-
-
