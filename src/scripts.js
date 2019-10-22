@@ -13,6 +13,7 @@ import activityData from '../data/activity';
 
 // An example of how you tell webpack to use a CSS (SCSS) file
 import './css/styles.scss';
+import variables from './css/styles.scss';
 
 // An example of how you tell webpack to use an image (also need to link to it in the index.html)
 import './images/building.svg'
@@ -99,7 +100,7 @@ function populateFriends(userFriends) {
   let friends = userFriends.map(friend => {
     let userFriend = new User(userRepo.returnUserData(friend))
     return ({
-      id: userFriend.id, 
+      id: userFriend.id,
       name: userFriend.returnUserFirstName(),
       steps: (activity.returnNumberOfStepsByWeek(userFriend.id, currentDate)).reduce((acc, day) => acc += day)})
   });
@@ -215,7 +216,7 @@ var sleepQualityHrsByWeek = new Chart(ctx, {
       data: sleep.returnSleepQualityByWeek(user.id, currentDate),
       backgroundColor: [
         'rgb(221, 160, 221, 0.2)',
-       
+
       ],
       borderColor: [
         'rgba(54, 162, 235, 1)',
