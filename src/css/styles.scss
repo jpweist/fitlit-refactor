@@ -1,80 +1,90 @@
+$mainColor: THISTLE;
+$BKcolorHeadContainer: #484e52;
+$BKbody: #111f28;
+$mainTextColor: #ffffff;
+$containerBorder: #afb9c5;
+$containerHover: #999999;
+$boxShadowContainer: #666666;
+
 * {
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
 }
+
 body {
-  background-color: #111f28;
+  background-color: $BKbody;
 }
 
 header {
   align-items: center;
-  background-color: #484e52;
-  color: #ffffff;
+  background-color: $BKcolorHeadContainer;
+  color: $mainTextColor;
   display: flex;
-  height: 60px;
+  height: 3.85rem;
   justify-content: space-between;
-  margin-bottom:10px;
-  padding: 0 10px;
+  margin-bottom: .75rem;
+  padding: 0 .75rem;
+
+  p {
+    color: $mainTextColor;
+    font-size: 1.25rem;
+  }
+  span {
+    color: $mainColor;
+  }
 }
 
-header p {
-  color: #ffffff;
-  font-size: 20px;
-}
-
-header span {
-  color: plum
-}
 
 main {
   break-inside: avoid;
   column-count: 3;
-  column-width: 15em; 
-  padding: 10px;
+  column-width: 15em;
+  padding: .75rem;
   width: 100%;
 }
 
 container {
-  background-color: #484e52;
+  background-color: $BKcolorHeadContainer;
   border-radius: 10px;
-  border: solid 2px #afb9c5;
-  box-shadow: 0 0 5px #666666;
+  border: solid 2px $containerBorder;
+  box-shadow: 0 0 5px $boxShadowContainer;
   break-inside: avoid;
-  color: #ffffff;
+  color: $mainTextColor;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 20px;
-  padding: 20px;
+  margin-bottom: 1.25rem;
+  padding: 1.25rem;
   width: 100%;
-}
 
-container:hover {
-  box-shadow: 0 0 10px #999999;
-  transition: 0.4s;
+  &:hover {
+    box-shadow: 0 0 10px $containerHover;
+    transition: 0.4s;
+  }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2rem;
 }
 
-h4 {
-  font-size: 18px;
-}
-
-h3 {
-  border-bottom: solid 1px #ffffff;
+h2 {
+  border-bottom: solid 1px $mainTextColor;
   display: block;
-  font-size: 20px;
-  margin-bottom:15px;
-  padding-bottom: 15px;
+  font-size: 1.15rem;
+  margin-bottom: 1.15rem;
+  padding-bottom: 1.15rem;
   text-align: center;
 }
 
+h3 {
+  font-size: .9rem;
+
+}
+
 p {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 #user-admin-info p {
@@ -93,23 +103,23 @@ img {
 
 .you-vs-world {
   text-align: center;
-}
 
-.you-vs-world h4 {
-  margin-bottom: 4px;
-  margin-top: 4px;
-}
+  h3 {
+    margin-bottom: .25rem;
+    margin-top: .25rem;
+  }
 
-.you-vs-world span {
-  color: plum;
+  span {
+    color: $mainColor;
+  }
 }
 
 .number,
 #user-water-by-day {
-  color: plum;
-  font-size: 40px;
+  color: $mainColor;
+  font-size: 2.75rem;
   font-weight: bold;
-  margin: 3px;
+  margin: .25rem;
   opacity: 0.8;
 }
 
@@ -118,20 +128,16 @@ img {
 }
 
 #winner-name {
-  color: plum;
-  font-size: 18px;
+  color: $mainColor;
+  font-size: 1.15rem;
   font-weight: bold;
   text-align: center;
 }
 
 #republic-plaza-challenge {
-  color: plum;
-  font-size: 20px;
+  color: $mainColor;
+  font-size: 2rem;
   font-weight: bold;
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: .15rem;
+  padding-right: .15rem;
 }
-
-
-
-
