@@ -76,6 +76,12 @@ h2 {
   margin-bottom: 1.15rem;
   padding-bottom: 1.15rem;
   text-align: center;
+  a {
+    text-decoration: none;
+    color: $mainTextColor;
+
+
+  }
 }
 
 h3 {
