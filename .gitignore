@@ -83,3 +83,12 @@ typings/
 ######################
 .DS_Store
 .DS_Store?
+<<<<<<< HEAD
+=======
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+node_modules/
+>>>>>>> 2f36f03e60dd05e4dfa6c82c497359600062ebc8
