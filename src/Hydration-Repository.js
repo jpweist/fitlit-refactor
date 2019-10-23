@@ -1,5 +1,8 @@
-class Hydration {
-  constructor(hydrationData) {
+import UserParent from '../src/user-parent.js';
+
+class Hydration extends UserParent{
+  constructor(userData, hydrationData) {
+    super(userData, hydrationData)
     this.hydrationData = hydrationData;
   }
 
@@ -8,7 +11,7 @@ class Hydration {
   }
 
   returnAvgFluidOzPerDayAllTime(userId) {
-    return this.findCurrentUserData(userId).reduce((totalOunces, hydrationObj) => {
+    return UserParent.findCurrentUserData(userId).reduce((totalOunces, hydrationObj) => {
       return totalOunces += hydrationObj.numOunces;
     }, 0);
   }

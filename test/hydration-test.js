@@ -3,11 +3,12 @@ const expect = chai.expect;
 
 import Hydration from '../src/Hydration-Repository';
 import hydrationTestData from '../test-data/hydration-test-data';
+import userTestData from '../test-data/user-test-data.js';
 
 describe('Hydration', () => {
   let hydration;
   beforeEach(() => {
-    hydration = new Hydration(hydrationTestData);
+    hydration = new Hydration(userTestData, hydrationTestData);
   });
 
   it('should be a function', function() {
