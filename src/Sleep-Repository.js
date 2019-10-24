@@ -6,17 +6,17 @@ class Sleep extends UserParent{
     this.data = sleepData;
     this.isRested = false;
   }
-  
+
   returnSleepQualityGreaterThanThree(date) {
     let usersWithHighestQualitySleep = [];
-    let userIDList = this.sleepData.reduce((acc, element) => {
+    let userIDList = this.data.reduce((acc, element) => {
       if (!acc.includes(element.userID)) {
         acc.push(element.userID)
       }
       return acc
     }, []);
     userIDList.forEach(id => {
-      if ((this.returnSleepQualityByWeek(id, date).reduce((acc, elem) => {
+      if ((this.returnUserDataByWeek(id, date, 'sleepQuality').reduce((acc, elem) => {
         acc += elem;
         return acc;
       }, 0) / 7) >= 3) { 
@@ -27,7 +27,7 @@ class Sleep extends UserParent{
   }
 
   returnUserWithMostSleep(date) {
-    let sleepByDay = this.sleepData.filter(elem => {
+    let sleepByDay = this.data.filter(elem => {
       return elem.date === date;
     })
     sleepByDay.sort((firstElem, secondElem) => {
@@ -39,7 +39,7 @@ class Sleep extends UserParent{
   }
 
   checkUserRestedByDate(userID, date) {
-    if ((this.findCurrentUserData(userID).find(day => {
+    if ((this.findCurrentUserData(userID, this.data).find(day => {
       return day.date === date;
     }).hoursSlept) >= (8)) {
       return this.isRested = true;
