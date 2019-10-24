@@ -6,12 +6,9 @@ class Hydration extends UserParent{
     this.data = hydrationData;
   }
 
-  // findCurrentUserData(userId) {
-  //   return this.hydrationData.filter((hydrationObj) => hydrationObj.userID === userId);
-  // }
 
   returnAvgFluidOzPerDayAllTime(userId) {
-    return UserParent.findCurrentUserData(userId, this.data).reduce((totalOunces, hydrationObj) => {
+    return this.findCurrentUserData(userId, this.data).reduce((totalOunces, hydrationObj) => {
       return totalOunces += hydrationObj.numOunces;
     }, 0);
   }

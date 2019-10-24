@@ -18,9 +18,9 @@ describe('Hydration', () => {
     expect(Hydration).to.be.a('function');
   });
   
-  // it('should calculate average fluid ozs consumed per day for all time', function() {
-  //   expect(hydration.returnAvgFluidOzPerDayAllTime(1)).to.equal(536);
-  // });
+  it('should calculate average fluid ozs consumed per day for all time', function() {
+    expect(hydration.returnAvgFluidOzPerDayAllTime(1)).to.equal(536);
+  });
 
   // it('should calculate fluid ounces by specific date', function() {
   //   expect(hydration.returnFluidOzByDate(3, '2019/06/15')).to.equal(47);

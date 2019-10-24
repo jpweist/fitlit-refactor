@@ -22,7 +22,7 @@ describe('UserParent', () => {
 
   describe('Method Tests', () => {
     it('should pass methods to its children', () => {
-      expect(UserParent.findCurrentUserData(1, hydrationTestData)).to.deep.equal([{
+      expect(hydration.findCurrentUserData(1, hydrationTestData)).to.deep.equal([{
           userID: 1,
           date: '2019/06/15',
           numOunces: 37

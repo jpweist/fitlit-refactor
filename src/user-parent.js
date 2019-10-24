@@ -4,16 +4,16 @@ class UserParent {
   }
 
   findCurrentUserData(id, data) {
-    return data.filter((dataObj) => dataObj.id === id);
+    return data.filter((dataObj) => dataObj.userID === id);
   }
 
-  findUserCurDate(date) {
-    return this.activityData.filter((activityObj) => activityObj.date === date);
+  findUserCurDate(date, data) {
+    return data.filter((dataObj) => dataObj.date === date);
   }
 
-  returnUserDataByWeek(userId, date, key) {
-    let index = UserParent.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
+  returnUserDataByWeek(userId, date, key, data) {
+    let index = this.findCurrentUserData(userId).findIndex((dataObj) => dataObj.date === date);
+    return this.findCurrentUserData(userId).map(dataObj => dataObj[key]).splice(index - 6, 7);
   }
 
   returnDataByDate(userId, date, key) {
@@ -23,9 +23,9 @@ class UserParent {
   }
 
   returnUserAvgsByDate(date, key) {
-    let allUsersActivity = this.findUserCurDate(date);
-    let allUsersTotal = allUsersActivity.reduce((activityObjA, activityObjB) => activityObjA + activityObjB[key], 0);
-    return parseInt(allUsersTotal / allUsersActivity.length);
+    let allUsers = this.findUserCurDate(date);
+    let allUsersTotal = allUsers.reduce((dataObjA, dataObjB) => dataObjA + dataObjB[key], 0);
+    return parseInt(allUsersTotal / allUsers.length);
   }
 }
 
