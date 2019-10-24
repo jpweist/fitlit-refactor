@@ -3,8 +3,8 @@ class UserParent {
     this.users = userData;
   }
 
-  findCurrentUserData(id) {
-    return this.data.filter((dataObj) => dataObj.id === id);
+  findCurrentUserData(id, data) {
+    return data.filter((dataObj) => dataObj.id === id);
   }
 
   findUserCurDate(date) {
@@ -12,7 +12,7 @@ class UserParent {
   }
 
   returnUserDataByWeek(userId, date, key) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
+    let index = UserParent.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
     return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
   }
 
