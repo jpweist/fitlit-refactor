@@ -29,10 +29,18 @@ class UserParent {
 
   returnUserAvgAllTime(userId, key) {
     let user = this.findCurrentUserData(userId, this.data)
-    let reduced = user.reduce((acc, dataObj) => {
+    let total = user.reduce((acc, dataObj) => {
       return acc += dataObj[key];
     }, 0);
-    return parseInt((reduced / user.length).toFixed(1));
+    return parseInt((total / user.length).toFixed(1));
+  }
+
+  returnAllUsersAverage(data, key) {
+    let total = data.reduce((acc, element) => {
+      acc += element[key];
+      return acc;
+    }, 0);
+    return parseFloat((total / data.length).toFixed(1));
   }
 };
 

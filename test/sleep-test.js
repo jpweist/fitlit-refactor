@@ -39,7 +39,7 @@ describe('Sleep', () => {
   });
 
   it('should return the average sleep quality for all users', () => {
-    expect(sleep.returnAllUsersAverageSleepQuality()).to.equal(3.1);
+    expect(sleep.returnAllUsersAverageSleepQuality(sleepTestData, 'sleepQuality')).to.equal(3.1);
   })
 
   it('should return all users who averaged greater than 3 sleep quality for a given week', () => {
