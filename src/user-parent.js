@@ -11,22 +11,29 @@ class UserParent {
     return data.filter((dataObj) => dataObj.date === date);
   }
 
-  returnUserDataByWeek(userId, date, key, data) {
-    let index = this.findCurrentUserData(userId).findIndex((dataObj) => dataObj.date === date);
-    return this.findCurrentUserData(userId).map(dataObj => dataObj[key]).splice(index - 6, 7);
+  returnUserDataByWeek(userId, date, key) {
+    let index = this.findCurrentUserData(userId, this.data).findIndex((dataObj) => dataObj.date === date);
+    return this.findCurrentUserData(userId, this.data).map(dataObj => dataObj[key]).splice(index - 6, 7);
   }
 
   returnDataByDate(userId, date, key) {
-    return this.findCurrentUserData(userId).find(elem => {
-      return elem.date === date
-    })[key];
+    let user = this.findCurrentUserData(userId, this.data).find(elem => elem.date === date)[key];
+    return user;
   }
 
   returnUserAvgsByDate(date, key) {
-    let allUsers = this.findUserCurDate(date);
+    let allUsers = this.findUserCurDate(date, this.data);
     let allUsersTotal = allUsers.reduce((dataObjA, dataObjB) => dataObjA + dataObjB[key], 0);
-    return parseInt(allUsersTotal / allUsers.length);
+    return parseInt((allUsersTotal / allUsers.length).toFixed(1));
   }
-}
+
+  returnUserAvgAllTime(userId, key) {
+    let user = this.findCurrentUserData(userId, this.data)
+    let reduced = user.reduce((acc, dataObj) => {
+      return acc += dataObj[key];
+    }, 0);
+    return parseInt((reduced / user.length).toFixed(1));
+  }
+};
 
 export default UserParent;

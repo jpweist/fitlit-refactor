@@ -4,11 +4,6 @@ class Sleep {
     this.isRested = false;
   }
 
-  findCurrentUserData(userID) {
-    return this.sleepData.filter((currentElement) => {
-      return currentElement.userID === userID;
-    });
-  }
 
   returnAverageSleep(userID) {
     let userSleepData = this.findCurrentUserData(userID);

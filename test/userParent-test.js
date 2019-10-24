@@ -70,4 +70,8 @@ describe('UserParent', () => {
       ]);
     });
   });
+
+  it('should do stuff', () => {
+    hydration.returnUserAvgAllTime(1, 'numOunces')
+  })
 });
