@@ -31,8 +31,8 @@ const currentDate = '2019/06/30';
 const userRepo = new UserRepository(userData);
 const user = userRepo.returnUserData(userIdNum);
 const newUser = new User(user);
-const hydration = new Hydration(hydrationData);
-const sleep = new Sleep(sleepData);
+const hydration = new Hydration(userData, hydrationData);
+const sleep = new Sleep(userData, sleepData);
 const activity = new Activity(activityData)
 const friendNames = returnFriendListNames();
 const friendSteps = returnFriendListSteps();
@@ -45,13 +45,13 @@ $('#user-info-email').text(newUser.email);
 $('#user-info-address').text(newUser.address);
 $('#user-info-step-goal').text(newUser.dailyStepGoal);
 $('#average-step-goal-all-users').text(userRepo.returnAllUsersAverageStepGoal());
-$('#user-water-by-day').text(hydration.returnFluidOzByDate(user.id, currentDate));
-$('#user-sleep-by-day').text(sleep.returnAmountSlept(user.id, currentDate));
-$('#user-sleep-quality-by-day').text(sleep.returnSleepQuality(user.id, currentDate));
-$('#user-sleep-by-week').text(sleep.returnSleepByWeek(user.id, currentDate));
-$('#user-sleep-quality-by-week').text(sleep.returnSleepQualityByWeek(user.id, currentDate));
-$('#user-average-sleep-quality').text(sleep.returnAverageSleepQuality(user.id));
-$('#user-average-hours-slept').text(sleep.returnAverageSleep(user.id));
+$('#user-water-by-day').text(hydration.returnDataByDate(user.id, currentDate, 'numOunces'));
+$('#user-sleep-by-day').text(sleep.returnDataByDate(user.id, currentDate, 'hoursSlept'));
+$('#user-sleep-quality-by-day').text(sleep.returnDataByDate(user.id, currentDate, 'sleepQuality'));
+$('#user-sleep-by-week').text(sleep.returnUserDataByWeek(user.id, currentDate, 'hoursSlept'));
+$('#user-sleep-quality-by-week').text(sleep.returnUserDataByWeek(user.id, currentDate, 'sleepQuality'));
+$('#user-average-sleep-quality').text(sleep.returnUserAvgAllTime(user.id, 'sleepQuality'));
+$('#user-average-hours-slept').text(sleep.returnUserAvgAllTime(user.id, 'hoursSlept'));
 $('#user-current-step-count').text(activity.returnActivityByDate(user.id, currentDate, 'numSteps'));
 $('#user-rested').text(displaySleepStatus());
 $('#user-current-mins-active').text(activity.returnActivityByDate(user.id, currentDate, 'minutesActive'));
@@ -86,7 +86,7 @@ function displaySleepStatus() {
 }
 
 function displayWaterStatus() {
-  let checkWater = hydration.returnDidUserDrinkEnoughWater(user.id, currentDate)
+  let checkWater = hydration.returnDidUserDrinkEnoughWater(user.id, currentDate, 'numOunces')
   if (checkWater === true) {
     $('#water-status').attr('src', '../images/glass-full.svg');
     $('#water-comment').text('Keep up the good work! You\'ve averaged more than 64 ounces per day this week');
@@ -148,7 +148,7 @@ var hydrationByWeek = new Chart(ctx, {
     labels: returnDatesOfWeek(user.id, currentDate),
     datasets: [{
       label: 'ounces',
-      data: hydration.returnFluidOzByWeek(user.id, currentDate),
+      data: hydration.returnUserDataByWeek(user.id, currentDate, 'numOunces'),
       backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
         'rgba(54, 162, 235, 0.2)',
@@ -190,7 +190,7 @@ var sleepQualityHrsByWeek = new Chart(ctx, {
     labels: returnDatesOfWeek(user.id, currentDate),
     datasets: [{
       label: 'hours',
-      data: sleep.returnSleepByWeek(user.id, currentDate),
+      data: sleep.returnUserDataByWeek(user.id, currentDate, 'hoursSlept'),
       backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
         'rgba(54, 162, 235, 0.2)',
@@ -213,7 +213,7 @@ var sleepQualityHrsByWeek = new Chart(ctx, {
     },
     {
       label: 'quality score',
-      data: sleep.returnSleepQualityByWeek(user.id, currentDate),
+      data: sleep.returnUserDataByWeek(user.id, currentDate, 'sleepQuality'),
       backgroundColor: [
         'rgb(221, 160, 221, 0.2)',
 
