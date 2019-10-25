@@ -1,29 +1,13 @@
-class Hydration {
-  constructor(hydrationData) {
-    this.hydrationData = hydrationData;
+import UserParent from '../src/user-parent.js';
+
+class Hydration extends UserParent{
+  constructor(userData, hydrationData) {
+    super(userData, hydrationData)
+    this.data = hydrationData;
   }
 
-  findCurrentUserData(userId) {
-    return this.hydrationData.filter((hydrationObj) => hydrationObj.userID === userId);
-  }
-
-  returnAvgFluidOzPerDayAllTime(userId) {
-    return this.findCurrentUserData(userId).reduce((totalOunces, hydrationObj) => {
-      return totalOunces += hydrationObj.numOunces;
-    }, 0);
-  }
-
-  returnFluidOzByDate(userId, date) {
-    return this.findCurrentUserData(userId).find((hydrationObj) => hydrationObj.date === date).numOunces;
-  }
-
-  returnFluidOzByWeek(userId, date) {
-    let index = this.findCurrentUserData(userId).findIndex((hydrationObj) => hydrationObj.date === date);
-    return this.findCurrentUserData(userId).map(hydrationObj => hydrationObj.numOunces).splice(index - 6, 7);
-  }
-
-  returnDidUserDrinkEnoughWater(userId, date) {
-    let waterDatas = this.returnFluidOzByWeek(userId, date);
+  returnDidUserDrinkEnoughWater(userId, date, key) {
+    let waterDatas = this.returnUserDataByWeek(userId, date, key);
     let avgWaterPerDay = (waterDatas.reduce((acc, day) => {
       acc += day;
       return acc;
@@ -33,6 +17,6 @@ class Hydration {
     }
     return false;
   }
-}
+};
 
 export default Hydration;
