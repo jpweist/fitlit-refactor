@@ -12,7 +12,7 @@ class UserParent {
   }
 
   returnUserDataByWeek(userId, date, key) {
-    let index = this.findCurrentUserData(userId, this.data).findIndex((dataObj) => dataObj.date === date);
+    let index = this.findCurrentUserData(userId, this.data).findIndex((dataObj) => dataObj.date === date);    
     return this.findCurrentUserData(userId, this.data).map(dataObj => dataObj[key]).splice(index - 6, 7);
   }
 

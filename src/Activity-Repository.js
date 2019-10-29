@@ -1,66 +1,45 @@
-class Activity {
-  constructor(activityData) {
-    this.activityData = activityData;
+import UserParent from '../src/user-parent.js';
+
+class Activity extends UserParent {
+  constructor(userData, activityData) {
+    super(userData, activityData)
+    this.data = activityData;
   }
 
-  findCurrentUserData(userId) {
-    return this.activityData.filter((activityObj) => activityObj.userID === userId);
-  }
-
-  findUserCurDate(date) {
-    return this.activityData.filter((activityObj) => activityObj.date === date);
-  }
-
-  returnUserAvgsByDate(date, key) {
-    let allUsersActivity = this.findUserCurDate(date);
-    let allUsersTotal = allUsersActivity.reduce((activityObjA, activityObjB) => activityObjA + activityObjB[key], 0);
-    return parseInt(allUsersTotal / allUsersActivity.length);
-  }
 
   returnMilesWalkedByDate(user, date) {
-    let numOfSteps = this.activityData.find(activityObj => activityObj.userID === user.id && activityObj.date === date).numSteps;
+    let numOfSteps = this.data.find(activityObj => activityObj.userID === user.id && activityObj.date === date).numSteps;
     return parseInt(((numOfSteps * user.strideLength) / 5280).toFixed(0));
   }
 
-  returnActivityByDate(userId, date, key) {
-    return this.findCurrentUserData(userId).find(elem => {
-      return elem.date === date
-    })[key];
-  }
-
   returnAvgActiveMinutesByWeek(userId, date) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    let userActiveMins = this.findCurrentUserData(userId).map(activityObj => activityObj.minutesActive).splice(index - 6, 7);
+    let index = this.findCurrentUserData(userId, this.data).findIndex((activityObj) => activityObj.date === date);
+    let userActiveMins = this.findCurrentUserData(userId, this.data).map(activityObj => activityObj.minutesActive).splice(index - 6, 7);
     return parseInt(userActiveMins.reduce((totalMins, dailyActiveMins) => {
       totalMins += dailyActiveMins;
       return totalMins;
     }, 0) / 7);
   }
 
-  returnUserActivityByWeek(userId, date, key) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
-  }
-
   checkStepGoalMetByDate(user, date) {
-    if ((user.dailyStepGoal) <= (this.findCurrentUserData(user.id).find(elem => elem.date === date).numSteps)) {
+    if ((user.dailyStepGoal) <= (this.findCurrentUserData(user.id, this.data).find(elem => elem.date === date).numSteps)) {
       return true;
     }
     return false;
   }
 
   returnAllDaysStepGoalExceeded(user) {
-    return this.activityData.filter((activityObj) => activityObj.userID === user.id && activityObj.numSteps > user.dailyStepGoal).map(activityObj => activityObj.date);
+    return this.data.filter((activityObj) => activityObj.userID === user.id && activityObj.numSteps > user.dailyStepGoal).map(activityObj => activityObj.date);
   }
 
   returnStairClimbingRecord(userId) {
-    return this.findCurrentUserData(userId).sort((value1, value2) => {
+    return this.findCurrentUserData(userId, this.data).sort((value1, value2) => {
       return value2.flightsOfStairs - value1.flightsOfStairs
     })[0].flightsOfStairs
   }
 
   checkUserActivityStatusByDate(userID, date) {
-    if ((this.findCurrentUserData(userID).find(day => {
+    if ((this.findCurrentUserData(userID, this.data).find(day => {
         return day.date === date;
       }).minutesActive) >= (90)) {
       return true;
@@ -69,7 +48,7 @@ class Activity {
   }
 
   returnThreeDayStepStreak(userID) {
-    let userData = this.findCurrentUserData(userID);
+    let userData = this.findCurrentUserData(userID, this.data);
     return userData.reduce((acc, day, index) => {
       if (index < 2) {
         return acc;
@@ -86,7 +65,7 @@ class Activity {
   }
 
   republicPlazaChallenge(userID) {
-    let userData = this.findCurrentUserData(userID);
+    let userData = this.findCurrentUserData(userID, this.data);
     return parseInt((userData.reduce((acc, day) => {
       acc += day.flightsOfStairs;
       return acc;

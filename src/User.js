@@ -1,5 +1,8 @@
-class User {
+import UserParent from '../src/user-parent.js';
+
+class User extends UserParent{
   constructor(userData) {
+    super(userData)
     this.id = userData.id;
     this.name = userData.name;
     this.address = userData.address;
