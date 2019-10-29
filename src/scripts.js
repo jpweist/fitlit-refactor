@@ -22,32 +22,32 @@ import UserParent from './user-parent';
 
 let user, userRepo, hydration, sleep, activity;
 let userData, sleepData, actData, hydData;
-let fetchCounter = 0;
+let getCounter = 0;
 
-function fetchHelper(ext, callback) {
+function getHelper(ext, callback) {
   fetch('https://fe-apps.herokuapp.com/api/v1/fitlit/1908/' + ext)
     .then(data => data.json())
     .then(data => {
       callback(data);
-      fetchCounter++;
-      fetchCheck();
+      getCounter++;
+      getCheck();
     })
 }
 
 function theInitializer() {
-  fetchHelper('users/userData', (data) => {
+  getHelper('users/userData', (data) => {
     userData = data.userData;
     user = new UserParent(userData);
     userRepo = new UserRepository(userData);
-    fetchHelper('sleep/sleepData', (sleepData) => {
+    getHelper('sleep/sleepData', (sleepData) => {
       sleepData = sleepData;
       sleep = new Sleep(userData, sleepData.sleepData);
     })
-    fetchHelper('activity/activityData', (actData) => {
+    getHelper('activity/activityData', (actData) => {
       actData = actData;
       activity = new Activity(actData.activityData);
     })
-    fetchHelper('hydration/hydrationData', (hydData) => {
+    getHelper('hydration/hydrationData', (hydData) => {
       hydData = hydData;
       hydration = new Hydration(userData, hydData.hydrationData);
     })
@@ -56,8 +56,8 @@ function theInitializer() {
 
 theInitializer();
 
-function fetchCheck() {
-  if (fetchCounter === 4) {
+function getCheck() {
+  if (getCounter === 4) {
     initDom();
   }
 }
