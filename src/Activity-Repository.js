@@ -1,31 +1,20 @@
-class Activity {
-  constructor(activityData) {
-    this.activityData = activityData;
+import UserParent from '../src/user-parent.js';
+
+class Activity extends UserParent {
+  constructor(userData, activityData) {
+    super(userData, activityData)
+    this.data = activityData;
   }
 
-  findCurrentUserData(userId) {
-    return this.activityData.filter((activityObj) => activityObj.userID === userId);
-  }
-
-  findUserCurDate(date) {
-    return this.activityData.filter((activityObj) => activityObj.date === date);
-  }
-
-  returnUserAvgsByDate(date, key) {
-    let allUsersActivity = this.findUserCurDate(date);
-    let allUsersTotal = allUsersActivity.reduce((activityObjA, activityObjB) => activityObjA + activityObjB[key], 0);
-    return parseInt(allUsersTotal / allUsersActivity.length);
-  }
 
   returnMilesWalkedByDate(user, date) {
-    let numOfSteps = this.activityData.find(activityObj => activityObj.userID === user.id && activityObj.date === date).numSteps;
+    let numOfSteps = this.data.find(activityObj => activityObj.userID === user.id && activityObj.date === date).numSteps;
     return parseInt(((numOfSteps * user.strideLength) / 5280).toFixed(0));
   }
 
-  returnActivityByDate(userId, date, key) {
-    return this.findCurrentUserData(userId).find(elem => {
-      return elem.date === date
-    })[key];
+  returnUserActivityByWeek(userId, date, key) {
+    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
+    return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
   }
 
   returnAvgActiveMinutesByWeek(userId, date) {
@@ -35,11 +24,6 @@ class Activity {
       totalMins += dailyActiveMins;
       return totalMins;
     }, 0) / 7);
-  }
-
-  returnUserActivityByWeek(userId, date, key) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
   }
 
   checkStepGoalMetByDate(user, date) {
@@ -69,7 +53,7 @@ class Activity {
   }
 
   returnThreeDayStepStreak(userID) {
-    let userData = this.findCurrentUserData(userID);
+    let userData = this.findCurrentUserData(userID, this.data);
     return userData.reduce((acc, day, index) => {
       if (index < 2) {
         return acc;
@@ -86,7 +70,7 @@ class Activity {
   }
 
   republicPlazaChallenge(userID) {
-    let userData = this.findCurrentUserData(userID);
+    let userData = this.findCurrentUserData(userID, this.data);
     return parseInt((userData.reduce((acc, day) => {
       acc += day.flightsOfStairs;
       return acc;
