@@ -12,14 +12,9 @@ class Activity extends UserParent {
     return parseInt(((numOfSteps * user.strideLength) / 5280).toFixed(0));
   }
 
-  returnUserActivityByWeek(userId, date, key) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    return this.findCurrentUserData(userId).map(activityObj => activityObj[key]).splice(index - 6, 7);
-  }
-
   returnAvgActiveMinutesByWeek(userId, date) {
-    let index = this.findCurrentUserData(userId).findIndex((activityObj) => activityObj.date === date);
-    let userActiveMins = this.findCurrentUserData(userId).map(activityObj => activityObj.minutesActive).splice(index - 6, 7);
+    let index = this.findCurrentUserData(userId, this.data).findIndex((activityObj) => activityObj.date === date);
+    let userActiveMins = this.findCurrentUserData(userId, this.data).map(activityObj => activityObj.minutesActive).splice(index - 6, 7);
     return parseInt(userActiveMins.reduce((totalMins, dailyActiveMins) => {
       totalMins += dailyActiveMins;
       return totalMins;
@@ -27,24 +22,24 @@ class Activity extends UserParent {
   }
 
   checkStepGoalMetByDate(user, date) {
-    if ((user.dailyStepGoal) <= (this.findCurrentUserData(user.id).find(elem => elem.date === date).numSteps)) {
+    if ((user.dailyStepGoal) <= (this.findCurrentUserData(user.id, this.data).find(elem => elem.date === date).numSteps)) {
       return true;
     }
     return false;
   }
 
   returnAllDaysStepGoalExceeded(user) {
-    return this.activityData.filter((activityObj) => activityObj.userID === user.id && activityObj.numSteps > user.dailyStepGoal).map(activityObj => activityObj.date);
+    return this.data.filter((activityObj) => activityObj.userID === user.id && activityObj.numSteps > user.dailyStepGoal).map(activityObj => activityObj.date);
   }
 
   returnStairClimbingRecord(userId) {
-    return this.findCurrentUserData(userId).sort((value1, value2) => {
+    return this.findCurrentUserData(userId, this.data).sort((value1, value2) => {
       return value2.flightsOfStairs - value1.flightsOfStairs
     })[0].flightsOfStairs
   }
 
   checkUserActivityStatusByDate(userID, date) {
-    if ((this.findCurrentUserData(userID).find(day => {
+    if ((this.findCurrentUserData(userID, this.data).find(day => {
         return day.date === date;
       }).minutesActive) >= (90)) {
       return true;
