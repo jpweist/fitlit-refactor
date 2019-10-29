@@ -6,6 +6,13 @@ $containerBorder: #afb9c5;
 $containerHover: #999999;
 $boxShadowContainer: #666666;
 
+@mixin startNumbers($fontSize) {
+  color: $mainColor;
+  font-size: $fontSize;
+  font-weight: bold;
+
+}
+
 * {
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
@@ -31,11 +38,11 @@ header {
     color: $mainTextColor;
     font-size: 1.25rem;
   }
+
   span {
     color: $mainColor;
   }
 }
-
 
 main {
   break-inside: avoid;
@@ -76,17 +83,15 @@ h2 {
   margin-bottom: 1.15rem;
   padding-bottom: 1.15rem;
   text-align: center;
+
   a {
     text-decoration: none;
     color: $mainTextColor;
-
-
   }
 }
 
 h3 {
   font-size: .9rem;
-
 }
 
 p {
@@ -122,9 +127,7 @@ img {
 
 .number,
 #user-water-by-day {
-  color: $mainColor;
-  font-size: 2.75rem;
-  font-weight: bold;
+  @include startNumbers(2.75rem);
   margin: .25rem;
   opacity: 0.8;
 }
@@ -134,16 +137,12 @@ img {
 }
 
 #winner-name {
-  color: $mainColor;
-  font-size: 1.15rem;
-  font-weight: bold;
+  @include startNumbers(1.15rem);
   text-align: center;
 }
 
 #republic-plaza-challenge {
-  color: $mainColor;
-  font-size: 2rem;
-  font-weight: bold;
+  @include startNumbers(2rem);
   padding-left: .15rem;
   padding-right: .15rem;
 }
