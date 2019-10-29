@@ -1,16 +1,15 @@
 import $ from 'jquery';
 
+import UserParent from './user-parent';
 import User from './User';
 import UserRepository from './User-repository';
 import Activity from './Activity-Repository';
 import Hydration from './Hydration-Repository';
 import Sleep from './Sleep-Repository';
 
-// An example of how you tell webpack to use a CSS (SCSS) file
 import './css/styles.scss';
 import variables from './css/styles.scss';
 
-// An example of how you tell webpack to use an image (also need to link to it in the index.html)
 import './images/building.svg'
 import './images/coffin.svg'
 import './images/ghost (1).svg'
@@ -18,7 +17,6 @@ import './images/ghost-happy.svg'
 import './images/ghost-sad.svg'
 import './images/glass-empty.svg'
 import './images/glass-full.svg'
-import UserParent from './user-parent';
 
 let user, userRepo, hydration, sleep, activity;
 let userData, sleepData, actData, hydData;
@@ -45,7 +43,7 @@ function theInitializer() {
     })
     getHelper('activity/activityData', (actData) => {
       actData = actData;
-      activity = new Activity(actData.activityData);
+      activity = new Activity(userData, actData.activityData);
     })
     getHelper('hydration/hydrationData', (hydData) => {
       hydData = hydData;
@@ -65,7 +63,6 @@ function getCheck() {
 function initDom() {
   const userIdNum = generateRandomUserId();
   const currentDate = '2019/06/30';
-
   const user = userRepo.returnUserData(userIdNum);
   const newUser = new User(user);
   const friendNames = returnFriendListNames();
@@ -86,19 +83,19 @@ function initDom() {
   $('#user-sleep-quality-by-week').text(sleep.returnUserDataByWeek(user.id, currentDate, 'sleepQuality'));
   $('#user-average-sleep-quality').text(sleep.returnUserAvgAllTime(user.id, 'sleepQuality'));
   $('#user-average-hours-slept').text(sleep.returnUserAvgAllTime(user.id, 'hoursSlept'));
-  $('#user-current-step-count').text(activity.returnActivityByDate(user.id, currentDate, 'numSteps'));
+  $('#user-current-step-count').text(activity.returnDataByDate(user.id, currentDate, 'numSteps'));
   $('#user-rested').text(displaySleepStatus());
-  $('#user-current-mins-active').text(activity.returnActivityByDate(user.id, currentDate, 'minutesActive'));
+  $('#user-current-mins-active').text(activity.returnDataByDate(user.id, currentDate, 'minutesActive'));
   $('#user-current-miles-walked').text(activity.returnMilesWalkedByDate(user, currentDate));
-  $('#user-current-step-count-vs-average').text(activity.returnActivityByDate(user.id, currentDate, 'numSteps'));
+  $('#user-current-step-count-vs-average').text(activity.returnDataByDate(user.id, currentDate, 'numSteps'));
   $('#all-users-average-step-count').text(activity.returnUserAvgsByDate(currentDate, 'numSteps'));
-  $('#user-current-stairs-climbed').text(activity.returnActivityByDate(user.id, currentDate, 'flightsOfStairs'));
+  $('#user-current-stairs-climbed').text(activity.returnDataByDate(user.id, currentDate, 'flightsOfStairs'));
   $('#all-users-average-stairs-climbed').text(activity.returnUserAvgsByDate(currentDate, 'flightsOfStairs'));
-  $('#user-current-active-mins').text(activity.returnActivityByDate(user.id, currentDate, 'minutesActive'));
+  $('#user-current-active-mins').text(activity.returnDataByDate(user.id, currentDate, 'minutesActive'));
   $('#all-users-average-active-mins').text(activity.returnUserAvgsByDate(currentDate, 'minutesActive'));
-  $('#user-step-count-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'))
-  $('#user-stairs-climbed-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'))
-  $('#user-mins-active-by-week').text(activity.returnUserActivityByWeek(user.id, currentDate, 'minutesActive'))
+  $('#user-step-count-by-week').text(activity.returnUserDataByWeek(user.id, currentDate, 'numSteps'))
+  $('#user-stairs-climbed-by-week').text(activity.returnUserDataByWeek(user.id, currentDate, 'flightsOfStairs'))
+  $('#user-mins-active-by-week').text(activity.returnUserDataByWeek(user.id, currentDate, 'minutesActive'))
   $('#winner-name').text(returnFriendChallengeWinner(friendNames))
   $('#user-water-trend-week').text(displayWaterStatus());
   $('#republic-plaza-challenge').text(activity.republicPlazaChallenge(user.id))
@@ -132,11 +129,11 @@ function initDom() {
 
   function populateFriends(userFriends) {
     let friends = userFriends.map(friend => {
-      let userFriend = new User(userRepo.returnUserData(friend))
+      let userFriend = new User(userRepo.returnUserData(friend));
       return ({
         id: userFriend.id,
         name: userFriend.returnUserFirstName(),
-        steps: (activity.returnUserActivityByWeek(userFriend.id, currentDate, 'numSteps')).reduce((acc, day) => acc += day)
+        steps: (activity.returnUserDataByWeek(userFriend.id, currentDate, 'numSteps')).reduce((acc, day) => acc += day)
       })
     });
     friends.push(populateUserDataForFriendChallenge());
@@ -147,7 +144,7 @@ function initDom() {
     return {
       id: user.id,
       name: newUser.returnUserFirstName(),
-      steps: activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps')
+      steps: activity.returnUserDataByWeek(user.id, currentDate, 'numSteps')
         .reduce((acc, day) => acc += day)
     }
   }
@@ -170,7 +167,7 @@ function initDom() {
   }
 
   function returnDatesOfWeek(userId, date) {
-    let userData = activity.findCurrentUserData(userId);
+    let userInfo = newUser.findCurrentUserData(userId, userData);
     let index = userData.findIndex((data) => data.date === date);
     return userData.splice(index - 6, 7).map(day => day.date);
   }
@@ -285,7 +282,7 @@ function initDom() {
       labels: returnDatesOfWeek(user.id, currentDate),
       datasets: [{
         label: 'steps',
-        data: activity.returnUserActivityByWeek(user.id, currentDate, 'numSteps'),
+        data: activity.returnUserDataByWeek(user.id, currentDate, 'numSteps'),
         backgroundColor: [
           'rgba(221, 160, 221, 0.2)',
         ],
@@ -320,7 +317,7 @@ function initDom() {
       labels: returnDatesOfWeek(user.id, currentDate),
       datasets: [{
         label: 'active minutes',
-        data: activity.returnUserActivityByWeek(user.id, currentDate, 'minutesActive'),
+        data: activity.returnUserDataByWeek(user.id, currentDate, 'minutesActive'),
         backgroundColor: [
           'rgb(221, 160, 221, 0.2)',
         ],
@@ -355,7 +352,7 @@ function initDom() {
       labels: returnDatesOfWeek(user.id, currentDate),
       datasets: [{
         label: 'stairs climbed',
-        data: activity.returnUserActivityByWeek(user.id, currentDate, 'flightsOfStairs'),
+        data: activity.returnUserDataByWeek(user.id, currentDate, 'flightsOfStairs'),
         backgroundColor: [
           'rgb(221, 160, 221, 0.2)',
         ],

@@ -7,13 +7,16 @@ import Hydration from '../src/Hydration-Repository.js';
 import hydrationTestData from '../test-data/hydration-test-data.js';
 import Sleep from '../src/Sleep-Repository';
 import sleepTestData from '../test-data/sleep-test-data.js';
+import Activity from '../src/Activity-Repository.js';
+import activityTestData from '../test-data/activity-test-data.js';
 
 describe('UserParent', () => {
-  let userParent, hydration, sleep;
+  let userParent, hydration, sleep, activity;
   beforeEach(() => {
     userParent = new UserParent(userTestData);
     hydration = new Hydration(userTestData, hydrationTestData)
     sleep = new Sleep(userTestData, sleepTestData)
+    activity = new Activity(userTestData, activityTestData)
   });
 
   it('should be an instance of UserParent', () => {
