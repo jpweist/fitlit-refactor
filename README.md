@@ -1,10 +1,10 @@
-# FitLit
-## Created by Elyse Myers & Michael Schneider
+# FitLit (Refactor-Tractor)
+## Refactored by Andrew Kinstler & Jim Weist
 ### View our live GitHub Pages!
-### https://ec-myers.github.io/fitlit/src/index.html
+### url
 
 ## Summary
-FitLit is the second project of Module 2 at the Turing School of Software & Design. FitLit is an application that aggregates and displays fitness data for a given user profile. The dataset for this application contains information for each user regarding hydration, activity and sleep. Key information for each of these categories is shown on browser
+Refactor-Tractor is the FitLit project that needs to be refactored from another students project, communicate via PR requests and slack. FitLit is an application that aggregates and displays fitness data for a given user profile. The dataset for this application contains information for each user regarding hydration, activity and sleep. Key information for each of these categories is shown on browser. Parent classes were added to the refactor along with Sass.
 
 This project focuses on data manipulation through the implementation of object and array prototype methods, as well as implementation of a robust testing suite using test driven development(TDD).
 
@@ -16,6 +16,7 @@ This project focuses on data manipulation through the implementation of object a
 - Mocha and Chai testing suite
 
 ## Screenshots
-![ScreenShot 1](images/screenshot1.png)
-![ScreenShot 2](images/screenshot2.png)
-![Testing ScreenShot](images/testingScreenShot.png)
+![ScreenShot](images/activity-tracker.png)
+
+
+- Original code by Elyse Myers & Michael Schneider
