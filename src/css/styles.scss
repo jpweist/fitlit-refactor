@@ -147,3 +147,26 @@ img {
   padding-left: .15rem;
   padding-right: .15rem;
 }
+@media (max-width: 800px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 1.15rem;
+  }
+  header p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 420px) {
+  h1 {
+    font-size: 1rem;
+  }
+  header p {
+    font-size: .9rem;
+  }
+}
