@@ -169,7 +169,11 @@ function initDom() {
   function returnDatesOfWeek(userId, date) {
     let userInfo = newUser.findCurrentUserData(userId, userData);
     let index = userData.findIndex((data) => data.date === date);
-    return userData.splice(index - 6, 7).map(day => day.date);
+    return userData.splice(index - 6, 7).map(day => {
+      day.date
+      console.log('day', day, 'day.date', day.date)
+
+    });
   }
 
   Chart.defaults.global.defaultFontColor = 'white';
@@ -279,7 +283,7 @@ function initDom() {
   var stepsByWeek = new Chart(ctx, {
     type: 'line',
     data: {
-      labels: returnDatesOfWeek(user.id, currentDate),
+      labels: [returnDatesOfWeek(user.id, currentDate)],
       datasets: [{
         label: 'steps',
         data: activity.returnUserDataByWeek(user.id, currentDate, 'numSteps'),
